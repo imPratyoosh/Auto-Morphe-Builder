@@ -1,4 +1,4 @@
-import os
+import os  # noqa: I001
 import re
 import shutil
 import signal
@@ -8,16 +8,7 @@ from copy import replace
 from pathlib import Path
 
 from src.core.builder import run_build
-from src.core.config import (
-    BUILD_DIR,
-    CONFIG_PATH,
-    TEMP_DIR,
-    VALID_ARCHES,
-    AppEntry,
-    load_toml,
-    parse_app_entries,
-    parse_config,
-)
+from src.core.config import BUILD_DIR, CONFIG_PATH, TEMP_DIR, VALID_ARCHES, AppEntry, load_toml, parse_app_entries, parse_config
 from src.core.gh_utils import check_builds_needed, combine_logs, get_matrix
 from src.core.logger import IS_GITHUB, abort, epr, pr
 from src.core.network import NetworkManager
