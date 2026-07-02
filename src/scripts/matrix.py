@@ -53,12 +53,15 @@ def get_matrix(source: str) -> None:
     filter_changelog = os.getenv("FILTER_CHANGELOG", "false").lower() == "true"
     patches_source = ""
     has_changelog_keywords = False
+    is_prerelease = False
     staged: list = []
     for entry in _load_entries():
         if not entry.enabled or entry.brand.lower() != source_lower:
             continue
         if not patches_source:
             patches_source = next(iter(entry.patches), "")
+        if any(spec["version"] == "dev" for spec in entry.patches.values()):
+            is_prerelease = True
         if entry.changelog_keywords:
             has_changelog_keywords = True
         staged.append(entry)
@@ -87,7 +90,7 @@ def get_matrix(source: str) -> None:
 
     if not include:
         abort(f"No apps found for patch source '{source}'")
-    print(json.dumps({"include": include}, ensure_ascii=False))
+    print(json.dumps({"include": include, "prerelease": is_prerelease}, ensure_ascii=False))
 
 def check_builds_needed(force_all: bool = False) -> None:
     seen: dict[str, str] = {}
@@ -147,14 +150,6 @@ def check_builds_needed(force_all: bool = False) -> None:
                     brands_to_build.append(brand)
     print(json.dumps(brands_to_build))
 
-def check_prerelease(source: str) -> None:
-    source_lower = source.lower()
-    for entry in _load_entries():
-        if entry.enabled and entry.brand.lower() == source_lower and any(spec.get("version") == "dev" for spec in entry.patches.values()):
-            print("true")
-            return
-    print("false")
-
 def main() -> None:
     _require_ci("matrix.py")
     match sys.argv[1:]:
@@ -164,10 +159,8 @@ def main() -> None:
             check_builds_needed(force_all=True)
         case ["get-matrix", source]:
             get_matrix(source)
-        case ["is-prerelease", source]:
-            check_prerelease(source)
         case _:
-            abort("Usage: matrix.py get-matrix [source] | get-matrix-force | is-prerelease [source]")
+            abort("Usage: matrix.py get-matrix [source] | get-matrix-force")
 
 if __name__ == "__main__":
     main()
