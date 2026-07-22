@@ -1,88 +1,426 @@
-<div align="center">
-<a href="#-features"><img src="https://readme-typing-svg.demolab.com/?font=Google+Sans&size=25&pause=1000&color=4500FF&center=true&vCenter=true&random=false&width=550&lines=%F0%9F%93%A6+Pre-built+APKs+from+various+patch+sources"></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=header" width="100%" alt="Top Wave" />
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/krvstek/uni-apks/ci.yml?style=flat-square&logo=githubactions&logoColor=%23FFFFFF&label=Build%20Status&color=%234500FF)](https://github.com/krvstek/uni-apks/actions/workflows/ci.yml)   [![Python 3.13](https://img.shields.io/badge/Python-3.13+-4500FF?style=flat-square&logo=python&logoColor=%23FFFFFF)](https://www.python.org/downloads/)   [![Telegram](https://img.shields.io/badge/Telegram-Channel-4500FF?style=flat-square&logo=telegram&logoColor=%23FFFFFF)](https://t.me/uni_apks)
-<br>
-[![Downloads](https://img.shields.io/github/downloads/krvstek/uni-apks/total?style=flat-square&logo=simpleanalytics&logoColor=%23FFFFFF&label=Downloads&color=%234500FF)](https://github.com/krvstek/uni-apks#-list-of-apps-in-this-repository)   [![Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks&label=Views&icon=eye-fill&color=%234500ff&message=&style=flat-square&tz=Europe%2FWarsaw)](https://github.com/krvstek/uni-apks#-list-of-apps-in-this-repository)
-<br>
+# 🧑‍💻 Auto Morphe Builder by Pratyoosh
 
-Here you can download and use applications selected for this repository, which are enhanced with many functionalities that will certainly be useful to you.
-</div>
+Welcome to the **Advanced Morphe Builder**. This repository provides ready-to-install, pre-patched Android applications using [Morphe](https://morphe.software/). All APKs are automatically downloaded, patched, released and kept up-to-date via GitHub Actions to ensure a seamless experience.
 
-## 🔥 Features
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 
-- 🛑 **Ad-blocking:** blocks all types of ads (who needs them anyway?).
-- 🚀 **Enhanced features:** squeezes more out of the app.
-- ⭐ **Customization:** personalize the app to fit your needs.
-- 💉 **Optimization:** optimized APKs for performance and size.
-- 🔒 **Persistent:** patched app won't be updated or overwritten by Play Store.
-- 🔄 **Auto-updates:** supports automatic updates through [Obtainium](https://github.com/ImranR98/Obtainium) using individual configs (see app list below).
-- ✨ **And much more!**
+## 📱 Available Apps
 
-## 📋 List of apps in this repository
+Click on an app below to view applied patches & other informations.
 
 <details>
-<summary>🧩 <a href="https://github.com/MorpheApp/morphe-patches"><code>Morphe</code></a> • <a href="https://github.com/krvstek/uni-apks/releases?q=-morphe&expanded=true"><img src="https://img.shields.io/badge/All-Releases-4500FF?style=flat-square&logo=android&logoColor=%23FFFFFF" alt="Static Badge" align="absmiddle"></summary>
-<br>
+<summary><b>1. Gboard</b></summary>
 
-| 📦 Name | 💎 Obtainium |
-|:-------:|:------------:|
-| [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=%23FFFFFF)](https://play.google.com/store/apps/details?id=com.google.android.youtube) | [![Obtainium](https://img.shields.io/badge/Import-Config-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][yt-morphe]<br>[![Obtainium](https://img.shields.io/badge/Import%20Config-(Experimental)-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][yt-exp-morphe] |
-| [![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=flat-square&logo=youtubemusic&logoColor=%23FFFFFF)](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) | [![Obtainium](https://img.shields.io/badge/Import-Config-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][music-morphe]<br>[![Obtainium](https://img.shields.io/badge/Import%20Config-(Experimental)-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][music-exp-morphe] |
-| [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=%23FFFFFF)](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | [![Obtainium](https://img.shields.io/badge/Import-Config-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][reddit-morphe]<br>[![Obtainium](https://img.shields.io/badge/Import%20Config-(Experimental)-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][reddit-exp-morphe] |
+* **App Version:** `17.0.10.880768217-release-arm64-v8a`
+* **Patch Bundles:** `jasonwu1994/Gboard-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.14.0., 1.3.0`
+
+* **Applied Patches (26):**
+  * `AI Writing Tools`
+  * `Add Gboard Signature Bypass`
+  * `Chinese Online Voice Input`
+  * `Clipboard Enhancements`
+  * `Clipboard Entity Extraction`
+  * `Clipboard Item Edit`
+  * `Custom Symbols`
+  * `Emojis, stickers & GIFs Tab Order`
+  * `Enable Inline Autofill Suggestions`
+  * `Enable OCR feature`
+  * `Enable Undo/Redo feature`
+  * `Enable access points menu redesign`
+  * `Enable clipboard in incognito`
+  * `Enable voice typing in incognito`
+  * `English QWERTY Up-Flick Uppercase`
+  * `Grammar Checker`
+  * `Inline Suggestions`
+  * `Key Shape Selection`
+  * `Latin Globe Key Ignore Interval`
+  * `Package Rename`
+  * `Settings Homepage Override`
+  * `Swipeable Custom Top Row`
+  * `Web Clipboard`
+  * `Zhuyin Bottom Row Key Sizes`
+  * `Zhuyin Quick Traditional/Simplified Toggle`
+  * `Zhuyin Slide Input`
+
+* **Excluded Patches (1):**
+  * `Always-incognito mode`
 </details>
 
 <details>
-<summary>🧩 <a href="https://github.com/crimera/piko"><code>Piko</code></a> • <a href="https://github.com/krvstek/uni-apks/releases?q=-piko&expanded=true"><img src="https://img.shields.io/badge/All-Releases-4500FF?style=flat-square&logo=android&logoColor=%23FFFFFF" alt="Static Badge" align="absmiddle"></summary>
-<br>
+<summary><b>2. Instagram</b></summary>
 
-| 📦 Name | 💎 Obtainium |
-|:-------:|:------------:|
-| [![X / Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=%23FFFFFF)](https://play.google.com/store/apps/details?id=com.twitter.android) | [![Obtainium](https://img.shields.io/badge/Import%20Config-(X%20branding)-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][x-piko]<br>[![Obtainium](https://img.shields.io/badge/Import%20Config-(Twitter%20branding)-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][twitter-piko] |
-| [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=%23FFFFFF)](https://play.google.com/store/apps/details?id=com.instagram.android) | [![Obtainium](https://img.shields.io/badge/Import-Config-4500FF?style=flat-square&logo=obtainium&logoColor=%23FFFFFF)][instagram-piko] |
+* **App Version:** `435.0.0.37.76`
+* **Patch Bundles:** `crimera/piko`
+* **Patches Version:** `3.8.0`
+
+* **Applied Patches (53):**
+  * `Add settings`
+  * `Allow user network certificate`
+  * `Amoled theme`
+  * `Change like animation`
+  * `Clone`
+  * `Copy comment`
+  * `Customise story ring size`
+  * `Customise story timestamp`
+  * `Disable Reels scrolling`
+  * `Disable ads`
+  * `Disable analytics`
+  * `Disable comments`
+  * `Disable discover people`
+  * `Disable double tap like`
+  * `Disable explore`
+  * `Disable highlights`
+  * `Disable screenshot detection`
+  * `Disable stories`
+  * `Disable story flipping`
+  * `Disable swipe to create`
+  * `Disable typing status`
+  * `Disable video autoplay`
+  * `Download media`
+  * `Download voice message`
+  * `External downloader`
+  * `Filter stories`
+  * `Friendship status indicator`
+  * `Hide group creation button on sharesheet`
+  * `Hide navigation buttons`
+  * `Hide notes tray`
+  * `Hide reshare button`
+  * `Hide stories tray`
+  * `Hide suggested content`
+  * `Improve image viewing`
+  * `Limit feed to following profiles`
+  * `Make ephemeral media permanent`
+  * `Mark chat as read manually`
+  * `More options on post`
+  * `More options on profile`
+  * `Open links externally`
+  * `Remove build expired popup`
+  * `Remove empty bottom space`
+  * `Sanitize share links`
+  * `Save media comment`
+  * `Stories audio autoplay`
+  * `Unlock Plus benefits`
+  * `Unlock developer options`
+  * `Unlock employee options`
+  * `Validate links`
+  * `View DMs anonymously`
+  * `View live anonymously`
+  * `View stories anonymously`
+  * `View story mentions`
+
+* **Excluded Patches (1):**
+  * `Change version code`
 </details>
 
-## 🔐 Verifying Authenticity
+<details>
+<summary><b>3. Niagara-Launcher</b></summary>
 
-To ensure that the APK files you download are genuinely compiled by this project and haven't been tampered with, you can verify the APK's certificate fingerprint. All official releases share the following SHA-256 fingerprint:
-```text
-1894fee4df44d1823f3666db4743566d043dd72cbc13566433c1908270a4be10
-```
+* **App Version:** `1.16.15`
+* **Patch Bundles:** `hoo-dles/morphe-patches, MorpheApp/morphe-patches`
+* **Patches Version:** `1.40.0, 1.35.0.`
 
-## 📚 Documentation & Contributing
+* **Applied Patches (3):**
+  * `Disable Play Store updates`
+  * `Enable Niagara Pro`
+  * `Hide app icon`
+</details>
 
-For full configuration reference, setup and contributing guide, see [CONTRIBUTING.md](CONTRIBUTING.md).
+<details>
+<summary><b>4. Pinterest</b></summary>
 
-## ⚖️ License & Copyright
+* **App Version:** `14.24.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, browzomje/browzomje-patches`
+* **Patches Version:** `1.35.0., 1.3.2.`
 
-**Copyright (C) 2026 krvstek**
+* **Applied Patches (6):**
+  * `Copy direct link`
+  * `Disable Play Store updates`
+  * `Disable ads`
+  * `Download video`
+  * `Neutralize advertising ID`
+  * `Set pin as wallpaper`
+</details>
 
-This project is open-source and distributed under the **GNU GPLv3** license. You are free to use, modify, and redistribute this software, but you **must** keep the original copyright notices intact.
+<details>
+<summary><b>5. Reddit</b></summary>
 
-- 📄 **Full license:** See the [LICENSE](LICENSE) file.
-- 👥 **Contributors:** See the [AUTHORS](AUTHORS) file for the full list of copyright holders.
-- 🎨 **Assets:** Base icon designs by [kazimmt](https://github.com/kazimmt). Modified for this project. See [icons/README.md](icons/README.md) for details.
-- 🔗 **Canonical source:** [github.com/krvstek/uni-apks](https://github.com/krvstek/uni-apks)
+* **App Version:** `2026.29.0`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.3.0, 1.35.0.`
 
-## ⚠️ Disclaimer
+* **Applied Patches (19):**
+  * `Colorize comment indent lines`
+  * `Disable home feed auto-refresh`
+  * `Disable home screen redirect`
+  * `Disable modern home`
+  * `Disable screenshot popup`
+  * `Hide Ask button`
+  * `Hide Trending shelves`
+  * `Hide ads`
+  * `Hide awards`
+  * `Hide communities shelf`
+  * `Hide community menu badge`
+  * `Hide navigation buttons`
+  * `Hide sidebar components`
+  * `Open links directly`
+  * `Open links externally`
+  * `Remove subreddit dialog`
+  * `Sanitize sharing links`
+  * `Show view count`
+  * `Spoof signature`
 
-- This project is **not affiliated with any patch creators mentioned here**, and is intended for educational & personal use only.
-- All builds are done using **publicly available tools**. This repository simply automates the process for convenience.
-- Everything happens through the **public GitHub Actions** to ensure security and transparency. For maximum security, you can always build the applications yourself using the provided source code or official methods.
-- The build code is a **complete Python rewrite** based on an adaptation that was first implemented by *[j-hc](https://github.com/j-hc)*. All credits go to him for laying down the initial foundation.
-- This repository only provides pre-built APKs. If a build fails due to upstream app or patch changes, please report it to the patch creators or wait for an update.
+* **Excluded Patches (5):**
+  * `Disable screenshot banner`
+  * `Hide post view counts`
+  * `Open external links directly`
+  * `Remove ads and telemetry`
+  * `Sanitize share links`
+</details>
 
----
+<details>
+<summary><b>6. X</b></summary>
 
-<p align="center"><i>Maintained with ❤️ by <a href="https://github.com/krvstek">krvstek</a></i></p>
+* **App Version:** `12.7.1-release.0`
+* **Patch Bundles:** `crimera/piko`
+* **Patches Version:** `3.8.0`
 
-<!-- Obtainium links -->
-[yt-morphe]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22YouTube%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-morphe%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22YouTube%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-morphe-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22YouTube%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22github-creds%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[yt-exp-morphe]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22YouTube%20Experimental%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-morphe%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22YouTube%20Experimental%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-experimental-morphe-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22YouTube%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22github-creds%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[music-morphe]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22YouTube%20Music%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-morphe%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22Music%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22music-morphe-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22YouTube%20Music%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22github-creds%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[music-exp-morphe]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22YouTube%20Music%20Experimental%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-morphe%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22Music%20Experimental%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22music-experimental-morphe-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22YouTube%20Music%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22github-creds%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[reddit-morphe]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.reddit.frontpage%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22Reddit%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-morphe%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22Reddit%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22reddit-morphe-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Reddit%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22github-creds%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[reddit-exp-morphe]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.reddit.frontpage%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22Reddit%20Experimental%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-morphe%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22Reddit%20Experimental%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22reddit-experimental-morphe-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Reddit%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22github-creds%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[x-piko]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.twitter.android%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22X%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-piko%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22X%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22x-piko-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22X%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[twitter-piko]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.twitter.android%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22Twitter%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-piko%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22Twitter%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22twitter-piko-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Twitter%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
-[instagram-piko]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22com.instagram.android%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fkrvstek%2Funi-apks%22%2C%22author%22%3A%22krvstek%22%2C%22name%22%3A%22Instagram%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22-piko%24%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22Instagram%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22instagram-piko-v%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Instagram%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3A%22GitHub%22%7D
+* **Applied Patches (70):**
+  * `Add ability to copy media link`
+  * `Block redirecting to X Lite`
+  * `Change app icon`
+  * `Change version code`
+  * `Clear tracking params`
+  * `Control video auto scroll`
+  * `Custom download folder`
+  * `Custom emoji font`
+  * `Custom font`
+  * `Custom share menu`
+  * `Custom sharing domain`
+  * `Customise post font size`
+  * `Customize Inline action Bar items`
+  * `Customize Navigation Bar items`
+  * `Customize default reply sorting`
+  * `Customize explore tabs`
+  * `Customize notification tabs`
+  * `Customize profile tabs`
+  * `Customize search suggestions`
+  * `Customize search tab items`
+  * `Customize side bar items`
+  * `Customize timeline top bar`
+  * `Delete from database`
+  * `Disable auto timeline scroll on launch`
+  * `Disable chirp font`
+  * `Download patch`
+  * `Enable PiP mode automatically`
+  * `Enable Undo Posts`
+  * `Enable debug menu for posts`
+  * `Enable force HD videos`
+  * `Force enable translate`
+  * `Handle custom twitter links`
+  * `Hide Banner`
+  * `Hide Community Notes`
+  * `Hide FAB`
+  * `Hide FAB Menu Buttons`
+  * `Hide Live Threads`
+  * `Hide Recommended Users`
+  * `Hide badges from navigation bar icons`
+  * `Hide bookmark icon in timeline`
+  * `Hide community badges`
+  * `Hide followed by context`
+  * `Hide hidden replies`
+  * `Hide immersive player`
+  * `Hide nudge button`
+  * `Hide post metrics`
+  * `Hide promote button`
+  * `Hide recommendation items`
+  * `Hook feature flag`
+  * `Import/Export login token`
+  * `Legacy share links`
+  * `Log server response`
+  * `More information on profile`
+  * `Native downloader`
+  * `Native reader mode`
+  * `Native translator`
+  * `No shortened URL`
+  * `Pause search suggestions`
+  * `Remove Ads`
+  * `Remove premium upsell`
+  * `Remove search suggestions`
+  * `Remove view count`
+  * `Round off numbers`
+  * `Selectable Text`
+  * `Share Tweet as Image`
+  * `Show changelogs`
+  * `Show poll results`
+  * `Show post source label`
+  * `Show sensitive media`
+  * `Support external downloader`
+</details>
+
+<details>
+<summary><b>7. YT-Music</b></summary>
+
+* **App Version:** `9.28.51`
+* **Patch Bundles:** `MorpheApp/morphe-patches`
+* **Patches Version:** `1.36.0`
+
+* **Applied Patches (35):**
+  * `Bypass certificate checks`
+  * `Change header`
+  * `Change miniplayer color`
+  * `Change start page`
+  * `Check watch history domain name resolution`
+  * `Crossfade`
+  * `Disable DRC audio`
+  * `Disable QUIC protocol`
+  * `Disable dislike redirection`
+  * `Downloads`
+  * `Enable exclusive audio playback`
+  * `Enable forced miniplayer`
+  * `Enable swipe to dismiss miniplayer`
+  * `Force original audio`
+  * `GmsCore support`
+  * `Hide ads`
+  * `Hide buttons`
+  * `Hide filter bar`
+  * `Hide flyout menu components`
+  * `Hide layout components`
+  * `Hide music action buttons`
+  * `Miniplayer previous and next buttons`
+  * `Navigation bar`
+  * `Network proxy`
+  * `Remember repeat state`
+  * `Remember shuffle state`
+  * `Remove background playback restrictions`
+  * `Return YouTube Dislike`
+  * `Sanitize sharing links`
+  * `Scrobbling`
+  * `Settings menu filter`
+  * `SponsorBlock`
+  * `Spoof app version`
+  * `Spoof video streams`
+  * `Theme`
+
+* **Excluded Patches (3):**
+  * `Custom branding`
+  * `Disable Play Store updates`
+  * `Enable debugging`
+</details>
+
+<details>
+<summary><b>8. YouTube</b></summary>
+
+* **App Version:** `21.26.360`
+* **Patch Bundles:** `MorpheApp/morphe-patches`
+* **Patches Version:** `1.35.0.`
+
+* **Applied Patches (70):**
+  * `Add to queue`
+  * `Alternative thumbnails`
+  * `Ambient mode`
+  * `Bypass image region restrictions`
+  * `Bypass link redirects`
+  * `Captions`
+  * `Change form factor`
+  * `Change header`
+  * `Change start page`
+  * `Check watch history domain name resolution`
+  * `Copy video link`
+  * `Custom player overlay opacity`
+  * `Disable DRC audio`
+  * `Disable QUIC protocol`
+  * `Disable Shorts resuming on startup`
+  * `Disable double tap actions`
+  * `Disable fullscreen gestures`
+  * `Disable haptic feedback`
+  * `Disable layout updates`
+  * `Disable player popup panels`
+  * `Disable rolling number animations`
+  * `Disable sign in to TV popup`
+  * `Disable video codecs`
+  * `Double tap to seek`
+  * `Downloads`
+  * `Exit fullscreen mode`
+  * `Force original audio`
+  * `GmsCore support`
+  * `Hide Shorts components`
+  * `Hide ads`
+  * `Hide autoplay preview`
+  * `Hide end screen cards`
+  * `Hide end screen suggested video`
+  * `Hide info cards`
+  * `Hide layout components`
+  * `Hide player flyout menu components`
+  * `Hide player overlay buttons`
+  * `Hide related video overlay`
+  * `Hide related videos`
+  * `Hide timestamp`
+  * `Hide video action buttons`
+  * `Loop video`
+  * `Media notification controls`
+  * `Miniplayer`
+  * `Navigation bar`
+  * `Network proxy`
+  * `Open Shorts in regular player`
+  * `Open channel of live avatar`
+  * `Open links externally`
+  * `Open system share sheet`
+  * `Open videos fullscreen`
+  * `Override YouTube Music buttons`
+  * `Play all`
+  * `Playback speed`
+  * `Reload video`
+  * `Remove background playback restrictions`
+  * `Remove viewer discretion dialog`
+  * `Return YouTube Dislike`
+  * `Sanitize sharing links`
+  * `Save to watch later`
+  * `Seekbar`
+  * `Shorts autoplay`
+  * `SponsorBlock`
+  * `Spoof app version`
+  * `Spoof device dimensions`
+  * `Spoof video streams`
+  * `Swipe controls`
+  * `Theme`
+  * `Video quality`
+  * `Voice over translation`
+
+* **Excluded Patches (3):**
+  * `Custom branding`
+  * `Disable Play Store updates`
+  * `Enable debugging`
+</details>
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+
+## 📥 Installation Guide
+
+1. **Download the APK:** Navigate to the [Releases](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases/tags) page and download your desired app `.apk` files.
+2. **Install MicroG:** If you are installing patched versions of YouTube or YouTube Music, [MicroG](https://github.com/MorpheApp/MicroG-RE/releases/latest) is required for account login functionality.
+3. **Install the App:** Open the downloaded `.apk` file and proceed with the installation. 
+   > *Note: You may need to enable **"Install from unknown sources"** in your Android device settings.*
+4. **Enjoy:** Launch the application, log in (if applicable), and customize your Morphe settings (if available) directly inside the app.
+ 
++ **Updating via Obtainium:** If you want to install updates via [Obtainum](https://obtainium.imranr.dev/), go to [Obtainium.md](https://github.com/imPratyoosh/Auto-Morphe-Builder/blob/main/OBTAINIUM.md)
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+
+## 🤝 Credits & Acknowledgements
+
+This project builds upon the hard work of the open-source community.
+
+* This project is a fork of [krvstek/uni-apks](https://github.com/krvstek/uni-apks)
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
+
+## ⚠️ Important Notice
+
+* **Disclaimer:** This project is independent and is neither affiliated with nor endorsed by Morphe.
+* **DIY Building:** If you prefer to build and patch the applications yourself, please visit the [Official Morphe Website](https://morphe.software/).
+* **Repository Scope:** This repository does not host every application that can be patched using Morphe. It only includes the apps that I personally use.
+* **Support:** If you encounter any bugs or issues with these specific builds, you can [report them here](https://github.com/imPratyoosh/Auto-Morphe-Builder/issues).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" alt="Bottom Wave" />
