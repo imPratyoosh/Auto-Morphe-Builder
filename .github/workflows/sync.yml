@@ -36,10 +36,10 @@ jobs:
             UPSTREAM_URL=$(gh api repos/${{ github.repository }} -q '.parent.html_url // empty')
           fi
           
-          if [ -z "$UPSTREAM_URL" ]; then
+          if [ -z "$UPSTREAM_URL" ] || [ "$UPSTREAM_URL" == "empty" ]; then
             echo "::error title=Sync Failed::No upstream repository defined or found."
             exit 1
-          }
+          fi
 
           git remote add upstream "$UPSTREAM_URL"
           git fetch --no-tags upstream refs/heads/main:refs/remotes/upstream/main
@@ -72,4 +72,4 @@ jobs:
           fi
 
           echo "::notice title=Sync upstream::Successfully synced with upstream."
-
+          
