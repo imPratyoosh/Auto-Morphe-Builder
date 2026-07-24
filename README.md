@@ -6,6 +6,8 @@ Welcome to the **Advanced Morphe Builder**. This repository provides ready-to-in
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 
+<a href="https://t.me/PratyooshHub"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="35" alt="Telegram"></a><br>
+
 ## 📱 Available Apps
 
 Click on an app below to view applied patches & other informations.
@@ -14,8 +16,8 @@ Click on an app below to view applied patches & other informations.
 <summary><b>1. Gboard</b></summary>
 
 * **App Version:** `17.0.10.880768217-release-arm64-v8a`
-* **Patch Bundles:** `jasonwu1994/Gboard-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.14.0., 1.3.0`
+* **Patch Bundles:** `jkennethcarino/adobo, jasonwu1994/Gboard-patches`
+* **Patches Version:** `1.3.0, 1.14.0.`
 
 * **Applied Patches (26):**
   * `AI Writing Tools`
@@ -50,7 +52,20 @@ Click on an app below to view applied patches & other informations.
 </details>
 
 <details>
-<summary><b>2. Instagram</b></summary>
+<summary><b>2. Google-Photos</b></summary>
+
+* **App Version:** `7.85.0.952162352`
+* **Patch Bundles:** `RookieEnough/De-Vanced`
+* **Patches Version:** `1.0.4.`
+
+* **Applied Patches (3):**
+  * `Fix selected account persistence`
+  * `GmsCore support`
+  * `Spoof features`
+</details>
+
+<details>
+<summary><b>3. Instagram</b></summary>
 
 * **App Version:** `435.0.0.37.76`
 * **Patch Bundles:** `crimera/piko`
@@ -116,11 +131,11 @@ Click on an app below to view applied patches & other informations.
 </details>
 
 <details>
-<summary><b>3. Niagara-Launcher</b></summary>
+<summary><b>4. Niagara-Launcher</b></summary>
 
 * **App Version:** `1.16.15`
 * **Patch Bundles:** `hoo-dles/morphe-patches, MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0, 1.35.0.`
+* **Patches Version:** `1.40.0, 1.36.0.`
 
 * **Applied Patches (3):**
   * `Disable Play Store updates`
@@ -129,7 +144,7 @@ Click on an app below to view applied patches & other informations.
 </details>
 
 <details>
-<summary><b>4. Pinterest</b></summary>
+<summary><b>5. Pinterest</b></summary>
 
 * **App Version:** `14.24.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, browzomje/browzomje-patches`
@@ -145,18 +160,20 @@ Click on an app below to view applied patches & other informations.
 </details>
 
 <details>
-<summary><b>5. Reddit</b></summary>
+<summary><b>6. Reddit</b></summary>
 
 * **App Version:** `2026.29.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.3.0, 1.35.0.`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.36.0., 1.3.0`
 
-* **Applied Patches (19):**
+* **Applied Patches (21):**
   * `Colorize comment indent lines`
+  * `Custom font`
   * `Disable home feed auto-refresh`
   * `Disable home screen redirect`
   * `Disable modern home`
   * `Disable screenshot popup`
+  * `Force system font`
   * `Hide Ask button`
   * `Hide Trending shelves`
   * `Hide ads`
@@ -181,7 +198,7 @@ Click on an app below to view applied patches & other informations.
 </details>
 
 <details>
-<summary><b>6. X</b></summary>
+<summary><b>7. Twitter</b></summary>
 
 * **App Version:** `12.7.1-release.0`
 * **Patch Bundles:** `crimera/piko`
@@ -261,7 +278,87 @@ Click on an app below to view applied patches & other informations.
 </details>
 
 <details>
-<summary><b>7. YT-Music</b></summary>
+<summary><b>8. X</b></summary>
+
+* **App Version:** `12.7.1-release.0`
+* **Patch Bundles:** `crimera/piko`
+* **Patches Version:** `3.8.0`
+
+* **Applied Patches (70):**
+  * `Add ability to copy media link`
+  * `Block redirecting to X Lite`
+  * `Change app icon`
+  * `Change version code`
+  * `Clear tracking params`
+  * `Control video auto scroll`
+  * `Custom download folder`
+  * `Custom emoji font`
+  * `Custom font`
+  * `Custom share menu`
+  * `Custom sharing domain`
+  * `Customise post font size`
+  * `Customize Inline action Bar items`
+  * `Customize Navigation Bar items`
+  * `Customize default reply sorting`
+  * `Customize explore tabs`
+  * `Customize notification tabs`
+  * `Customize profile tabs`
+  * `Customize search suggestions`
+  * `Customize search tab items`
+  * `Customize side bar items`
+  * `Customize timeline top bar`
+  * `Delete from database`
+  * `Disable auto timeline scroll on launch`
+  * `Disable chirp font`
+  * `Download patch`
+  * `Enable PiP mode automatically`
+  * `Enable Undo Posts`
+  * `Enable debug menu for posts`
+  * `Enable force HD videos`
+  * `Force enable translate`
+  * `Handle custom twitter links`
+  * `Hide Banner`
+  * `Hide Community Notes`
+  * `Hide FAB`
+  * `Hide FAB Menu Buttons`
+  * `Hide Live Threads`
+  * `Hide Recommended Users`
+  * `Hide badges from navigation bar icons`
+  * `Hide bookmark icon in timeline`
+  * `Hide community badges`
+  * `Hide followed by context`
+  * `Hide hidden replies`
+  * `Hide immersive player`
+  * `Hide nudge button`
+  * `Hide post metrics`
+  * `Hide promote button`
+  * `Hide recommendation items`
+  * `Hook feature flag`
+  * `Import/Export login token`
+  * `Legacy share links`
+  * `Log server response`
+  * `More information on profile`
+  * `Native downloader`
+  * `Native reader mode`
+  * `Native translator`
+  * `No shortened URL`
+  * `Pause search suggestions`
+  * `Remove Ads`
+  * `Remove premium upsell`
+  * `Remove search suggestions`
+  * `Remove view count`
+  * `Round off numbers`
+  * `Selectable Text`
+  * `Share Tweet as Image`
+  * `Show changelogs`
+  * `Show poll results`
+  * `Show post source label`
+  * `Show sensitive media`
+  * `Support external downloader`
+</details>
+
+<details>
+<summary><b>9. YT-Music</b></summary>
 
 * **App Version:** `9.28.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
@@ -311,7 +408,7 @@ Click on an app below to view applied patches & other informations.
 </details>
 
 <details>
-<summary><b>8. YouTube</b></summary>
+<summary><b>10. YouTube</b></summary>
 
 * **App Version:** `21.26.360`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
