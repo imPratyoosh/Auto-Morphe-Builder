@@ -3,7 +3,7 @@
 # 🤖 Automated Morphe Builder
 
 Welcome to the **Auto Morphe Builder**. This repository provides ready-to-install, pre-patched Android applications using [Morphe](https://morphe.software/). All APKs are automatically downloaded, patched, released and kept up-to-date via GitHub Actions to ensure a seamless experience.
-* For patched app details go to [Available apps](https://github.com/imPratyoosh/Auto-Morphe-Builder/new/#available-apps).
+* For patched app details go to [Available apps](https://github.com/imPratyoosh/Auto-Morphe-Builder#-available-apps).
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 
@@ -30,7 +30,7 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
 <details>
 <summary><b>1. Instagram</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/builder-for-morphe/releases?q=instagram)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=instagram)
 
 * **App Version:** `435.0.0.37.76`
 * **Patch Bundles:** `crimera/piko`
@@ -98,7 +98,7 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
 <details>
 <summary><b>2. Reddit</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/builder-for-morphe/releases?q=reddit)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.29.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
@@ -137,7 +137,7 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
 <details>
 <summary><b>3. Twitter</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/builder-for-morphe/releases?q=twitter)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=twitter)
 
 * **App Version:** `12.7.1-release.0`
 * **Patch Bundles:** `crimera/piko`
@@ -219,7 +219,7 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
 <details>
 <summary><b>4. YT-Music</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/builder-for-morphe/releases?q=yt-music)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=yt-music)
 
 * **App Version:** `9.28.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
@@ -271,7 +271,7 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
 <details>
 <summary><b>5. YouTube</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/builder-for-morphe/releases?q=youtube)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
 * **App Version:** `21.29.366`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
