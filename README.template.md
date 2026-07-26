@@ -3,7 +3,7 @@
 # 🤖 Automated Morphe Builder
 
 Welcome to the **Auto Morphe Builder**. This repository provides ready-to-install, pre-patched Android applications using [Morphe](https://morphe.software/). All APKs are automatically downloaded, patched, released and kept up-to-date via GitHub Actions to ensure a seamless experience.
-* For patched app details go to [Available apps](https://github.com/imPratyoosh/Auto-Morphe-Builder/new/#available-apps).
+* For patched app details go to [Available apps](https://github.com/imPratyoosh/Auto-Morphe-Builder#-available-apps).
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 
