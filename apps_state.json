@@ -138,11 +138,11 @@
         ]
     },
     "Twitter": {
-        "version": "12.7.1-release.0",
+        "version": "12.11.0-release.0",
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.8.0."
+                "version": "3.9.0"
             }
         ],
         "applied": [
@@ -262,11 +262,11 @@
         ]
     },
     "Instagram": {
-        "version": "435.0.0.37.76",
+        "version": "439.0.0.37.89",
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.8.0."
+                "version": "3.9.0"
             }
         ],
         "applied": [
@@ -285,6 +285,7 @@
             "Disable double tap like",
             "Disable explore",
             "Disable highlights",
+            "Disable onboarding permission prompts",
             "Disable screenshot detection",
             "Disable stories",
             "Disable story flipping",

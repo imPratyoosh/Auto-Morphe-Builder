@@ -32,11 +32,11 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=instagram)
 
-* **App Version:** `435.0.0.37.76`
+* **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.8.0.`
+* **Patches Version:** `3.9.0`
 
-* **Applied Patches (53):**
+* **Applied Patches (54):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -52,6 +52,7 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
   * `Disable double tap like`
   * `Disable explore`
   * `Disable highlights`
+  * `Disable onboarding permission prompts`
   * `Disable screenshot detection`
   * `Disable stories`
   * `Disable story flipping`
@@ -139,9 +140,9 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=twitter)
 
-* **App Version:** `12.7.1-release.0`
+* **App Version:** `12.11.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.8.0.`
+* **Patches Version:** `3.9.0`
 
 * **Applied Patches (70):**
   * `Add ability to copy media link`
