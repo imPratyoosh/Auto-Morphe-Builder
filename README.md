@@ -357,4 +357,85 @@ Welcome to the **Auto Morphe Builder**. This repository provides ready-to-instal
   * `Enable debugging`
 </details>
 
+<details>
+<summary><b>6. YouTube_anddea</b></summary>
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube_anddea)
+
+* **App Version:** `20.51.39`
+* **Patch Bundles:** `anddea/revanced-patches`
+* **Patches Version:** `4.2.0`
+
+* **Applied Patches (65):**
+  * `Alternative thumbnails`
+  * `Ambient mode control`
+  * `Bypass URL redirects`
+  * `Bypass image region restrictions`
+  * `Change form factor`
+  * `Change player flyout menu toggles`
+  * `Change share sheet`
+  * `Change start page`
+  * `Custom Shorts action buttons`
+  * `Custom branding icon for YouTube`
+  * `Custom double tap length`
+  * `Custom header for YouTube`
+  * `Description components`
+  * `Disable QUIC protocol`
+  * `Disable forced auto audio tracks`
+  * `Disable forced auto captions`
+  * `Disable haptic feedback`
+  * `Disable layout updates`
+  * `Disable resuming Miniplayer on startup`
+  * `Disable resuming Shorts on startup`
+  * `Disable sign in to TV popup`
+  * `Disable splash animation`
+  * `Enable gradient loading screen`
+  * `Force player buttons background`
+  * `Fullscreen components`
+  * `GmsCore support`
+  * `Hide Shorts dimming`
+  * `Hide action buttons`
+  * `Hide ads`
+  * `Hide comments components`
+  * `Hide feed components`
+  * `Hide feed flyout menu`
+  * `Hide layout components`
+  * `Hide player buttons`
+  * `Hide player flyout menu`
+  * `Hide shortcuts`
+  * `Hook YouTube Music actions`
+  * `Hook download actions`
+  * `Miniplayer`
+  * `Navigation bar components`
+  * `Open links externally`
+  * `Overlay buttons`
+  * `Player components`
+  * `Reload video`
+  * `Remove background playback restrictions`
+  * `Remove viewer discretion dialog`
+  * `Return YouTube Dislike`
+  * `Return YouTube Username`
+  * `Sanitize sharing links`
+  * `Seekbar components`
+  * `Set transcript cookies`
+  * `Settings for YouTube`
+  * `Settings menu filter`
+  * `Shorts components`
+  * `Snack bar components`
+  * `SponsorBlock`
+  * `Spoof app version`
+  * `Spoof video streams`
+  * `Spoof watch history`
+  * `Swipe controls`
+  * `Theme`
+  * `Toolbar components`
+  * `Video playback`
+  * `Visual preferences icons for YouTube`
+  * `Voice Over Translation`
+
+* **Excluded Patches (2):**
+  * `Enable debug logging`
+  * `Translations for YouTube`
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" alt="Bottom Wave" />
