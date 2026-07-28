@@ -84,8 +84,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.29.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.3.0, 1.37.1`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.37.1, 1.3.0`
 
 * **Applied Patches (21):**
   * `Colorize comment indent lines`
@@ -200,59 +200,7 @@
 </details>
 
 <details>
-<summary><b>4. YT-Music</b></summary>
-
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=yt-music)
-
-* **App Version:** `9.28.51`
-* **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.37.0.`
-
-* **Applied Patches (35):**
-  * `Bypass certificate checks`
-  * `Change header`
-  * `Change miniplayer color`
-  * `Change start page`
-  * `Check watch history domain name resolution`
-  * `Crossfade`
-  * `Disable DRC audio`
-  * `Disable QUIC protocol`
-  * `Disable dislike redirection`
-  * `Downloads`
-  * `Enable exclusive audio playback`
-  * `Enable forced miniplayer`
-  * `Enable swipe to dismiss miniplayer`
-  * `Force original audio`
-  * `GmsCore support`
-  * `Hide ads`
-  * `Hide buttons`
-  * `Hide filter bar`
-  * `Hide flyout menu components`
-  * `Hide layout components`
-  * `Hide music action buttons`
-  * `Miniplayer previous and next buttons`
-  * `Navigation bar`
-  * `Network proxy`
-  * `Remember repeat state`
-  * `Remember shuffle state`
-  * `Remove background playback restrictions`
-  * `Return YouTube Dislike`
-  * `Sanitize sharing links`
-  * `Scrobbling`
-  * `Settings menu filter`
-  * `SponsorBlock`
-  * `Spoof app version`
-  * `Spoof video streams`
-  * `Theme`
-
-* **Excluded Patches (3):**
-  * `Custom branding`
-  * `Disable Play Store updates`
-  * `Enable debugging`
-</details>
-
-<details>
-<summary><b>5. YouTube</b></summary>
+<summary><b>4. YouTube</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
@@ -340,90 +288,61 @@
 </details>
 
 <details>
-<summary><b>6. YouTube-anddea</b></summary>
+<summary><b>5. YouTube-Music</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-anddea)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `20.51.39`
-* **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.2.0`
+* **App Version:** `9.28.51`
+* **Patch Bundles:** `MorpheApp/morphe-patches`
+* **Patches Version:** `1.37.0.`
 
-* **Applied Patches (65):**
-  * `Alternative thumbnails`
-  * `Ambient mode control`
-  * `Bypass URL redirects`
-  * `Bypass image region restrictions`
-  * `Change form factor`
-  * `Change player flyout menu toggles`
-  * `Change share sheet`
+* **Applied Patches (35):**
+  * `Bypass certificate checks`
+  * `Change header`
+  * `Change miniplayer color`
   * `Change start page`
-  * `Custom Shorts action buttons`
-  * `Custom branding icon for YouTube`
-  * `Custom double tap length`
-  * `Custom header for YouTube`
-  * `Description components`
+  * `Check watch history domain name resolution`
+  * `Crossfade`
+  * `Disable DRC audio`
   * `Disable QUIC protocol`
-  * `Disable forced auto audio tracks`
-  * `Disable forced auto captions`
-  * `Disable haptic feedback`
-  * `Disable layout updates`
-  * `Disable resuming Miniplayer on startup`
-  * `Disable resuming Shorts on startup`
-  * `Disable sign in to TV popup`
-  * `Disable splash animation`
-  * `Enable gradient loading screen`
-  * `Force player buttons background`
-  * `Fullscreen components`
+  * `Disable dislike redirection`
+  * `Downloads`
+  * `Enable exclusive audio playback`
+  * `Enable forced miniplayer`
+  * `Enable swipe to dismiss miniplayer`
+  * `Force original audio`
   * `GmsCore support`
-  * `Hide Shorts dimming`
-  * `Hide action buttons`
   * `Hide ads`
-  * `Hide comments components`
-  * `Hide feed components`
-  * `Hide feed flyout menu`
+  * `Hide buttons`
+  * `Hide filter bar`
+  * `Hide flyout menu components`
   * `Hide layout components`
-  * `Hide player buttons`
-  * `Hide player flyout menu`
-  * `Hide shortcuts`
-  * `Hook YouTube Music actions`
-  * `Hook download actions`
-  * `Miniplayer`
-  * `Navigation bar components`
-  * `Open links externally`
-  * `Overlay buttons`
-  * `Player components`
-  * `Reload video`
+  * `Hide music action buttons`
+  * `Miniplayer previous and next buttons`
+  * `Navigation bar`
+  * `Network proxy`
+  * `Remember repeat state`
+  * `Remember shuffle state`
   * `Remove background playback restrictions`
-  * `Remove viewer discretion dialog`
   * `Return YouTube Dislike`
-  * `Return YouTube Username`
   * `Sanitize sharing links`
-  * `Seekbar components`
-  * `Set transcript cookies`
-  * `Settings for YouTube`
+  * `Scrobbling`
   * `Settings menu filter`
-  * `Shorts components`
-  * `Snack bar components`
   * `SponsorBlock`
   * `Spoof app version`
   * `Spoof video streams`
-  * `Spoof watch history`
-  * `Swipe controls`
   * `Theme`
-  * `Toolbar components`
-  * `Video playback`
-  * `Visual preferences icons for YouTube`
-  * `Voice Over Translation`
 
-* **Excluded Patches (2):**
-  * `Enable debug logging`
-  * `Translations for YouTube`
+* **Excluded Patches (3):**
+  * `Custom branding`
+  * `Disable Play Store updates`
+  * `Enable debugging`
 </details>
 
 <details>
-<summary><b>7. YouTube_anddea</b></summary>
+<summary><b>6. YouTube-ReVanced-Extended</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube_anddea)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-revanced-extended)
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
