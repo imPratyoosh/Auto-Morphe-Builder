@@ -1,20 +1,20 @@
 strict-sigcheck = true
 
-[YouTube-anddea]
+[YouTube-ReVanced-Extended]
 enabled = true
-brand = "RVX-anddea"
+brand = "ReVanced-Extended"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
 patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Custom branding icon for YouTube' -OappIcon='xisr_yellow' -OrestoreOldSplashAnimation=true -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='bold' -ObottomMargin='0.1dip' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='?attr/ytChipBackground' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
 
-[YouTube-anddea.patches]
+[YouTube-ReVanced-Extended.patches]
 "github:anddea/revanced-patches" = { version = "dev", include = ["Custom header for YouTube", "Hide Shorts dimming", "Theme"], exclude = ["Enable debug logging", "Translations for YouTube"] }
 
 [YouTube]
 enabled = true
-brand = "YouTube"
+brand = "Morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
@@ -24,21 +24,21 @@ version = "exp"
 [YouTube.patches]
 "github:MorpheApp/morphe-patches" = { version = "latest", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
 
-[YT-Music]
+[YouTube-Music]
 enabled = true
-brand = "YT-Music"
+brand = "Morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 changelog-keywords = ["YouTube Music"]
 arch = "arm64-v8a"
 version = "exp"
 
-[YT-Music.patches]
+[YouTube-Music.patches]
 "github:MorpheApp/morphe-patches" = { version = "latest", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
 
 [Reddit]
 enabled = true
-brand = "Reddit"
+brand = "Morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 version = "2026.29.0"
@@ -50,7 +50,7 @@ patcher-args = "-e 'Colorize comment indent lines' -OindentLineColors1='#0066FF'
 
 [Twitter]
 enabled = true
-brand = "Twitter"
+brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 changelog-keywords = ["Twitter"]
@@ -61,8 +61,8 @@ arch = "arm64-v8a"
 
 [Instagram]
 enabled = true
-brand = "Instagram"
-github-dlurl = "https://github.com/krvstek/uni-storage/releases/tag/instagram"
+brand = "Piko"
+# github-dlurl = "https://github.com/krvstek/uni-storage/releases/tag/instagram"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 changelog-keywords = ["Instagram"]
