@@ -228,7 +228,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.37.0."
+                "version": "1.37.1"
             }
         ],
         "applied": [
@@ -248,13 +248,13 @@
             "Hide sidebar components",
             "Open links directly",
             "Open links externally",
+            "Remove ads and telemetry",
             "Remove subreddit dialog",
             "Sanitize sharing links",
             "Show view count",
             "Spoof signature"
         ],
         "excluded": [
-            "Remove ads and telemetry",
             "Disable screenshot banner",
             "Hide post view counts",
             "Open external links directly",
@@ -330,6 +330,86 @@
         ]
     },
     "YouTube_anddea": {
+        "version": "20.51.39",
+        "bundles": [
+            {
+                "repo": "anddea/revanced-patches",
+                "version": "4.2.0"
+            }
+        ],
+        "applied": [
+            "Alternative thumbnails",
+            "Ambient mode control",
+            "Bypass URL redirects",
+            "Bypass image region restrictions",
+            "Change form factor",
+            "Change player flyout menu toggles",
+            "Change share sheet",
+            "Change start page",
+            "Custom Shorts action buttons",
+            "Custom branding icon for YouTube",
+            "Custom double tap length",
+            "Custom header for YouTube",
+            "Description components",
+            "Disable QUIC protocol",
+            "Disable forced auto audio tracks",
+            "Disable forced auto captions",
+            "Disable haptic feedback",
+            "Disable layout updates",
+            "Disable resuming Miniplayer on startup",
+            "Disable resuming Shorts on startup",
+            "Disable sign in to TV popup",
+            "Disable splash animation",
+            "Enable gradient loading screen",
+            "Force player buttons background",
+            "Fullscreen components",
+            "GmsCore support",
+            "Hide Shorts dimming",
+            "Hide action buttons",
+            "Hide ads",
+            "Hide comments components",
+            "Hide feed components",
+            "Hide feed flyout menu",
+            "Hide layout components",
+            "Hide player buttons",
+            "Hide player flyout menu",
+            "Hide shortcuts",
+            "Hook YouTube Music actions",
+            "Hook download actions",
+            "Miniplayer",
+            "Navigation bar components",
+            "Open links externally",
+            "Overlay buttons",
+            "Player components",
+            "Remove background playback restrictions",
+            "Remove viewer discretion dialog",
+            "Return YouTube Dislike",
+            "Return YouTube Username",
+            "Sanitize sharing links",
+            "Seekbar components",
+            "Set transcript cookies",
+            "Settings menu filter",
+            "Shorts components",
+            "Snack bar components",
+            "SponsorBlock",
+            "Spoof app version",
+            "Spoof video streams",
+            "Spoof watch history",
+            "Swipe controls",
+            "Theme",
+            "Toolbar components",
+            "Video playback",
+            "Voice Over Translation",
+            "Visual preferences icons for YouTube",
+            "Reload video",
+            "Settings for YouTube"
+        ],
+        "excluded": [
+            "Translations for YouTube",
+            "Enable debug logging"
+        ]
+    },
+    "YouTube-anddea": {
         "version": "20.51.39",
         "bundles": [
             {
