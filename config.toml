@@ -7,7 +7,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
-patcher-args = "-OiconType='round' -OappIcon='xisr_yellow' -OrestoreOldSplashAnimation=true -OBackgroundColor='#99000000' -Oexplore=true -Osubscriptions=true -Osearch=true -OiconType='bold' -ObottomMargin='Minimum' -OrvxSettingsLabel='ReVanced Extended' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='Amoled Black' -OlightThemeBackgroundColor='White' -OstrokeColor='Chip' -OsettingsMenuIcon='revanced'
+patcher-args = "-OiconType='round' -OappIcon='xisr_yellow' -OrestoreOldSplashAnimation=true -OBackgroundColor='#99000000' -Oexplore=true -Osubscriptions=true -Osearch=true -OiconType='bold' -ObottomMargin='Minimum' -OrvxSettingsLabel='ReVanced Extended' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='Amoled Black' -OlightThemeBackgroundColor='White' -OstrokeColor='Chip' -OsettingsMenuIcon='revanced'"
 
 [YouTube_anddea.patches]
 "github:anddea/revanced-patches" = { version = "dev", include = ["Custom branding icon for YouTube", "Custom header for YouTube", "Hide Shorts dimming", "Hide shortcuts", "Theme"], exclude = ["Enable debug logging", "Translations for YouTube"] }
