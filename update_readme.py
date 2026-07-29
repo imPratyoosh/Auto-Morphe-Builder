@@ -67,10 +67,12 @@ try:
                         else:  # Standard Web URLs fallback
                             m = re.search(r'(?:github\.com|gitlab\.com)/([^/]+/[^/]+)', url)
                             if m: repo = m.group(1)
+                                
+                        # Extract exact version (preserves -dev.1 tags, strips extensions)
+                        clean_name = re.sub(r'\.(mpp|jar|apk)$', '', filename, flags=re.IGNORECASE)
+                        v_match = re.search(r'-(v?\d+.*)', clean_name)
+                        version = v_match.group(1) if v_match else clean_name.replace('patches-', '')
 
-                        # Extract version (e.g. patches-1.34.0.mpp -> 1.34.0)
-                        v_match = re.search(r'([\d\.]+)', filename)
-                        version = v_match.group(1) if v_match else filename.replace('.mpp', '').replace('patches-', '')
 
                         if not any(b['repo'] == repo for b in current_bundles):
                             current_bundles.append({'repo': repo, 'version': version})
