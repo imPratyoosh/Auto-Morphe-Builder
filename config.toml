@@ -41,6 +41,7 @@ enabled = true
 brand = "Morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+changelog-keywords = ["Reddit"]
 version = "2026.29.0"
 patcher-args = "-e 'Colorize comment indent lines' -OindentLineColors1='#0066FF' -OindentLineColors2='#FF2E88' -OindentLineColors3='#9B5CFF' -OindentLineColors4='#2DE2E6' -OindentLineColors5='#FF5FA2' -OindentLineColors6='#FF8A3D' -OindentLineColors7='#FFD166' -OindentLineColors8='#3CFF7F' -OisCurrentLevelOnly=true"
 
