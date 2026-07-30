@@ -16,7 +16,7 @@
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0`
+* **Patches Version:** `3.9.0-dev.2`
 
 * **Applied Patches (54):**
   * `Add settings`
@@ -84,8 +84,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.29.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.3.0, 1.38.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.38.0-dev.1, 1.3.0-dev.13`
 
 * **Applied Patches (21):**
   * `Colorize comment indent lines`
@@ -124,7 +124,7 @@
 
 * **App Version:** `12.11.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0`
+* **Patches Version:** `3.9.0-dev.2`
 
 * **Applied Patches (70):**
   * `Add ability to copy media link`
@@ -206,7 +206,7 @@
 
 * **App Version:** `21.29.366`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.37.0.`
+* **Patches Version:** `1.37.0`
 
 * **Applied Patches (71):**
   * `Add to queue`
@@ -294,7 +294,7 @@
 
 * **App Version:** `9.28.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.37.0.`
+* **Patches Version:** `1.37.0`
 
 * **Applied Patches (35):**
   * `Bypass certificate checks`
@@ -346,7 +346,7 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.2.0`
+* **Patches Version:** `4.2.0-dev.8`
 
 * **Applied Patches (65):**
   * `Alternative thumbnails`

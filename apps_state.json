@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0"
+                "version": "3.9.0-dev.2"
             }
         ],
         "applied": [
@@ -86,7 +86,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0"
+                "version": "3.9.0-dev.2"
             }
         ],
         "applied": [
@@ -154,7 +154,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.2.0"
+                "version": "4.2.0-dev.8"
             }
         ],
         "applied": [
@@ -234,7 +234,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.37.0."
+                "version": "1.37.0"
             }
         ],
         "applied": [
@@ -321,7 +321,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.37.0."
+                "version": "1.37.0"
             }
         ],
         "applied": [
@@ -371,12 +371,12 @@
         "version": "2026.29.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.3.0"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.38.0-dev.1"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.38.0"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.3.0-dev.13"
             }
         ],
         "applied": [
