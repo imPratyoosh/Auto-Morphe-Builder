@@ -347,9 +347,9 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.2.0-dev.8`
+* **Patches Version:** `4.2.0-dev.9`
 
-* **Applied Patches (65):**
+* **Applied Patches (66):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `Bypass URL redirects`
@@ -415,6 +415,7 @@
   * `Video playback`
   * `Visual preferences icons for YouTube`
   * `Voice Over Translation`
+  * `Wide search bar`
 
 * **Excluded Patches (2):**
   * `Enable debug logging`
