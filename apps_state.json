@@ -234,7 +234,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.37.0"
+                "version": "1.38.0-dev.3"
             }
         ],
         "applied": [
@@ -308,7 +308,8 @@
             "Swipe controls",
             "Theme",
             "Video quality",
-            "Voice over translation"
+            "Voice over translation",
+            "Wide search bar"
         ],
         "excluded": [
             "Disable Play Store updates",

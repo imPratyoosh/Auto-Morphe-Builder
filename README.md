@@ -206,9 +206,9 @@
 
 * **App Version:** `21.29.366`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.37.0`
+* **Patches Version:** `1.38.0-dev.3`
 
-* **Applied Patches (71):**
+* **Applied Patches (72):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -280,6 +280,7 @@
   * `Theme`
   * `Video quality`
   * `Voice over translation`
+  * `Wide search bar`
 
 * **Excluded Patches (3):**
   * `Custom branding`
