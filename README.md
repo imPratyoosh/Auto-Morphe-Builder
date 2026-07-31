@@ -7,7 +7,28 @@
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider" />
 
-## 📋 List of apps in this repository
+## 🤖 Build Your Own APKs
+
+1. 🍴 `Fork` [this repo](https://github.com/nvbangg/builder-for-morphe) (don't forget to ⭐ `Star` and 👀 `Watch` it)
+    - ⚙️ **[Optional]** Customize the apps you want in [`config.toml`](config.toml)
+2. 🚀 Run the [CI workflow](../../actions/workflows/ci.yml) (make sure workflows are enabled first)
+3. ⬇️ Download your APKs from [Releases](../../releases)
+
+## 📚 Documentation & Contributing
+
+For full configuration reference, setup and contributing guide, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+For all Morphe resources, patches and community projects, visit [nvbangg/awesome-morphe](https://github.com/nvbangg/awesome-morphe).
+
+---
+
+<div align="center">
+
+**[github.com/nvbangg/builder-for-morphe](https://github.com/nvbangg/builder-for-morphe)**  
+⭐ Star this repo if you find it useful!  
+Maintained with ❤️ by **[@nvbangg](https://github.com/nvbangg)** (syncing upstream from [krvstek/uni-apks](https://github.com/krvstek/uni-apks) with the changes mentioned in the [Features](#features) section)
+
+</div>
 
 <details>
 <summary><b>1. Instagram</b></summary>
