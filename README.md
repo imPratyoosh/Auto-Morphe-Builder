@@ -204,9 +204,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.29.366`
+* **App Version:** `21.31.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.38.0-dev.3`
+* **Patches Version:** `1.38.1-dev.1`
 
 * **Applied Patches (72):**
   * `Add to queue`
@@ -293,9 +293,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `9.28.51`
+* **App Version:** `9.30.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.37.0`
+* **Patches Version:** `1.38.1-dev.1`
 
 * **Applied Patches (35):**
   * `Bypass certificate checks`

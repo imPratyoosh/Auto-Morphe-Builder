@@ -231,11 +231,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.29.366",
+        "version": "21.31.523",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.38.0-dev.3"
+                "version": "1.38.1-dev.1"
             }
         ],
         "applied": [
@@ -319,11 +319,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.28.51",
+        "version": "9.30.52",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.37.0"
+                "version": "1.38.1-dev.1"
             }
         ],
         "applied": [
