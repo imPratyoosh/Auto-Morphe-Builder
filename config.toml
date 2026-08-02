@@ -21,7 +21,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
 version = "exp"
-patcher-args "-e 'Theme' -OdarkThemeBackgroundColor='#0F0F0F'"
+patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor='#0F0F0F'"
 
 [YouTube.patches]
 "github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
