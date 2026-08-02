@@ -7,7 +7,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
-version = "19.43.41"
+version = "20.31.42"
 patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Custom branding icon for YouTube' -OappIcon='xisr_yellow' -OrestoreOldSplashAnimation=true -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='bold' -ObottomMargin='0.1dip' -e 'Theme' -OdarkThemeBackgroundColor='#0F0F0F' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='?attr/ytChipBackground' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
 
 [YouTube-ReVanced-Extended.patches]
