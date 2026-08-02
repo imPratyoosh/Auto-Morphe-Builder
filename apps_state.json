@@ -10,6 +10,7 @@
         "applied": [
             "Add ability to copy media link",
             "Block redirecting to X Lite",
+            "Bring back twitter",
             "Change app icon",
             "Change version code",
             "Clear tracking params",
@@ -34,6 +35,7 @@
             "Disable auto timeline scroll on launch",
             "Disable chirp font",
             "Download patch",
+            "Dynamic color",
             "Enable PiP mode automatically",
             "Enable Undo Posts",
             "Enable debug menu for posts",
@@ -371,15 +373,15 @@
         ]
     },
     "Reddit": {
-        "version": "2026.29.0",
+        "version": "2026.30.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.38.0-dev.1"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.3.0-dev.15"
             },
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.3.0-dev.13"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.39.0-dev.1"
             }
         ],
         "applied": [

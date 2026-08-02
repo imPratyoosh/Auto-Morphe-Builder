@@ -83,9 +83,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
-* **App Version:** `2026.29.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.38.0-dev.1, 1.3.0-dev.13`
+* **App Version:** `2026.30.0`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.3.0-dev.15, 1.39.0-dev.1`
 
 * **Applied Patches (21):**
   * `Colorize comment indent lines`
@@ -126,9 +126,10 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.2`
 
-* **Applied Patches (70):**
+* **Applied Patches (72):**
   * `Add ability to copy media link`
   * `Block redirecting to X Lite`
+  * `Bring back twitter`
   * `Change app icon`
   * `Change version code`
   * `Clear tracking params`
@@ -153,6 +154,7 @@
   * `Disable auto timeline scroll on launch`
   * `Disable chirp font`
   * `Download patch`
+  * `Dynamic color`
   * `Enable PiP mode automatically`
   * `Enable Undo Posts`
   * `Enable debug menu for posts`
