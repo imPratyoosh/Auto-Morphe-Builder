@@ -235,7 +235,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.38.1-dev.1"
+                "version": "1.39.0-dev.1"
             }
         ],
         "applied": [
@@ -292,6 +292,7 @@
             "Open videos fullscreen",
             "Override YouTube Music buttons",
             "Play all",
+            "Playback in feeds",
             "Playback speed",
             "Reload video",
             "Remove background playback restrictions",
@@ -323,7 +324,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.38.1-dev.1"
+                "version": "1.39.0-dev.1"
             }
         ],
         "applied": [

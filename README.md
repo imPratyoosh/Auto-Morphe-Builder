@@ -206,9 +206,9 @@
 
 * **App Version:** `21.31.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.38.1-dev.1`
+* **Patches Version:** `1.39.0-dev.1`
 
-* **Applied Patches (72):**
+* **Applied Patches (73):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -262,6 +262,7 @@
   * `Open videos fullscreen`
   * `Override YouTube Music buttons`
   * `Play all`
+  * `Playback in feeds`
   * `Playback speed`
   * `Reload video`
   * `Remove background playback restrictions`
@@ -295,7 +296,7 @@
 
 * **App Version:** `9.30.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.38.1-dev.1`
+* **Patches Version:** `1.39.0-dev.1`
 
 * **Applied Patches (35):**
   * `Bypass certificate checks`
