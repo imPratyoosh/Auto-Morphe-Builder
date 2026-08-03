@@ -8,7 +8,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
 version = "auto"
-patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Custom branding icon for YouTube' -OappIcon='xisr_yellow' -OrestoreOldSplashAnimation=true -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='bold' -ObottomMargin='0.1dip' -e 'Theme' -OdarkThemeBackgroundColor='#0F0F0F' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='?attr/ytChipBackground' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
+patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Custom branding icon for YouTube' -OappIcon='xisr_yellow' -OrestoreOldSplashAnimation=true -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='bold' -ObottomMargin='0.1dip' -e 'Theme' -OdarkThemeBackgroundColor='#000000' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='?attr/ytChipBackground' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
 
 [YouTube-ReVanced-Extended.patches]
 "github:anddea/revanced-patches" = { version = "dev", include = ["Custom header for YouTube", "Hide Shorts dimming", "Theme"], exclude = ["Enable debug logging", "Translations for YouTube"] }
@@ -36,7 +36,7 @@ arch = "arm64-v8a"
 version = "exp"
 
 [YouTube-Music.patches]
-"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
+"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Enable debugging", "Disable play store updates"] }
 
 [Reddit]
 enabled = true
@@ -60,7 +60,7 @@ changelog-keywords = ["Twitter"]
 arch = "arm64-v8a"
 
 [Twitter.patches]
-"github:crimera/piko" = { version = "dev", include = ["Bring back twitter", "Browse tweet object", "Dynamic color"] }
+"github:crimera/piko" = { version = "dev", include = ["Bring back twitter", "Browse tweet object"] }
 
 [Instagram]
 enabled = true
@@ -70,7 +70,7 @@ github-dlurl = "https://github.com/imPratyoosh/APKs-storage/releases/tag/instagr
 # uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 changelog-keywords = ["Instagram"]
 arch = "arm64-v8a"
-patcher-args = "-e 'Clone' -OpackageName='com.instagram' -OappName='Instagram' -e 'Theme' -Oamoled=false"
+patcher-args = "-e 'Clone' -OpackageName='com.instagram' -OappName='Instagram'"
 
 [Instagram.patches]
 "github:crimera/piko" = { version = "dev", exclude = ["Change version code"] }
