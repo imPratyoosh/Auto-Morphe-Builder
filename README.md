@@ -16,7 +16,7 @@
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.3`
+* **Patches Version:** `3.9.0-dev.4`
 
 * **Applied Patches (54):**
   * `Add settings`
@@ -85,7 +85,7 @@
 
 * **App Version:** `2026.30.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.3.0-dev.15, 1.39.0-dev.1`
+* **Patches Version:** `1.3.0-dev.15, 1.39.0-dev.3`
 
 * **Applied Patches (21):**
   * `Colorize comment indent lines`
@@ -124,7 +124,7 @@
 
 * **App Version:** `12.11.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.3`
+* **Patches Version:** `3.9.0-dev.4`
 
 * **Applied Patches (72):**
   * `Add ability to copy media link`
@@ -208,7 +208,7 @@
 
 * **App Version:** `21.31.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.2`
+* **Patches Version:** `1.39.0-dev.3`
 
 * **Applied Patches (73):**
   * `Add to queue`
@@ -298,7 +298,7 @@
 
 * **App Version:** `9.30.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.2`
+* **Patches Version:** `1.39.0-dev.3`
 
 * **Applied Patches (38):**
   * `Bypass certificate checks`
