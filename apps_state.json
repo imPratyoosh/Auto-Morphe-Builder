@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.2"
+                "version": "3.9.0-dev.3"
             }
         ],
         "applied": [
@@ -88,7 +88,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.2"
+                "version": "3.9.0-dev.3"
             }
         ],
         "applied": [
@@ -156,7 +156,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.2.0-dev.9"
+                "version": "4.2.0-dev.11"
             }
         ],
         "applied": [
@@ -237,7 +237,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.1"
+                "version": "1.39.0-dev.2"
             }
         ],
         "applied": [
@@ -326,7 +326,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.1"
+                "version": "1.39.0-dev.2"
             }
         ],
         "applied": [
@@ -336,6 +336,7 @@
             "Change start page",
             "Check watch history domain name resolution",
             "Crossfade",
+            "Custom branding",
             "Disable DRC audio",
             "Disable QUIC protocol",
             "Disable dislike redirection",
@@ -357,6 +358,7 @@
             "Remember repeat state",
             "Remember shuffle state",
             "Remove background playback restrictions",
+            "Remove viewer discretion dialog",
             "Return YouTube Dislike",
             "Sanitize sharing links",
             "Scrobbling",
@@ -364,11 +366,11 @@
             "SponsorBlock",
             "Spoof app version",
             "Spoof video streams",
-            "Theme"
+            "Theme",
+            "Third-party lyrics"
         ],
         "excluded": [
             "Disable Play Store updates",
-            "Custom branding",
             "Enable debugging"
         ]
     },

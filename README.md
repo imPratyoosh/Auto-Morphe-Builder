@@ -16,7 +16,7 @@
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.2`
+* **Patches Version:** `3.9.0-dev.3`
 
 * **Applied Patches (54):**
   * `Add settings`
@@ -124,7 +124,7 @@
 
 * **App Version:** `12.11.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.2`
+* **Patches Version:** `3.9.0-dev.3`
 
 * **Applied Patches (72):**
   * `Add ability to copy media link`
@@ -208,7 +208,7 @@
 
 * **App Version:** `21.31.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.1`
+* **Patches Version:** `1.39.0-dev.2`
 
 * **Applied Patches (73):**
   * `Add to queue`
@@ -298,15 +298,16 @@
 
 * **App Version:** `9.30.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.1`
+* **Patches Version:** `1.39.0-dev.2`
 
-* **Applied Patches (35):**
+* **Applied Patches (38):**
   * `Bypass certificate checks`
   * `Change header`
   * `Change miniplayer color`
   * `Change start page`
   * `Check watch history domain name resolution`
   * `Crossfade`
+  * `Custom branding`
   * `Disable DRC audio`
   * `Disable QUIC protocol`
   * `Disable dislike redirection`
@@ -328,6 +329,7 @@
   * `Remember repeat state`
   * `Remember shuffle state`
   * `Remove background playback restrictions`
+  * `Remove viewer discretion dialog`
   * `Return YouTube Dislike`
   * `Sanitize sharing links`
   * `Scrobbling`
@@ -336,9 +338,9 @@
   * `Spoof app version`
   * `Spoof video streams`
   * `Theme`
+  * `Third-party lyrics`
 
-* **Excluded Patches (3):**
-  * `Custom branding`
+* **Excluded Patches (2):**
   * `Disable Play Store updates`
   * `Enable debugging`
 </details>
@@ -350,7 +352,7 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.2.0-dev.9`
+* **Patches Version:** `4.2.0-dev.11`
 
 * **Applied Patches (66):**
   * `Alternative thumbnails`
