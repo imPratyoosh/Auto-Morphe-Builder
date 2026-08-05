@@ -208,7 +208,7 @@
 
 * **App Version:** `21.31.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.3`
+* **Patches Version:** `1.39.0-dev.4`
 
 * **Applied Patches (73):**
   * `Add to queue`
@@ -298,7 +298,7 @@
 
 * **App Version:** `9.30.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.3`
+* **Patches Version:** `1.39.0-dev.4`
 
 * **Applied Patches (38):**
   * `Bypass certificate checks`
