@@ -156,7 +156,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.2.0-dev.11"
+                "version": "4.2.0-dev.12"
             }
         ],
         "applied": [
@@ -168,6 +168,7 @@
             "Change player flyout menu toggles",
             "Change share sheet",
             "Change start page",
+            "Custom DPI",
             "Custom Shorts action buttons",
             "Custom branding icon for YouTube",
             "Custom double tap length",
@@ -202,6 +203,7 @@
             "Navigation bar components",
             "Open links externally",
             "Overlay buttons",
+            "Playback in feeds",
             "Player components",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
@@ -237,7 +239,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.4"
+                "version": "1.39.0-dev.8"
             }
         ],
         "applied": [
@@ -326,7 +328,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.4"
+                "version": "1.39.0-dev.8"
             }
         ],
         "applied": [

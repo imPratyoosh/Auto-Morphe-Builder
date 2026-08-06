@@ -208,7 +208,7 @@
 
 * **App Version:** `21.31.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.4`
+* **Patches Version:** `1.39.0-dev.8`
 
 * **Applied Patches (73):**
   * `Add to queue`
@@ -298,7 +298,7 @@
 
 * **App Version:** `9.30.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.4`
+* **Patches Version:** `1.39.0-dev.8`
 
 * **Applied Patches (38):**
   * `Bypass certificate checks`
@@ -352,9 +352,9 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.2.0-dev.11`
+* **Patches Version:** `4.2.0-dev.12`
 
-* **Applied Patches (66):**
+* **Applied Patches (68):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `Bypass URL redirects`
@@ -363,6 +363,7 @@
   * `Change player flyout menu toggles`
   * `Change share sheet`
   * `Change start page`
+  * `Custom DPI`
   * `Custom Shorts action buttons`
   * `Custom branding icon for YouTube`
   * `Custom double tap length`
@@ -397,6 +398,7 @@
   * `Navigation bar components`
   * `Open links externally`
   * `Overlay buttons`
+  * `Playback in feeds`
   * `Player components`
   * `Reload video`
   * `Remove background playback restrictions`
