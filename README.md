@@ -208,7 +208,7 @@
 
 * **App Version:** `21.31.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.8`
+* **Patches Version:** `1.39.0-dev.9`
 
 * **Applied Patches (73):**
   * `Add to queue`
@@ -298,7 +298,7 @@
 
 * **App Version:** `9.30.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.8`
+* **Patches Version:** `1.39.0-dev.9`
 
 * **Applied Patches (38):**
   * `Bypass certificate checks`
@@ -352,7 +352,7 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.2.0-dev.12`
+* **Patches Version:** `4.2.0-dev.13`
 
 * **Applied Patches (68):**
   * `Alternative thumbnails`
@@ -370,7 +370,6 @@
   * `Custom header for YouTube`
   * `Description components`
   * `Disable QUIC protocol`
-  * `Disable forced auto audio tracks`
   * `Disable forced auto captions`
   * `Disable haptic feedback`
   * `Disable layout updates`
@@ -379,6 +378,7 @@
   * `Disable sign in to TV popup`
   * `Disable splash animation`
   * `Enable gradient loading screen`
+  * `Force original audio`
   * `Force player buttons background`
   * `Fullscreen components`
   * `GmsCore support`

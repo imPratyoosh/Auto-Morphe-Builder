@@ -156,7 +156,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.2.0-dev.12"
+                "version": "4.2.0-dev.13"
             }
         ],
         "applied": [
@@ -175,7 +175,6 @@
             "Custom header for YouTube",
             "Description components",
             "Disable QUIC protocol",
-            "Disable forced auto audio tracks",
             "Disable forced auto captions",
             "Disable haptic feedback",
             "Disable layout updates",
@@ -184,6 +183,7 @@
             "Disable sign in to TV popup",
             "Disable splash animation",
             "Enable gradient loading screen",
+            "Force original audio",
             "Force player buttons background",
             "Fullscreen components",
             "GmsCore support",
@@ -239,7 +239,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.8"
+                "version": "1.39.0-dev.9"
             }
         ],
         "applied": [
@@ -328,7 +328,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.8"
+                "version": "1.39.0-dev.9"
             }
         ],
         "applied": [
