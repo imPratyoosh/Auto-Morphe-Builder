@@ -156,7 +156,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.2.0-dev.13"
+                "version": "4.2.0"
             }
         ],
         "applied": [
@@ -235,11 +235,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.31.523",
+        "version": "21.32.2",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.9"
+                "version": "1.39.0-dev.11"
             }
         ],
         "applied": [
@@ -328,7 +328,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.9"
+                "version": "1.39.0-dev.11"
             }
         ],
         "applied": [
