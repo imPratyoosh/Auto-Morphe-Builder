@@ -239,7 +239,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.11"
+                "version": "1.39.1"
             }
         ],
         "applied": [

@@ -208,7 +208,7 @@
 
 * **App Version:** `21.32.2`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.0-dev.11`
+* **Patches Version:** `1.39.1`
 
 * **Applied Patches (73):**
   * `Add to queue`
