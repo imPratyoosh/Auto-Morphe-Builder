@@ -16,9 +16,9 @@
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.4`
+* **Patches Version:** `3.9.0-dev.6`
 
-* **Applied Patches (54):**
+* **Applied Patches (55):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -59,6 +59,7 @@
   * `More options on post`
   * `More options on profile`
   * `Open links externally`
+  * `Recommended flags`
   * `Remove build expired popup`
   * `Remove empty bottom space`
   * `Sanitize share links`
@@ -124,9 +125,9 @@
 
 * **App Version:** `12.11.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.4`
+* **Patches Version:** `3.9.0-dev.6`
 
-* **Applied Patches (72):**
+* **Applied Patches (71):**
   * `Add ability to copy media link`
   * `Block redirecting to X Lite`
   * `Bring back twitter`
@@ -154,7 +155,6 @@
   * `Disable auto timeline scroll on launch`
   * `Disable chirp font`
   * `Download patch`
-  * `Dynamic color`
   * `Enable PiP mode automatically`
   * `Enable Undo Posts`
   * `Enable debug menu for posts`
@@ -208,7 +208,7 @@
 
 * **App Version:** `21.32.2`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.39.1`
+* **Patches Version:** `1.40.0-dev.2`
 
 * **Applied Patches (73):**
   * `Add to queue`

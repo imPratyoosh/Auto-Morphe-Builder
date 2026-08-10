@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.4"
+                "version": "3.9.0-dev.6"
             }
         ],
         "applied": [
@@ -35,7 +35,6 @@
             "Disable auto timeline scroll on launch",
             "Disable chirp font",
             "Download patch",
-            "Dynamic color",
             "Enable PiP mode automatically",
             "Enable Undo Posts",
             "Enable debug menu for posts",
@@ -88,7 +87,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.4"
+                "version": "3.9.0-dev.6"
             }
         ],
         "applied": [
@@ -132,6 +131,7 @@
             "More options on post",
             "More options on profile",
             "Open links externally",
+            "Recommended flags",
             "Remove build expired popup",
             "Remove empty bottom space",
             "Sanitize share links",
@@ -239,7 +239,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.1"
+                "version": "1.40.0-dev.2"
             }
         ],
         "applied": [
