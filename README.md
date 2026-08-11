@@ -16,7 +16,7 @@
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.6`
+* **Patches Version:** `3.9.0-dev.7`
 
 * **Applied Patches (55):**
   * `Add settings`
@@ -125,7 +125,7 @@
 
 * **App Version:** `12.11.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.6`
+* **Patches Version:** `3.9.0-dev.7`
 
 * **Applied Patches (71):**
   * `Add ability to copy media link`
@@ -208,7 +208,7 @@
 
 * **App Version:** `21.32.2`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.2`
+* **Patches Version:** `1.40.0-dev.3`
 
 * **Applied Patches (73):**
   * `Add to queue`
