@@ -239,7 +239,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.3"
+                "version": "1.40.0-dev.4"
             }
         ],
         "applied": [
@@ -377,15 +377,15 @@
         ]
     },
     "Reddit": {
-        "version": "2026.30.0",
+        "version": "2026.32.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.3.0-dev.15"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.40.0-dev.4"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.3"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.3.1-dev.1"
             }
         ],
         "applied": [
@@ -394,6 +394,7 @@
             "Disable home feed auto-refresh",
             "Disable home screen redirect",
             "Disable modern home",
+            "Disable post detail swipe",
             "Disable screenshot popup",
             "Force system font",
             "Hide Ask button",

@@ -84,16 +84,17 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
-* **App Version:** `2026.30.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.3.0-dev.15, 1.39.0-dev.3`
+* **App Version:** `2026.32.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.40.0-dev.4, 1.3.1-dev.1`
 
-* **Applied Patches (21):**
+* **Applied Patches (22):**
   * `Colorize comment indent lines`
   * `Custom font`
   * `Disable home feed auto-refresh`
   * `Disable home screen redirect`
   * `Disable modern home`
+  * `Disable post detail swipe`
   * `Disable screenshot popup`
   * `Force system font`
   * `Hide Ask button`
@@ -208,7 +209,7 @@
 
 * **App Version:** `21.32.2`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.3`
+* **Patches Version:** `1.40.0-dev.4`
 
 * **Applied Patches (73):**
   * `Add to queue`
