@@ -220,7 +220,6 @@
             "Spoof video streams",
             "Spoof watch history",
             "Swipe controls",
-            "Theme",
             "Toolbar components",
             "Video playback",
             "Voice Over Translation",
@@ -324,11 +323,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.30.52",
+        "version": "9.31.51",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.39.0-dev.11"
+                "version": "1.40.0-dev.4"
             }
         ],
         "applied": [
@@ -338,7 +337,6 @@
             "Change start page",
             "Check watch history domain name resolution",
             "Crossfade",
-            "Custom branding",
             "Disable DRC audio",
             "Disable QUIC protocol",
             "Disable dislike redirection",
@@ -373,6 +371,7 @@
         ],
         "excluded": [
             "Disable Play Store updates",
+            "Custom branding",
             "Enable debugging"
         ]
     },
@@ -380,12 +379,12 @@
         "version": "2026.32.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.4"
-            },
-            {
                 "repo": "jkennethcarino/adobo",
                 "version": "1.3.1-dev.1"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.40.0-dev.4"
             }
         ],
         "applied": [
