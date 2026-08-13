@@ -156,7 +156,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.2.0"
+                "version": "4.3.0-dev.1"
             }
         ],
         "applied": [
@@ -181,7 +181,6 @@
             "Disable resuming Miniplayer on startup",
             "Disable resuming Shorts on startup",
             "Disable sign in to TV popup",
-            "Disable splash animation",
             "Enable gradient loading screen",
             "Force original audio",
             "Force player buttons background",
@@ -197,12 +196,12 @@
             "Hide player buttons",
             "Hide player flyout menu",
             "Hide shortcuts",
-            "Hook YouTube Music actions",
             "Hook download actions",
             "Miniplayer",
             "Navigation bar components",
             "Open links externally",
             "Overlay buttons",
+            "Override YouTube Music buttons",
             "Playback in feeds",
             "Player components",
             "Remove background playback restrictions",
@@ -234,11 +233,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.32.2",
+        "version": "21.33.321",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.4"
+                "version": "1.40.0-dev.5"
             }
         ],
         "applied": [
@@ -327,7 +326,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.4"
+                "version": "1.40.0-dev.5"
             }
         ],
         "applied": [
@@ -384,7 +383,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.4"
+                "version": "1.40.0-dev.5"
             }
         ],
         "applied": [

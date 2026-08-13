@@ -86,7 +86,7 @@
 
 * **App Version:** `2026.32.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.3.1-dev.1, 1.40.0-dev.4`
+* **Patches Version:** `1.3.1-dev.1, 1.40.0-dev.5`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -207,9 +207,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.32.2`
+* **App Version:** `21.33.321`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.4`
+* **Patches Version:** `1.40.0-dev.5`
 
 * **Applied Patches (73):**
   * `Add to queue`
@@ -299,7 +299,7 @@
 
 * **App Version:** `9.31.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.4`
+* **Patches Version:** `1.40.0-dev.5`
 
 * **Applied Patches (37):**
   * `Bypass certificate checks`
@@ -353,9 +353,9 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.2.0`
+* **Patches Version:** `4.3.0-dev.1`
 
-* **Applied Patches (67):**
+* **Applied Patches (66):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `Bypass URL redirects`
@@ -377,7 +377,6 @@
   * `Disable resuming Miniplayer on startup`
   * `Disable resuming Shorts on startup`
   * `Disable sign in to TV popup`
-  * `Disable splash animation`
   * `Enable gradient loading screen`
   * `Force original audio`
   * `Force player buttons background`
@@ -393,12 +392,12 @@
   * `Hide player buttons`
   * `Hide player flyout menu`
   * `Hide shortcuts`
-  * `Hook YouTube Music actions`
   * `Hook download actions`
   * `Miniplayer`
   * `Navigation bar components`
   * `Open links externally`
   * `Overlay buttons`
+  * `Override YouTube Music buttons`
   * `Playback in feeds`
   * `Player components`
   * `Reload video`
