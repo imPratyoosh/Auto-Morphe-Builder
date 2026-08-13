@@ -8,10 +8,10 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
 version = "auto"
-patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Custom branding icon for YouTube' -OappIcon='xisr_yellow' -OrestoreOldSplashAnimation=true -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='bold' -ObottomMargin='0.1dip' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='#FFE6E9EF' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
+patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='bold' -ObottomMargin='0.1dip' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='#FFE6E9EF' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
 
 [YouTube-ReVanced-Extended.patches]
-"github:anddea/revanced-patches" = { version = "dev", include = ["Custom header for YouTube", "Hide Shorts dimming"], exclude = ["Enable debug logging", "Translations for YouTube"] }
+"github:anddea/revanced-patches" = { version = "dev", include = ["Hide Shorts dimming", "Theme"], exclude = ["Enable debug logging", "Translations for YouTube"] }
 
 [YouTube]
 enabled = true
@@ -21,10 +21,10 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
 version = "exp"
-patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor='#0F0F0F'"
+patcher-args = "-e 'Custom branding' -OcustomName='YouTube' -e 'Theme' -OdarkThemeBackgroundColor='#0F0F0F'"
 
 [YouTube.patches]
-"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
+"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Enable debugging", "Disable play store updates"] }
 
 [YouTube-Music]
 enabled = true
@@ -34,9 +34,10 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 changelog-keywords = ["YouTube Music"]
 arch = "arm64-v8a"
 version = "exp"
+patcher-args = "-e 'Custom branding' -OcustomName'YouTube Music'"
 
 [YouTube-Music.patches]
-"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
+"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Enable debugging", "Disable play store updates"] }
 
 [Reddit]
 enabled = true
