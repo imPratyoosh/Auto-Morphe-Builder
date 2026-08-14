@@ -211,7 +211,7 @@
 * **Patch Bundles:** `MorpheApp/morphe-patches`
 * **Patches Version:** `1.40.0-dev.5`
 
-* **Applied Patches (73):**
+* **Applied Patches (74):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -223,6 +223,7 @@
   * `Change start page`
   * `Check watch history domain name resolution`
   * `Copy video link`
+  * `Custom branding`
   * `Custom player overlay opacity`
   * `Disable DRC audio`
   * `Disable QUIC protocol`
@@ -286,8 +287,7 @@
   * `Voice over translation`
   * `Wide search bar`
 
-* **Excluded Patches (3):**
-  * `Custom branding`
+* **Excluded Patches (2):**
   * `Disable Play Store updates`
   * `Enable debugging`
 </details>
@@ -301,13 +301,14 @@
 * **Patch Bundles:** `MorpheApp/morphe-patches`
 * **Patches Version:** `1.40.0-dev.5`
 
-* **Applied Patches (37):**
+* **Applied Patches (38):**
   * `Bypass certificate checks`
   * `Change header`
   * `Change miniplayer color`
   * `Change start page`
   * `Check watch history domain name resolution`
   * `Crossfade`
+  * `Custom branding`
   * `Disable DRC audio`
   * `Disable QUIC protocol`
   * `Disable dislike redirection`
@@ -340,8 +341,7 @@
   * `Theme`
   * `Third-party lyrics`
 
-* **Excluded Patches (3):**
-  * `Custom branding`
+* **Excluded Patches (2):**
   * `Disable Play Store updates`
   * `Enable debugging`
 </details>
@@ -355,7 +355,7 @@
 * **Patch Bundles:** `anddea/revanced-patches`
 * **Patches Version:** `4.3.0-dev.1`
 
-* **Applied Patches (66):**
+* **Applied Patches (65):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `Bypass URL redirects`
@@ -366,9 +366,7 @@
   * `Change start page`
   * `Custom DPI`
   * `Custom Shorts action buttons`
-  * `Custom branding icon for YouTube`
   * `Custom double tap length`
-  * `Custom header for YouTube`
   * `Description components`
   * `Disable QUIC protocol`
   * `Disable forced auto captions`
@@ -417,6 +415,7 @@
   * `Spoof video streams`
   * `Spoof watch history`
   * `Swipe controls`
+  * `Theme`
   * `Toolbar components`
   * `Video playback`
   * `Visual preferences icons for YouTube`

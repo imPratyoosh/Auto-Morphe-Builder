@@ -170,9 +170,7 @@
             "Change start page",
             "Custom DPI",
             "Custom Shorts action buttons",
-            "Custom branding icon for YouTube",
             "Custom double tap length",
-            "Custom header for YouTube",
             "Description components",
             "Disable QUIC protocol",
             "Disable forced auto captions",
@@ -219,6 +217,7 @@
             "Spoof video streams",
             "Spoof watch history",
             "Swipe controls",
+            "Theme",
             "Toolbar components",
             "Video playback",
             "Voice Over Translation",
@@ -252,6 +251,7 @@
             "Change start page",
             "Check watch history domain name resolution",
             "Copy video link",
+            "Custom branding",
             "Custom player overlay opacity",
             "Disable DRC audio",
             "Disable QUIC protocol",
@@ -317,7 +317,6 @@
         ],
         "excluded": [
             "Disable Play Store updates",
-            "Custom branding",
             "Enable debugging"
         ]
     },
@@ -336,6 +335,7 @@
             "Change start page",
             "Check watch history domain name resolution",
             "Crossfade",
+            "Custom branding",
             "Disable DRC audio",
             "Disable QUIC protocol",
             "Disable dislike redirection",
@@ -370,7 +370,6 @@
         ],
         "excluded": [
             "Disable Play Store updates",
-            "Custom branding",
             "Enable debugging"
         ]
     },
