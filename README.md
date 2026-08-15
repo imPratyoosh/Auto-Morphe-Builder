@@ -85,8 +85,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.32.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.3.1-dev.1, 1.40.0-dev.5`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.40.0-dev.6, 1.3.1-dev.1`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -209,7 +209,7 @@
 
 * **App Version:** `21.33.321`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.5`
+* **Patches Version:** `1.40.0-dev.6`
 
 * **Applied Patches (74):**
   * `Add to queue`
@@ -299,7 +299,7 @@
 
 * **App Version:** `9.31.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.5`
+* **Patches Version:** `1.40.0-dev.6`
 
 * **Applied Patches (38):**
   * `Bypass certificate checks`
