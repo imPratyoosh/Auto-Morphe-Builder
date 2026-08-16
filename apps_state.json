@@ -1,10 +1,10 @@
 {
     "Twitter": {
-        "version": "12.11.0-release.0",
+        "version": "12.17.0-release.0",
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.7"
+                "version": "3.9.0-dev.8"
             }
         ],
         "applied": [
@@ -87,7 +87,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.7"
+                "version": "3.9.0-dev.8"
             }
         ],
         "applied": [
@@ -96,6 +96,7 @@
             "Change like animation",
             "Clone",
             "Copy comment",
+            "Custom sharing domain",
             "Customise story ring size",
             "Customise story timestamp",
             "Disable Reels scrolling",
@@ -126,6 +127,7 @@
             "Hide suggested content",
             "Improve image viewing",
             "Limit feed to following profiles",
+            "Loop story",
             "Make ephemeral media permanent",
             "Mark chat as read manually",
             "More options on post",
@@ -135,6 +137,7 @@
             "Remove build expired popup",
             "Remove empty bottom space",
             "Sanitize share links",
+            "Save deleted messages",
             "Save media comment",
             "Stories audio autoplay",
             "Theme",
@@ -377,12 +380,12 @@
         "version": "2026.32.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.7"
-            },
-            {
                 "repo": "jkennethcarino/adobo",
                 "version": "1.3.1-dev.1"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.40.0-dev.7"
             }
         ],
         "applied": [

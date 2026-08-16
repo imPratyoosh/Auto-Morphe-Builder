@@ -16,14 +16,15 @@
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.7`
+* **Patches Version:** `3.9.0-dev.8`
 
-* **Applied Patches (55):**
+* **Applied Patches (58):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
   * `Clone`
   * `Copy comment`
+  * `Custom sharing domain`
   * `Customise story ring size`
   * `Customise story timestamp`
   * `Disable Reels scrolling`
@@ -54,6 +55,7 @@
   * `Hide suggested content`
   * `Improve image viewing`
   * `Limit feed to following profiles`
+  * `Loop story`
   * `Make ephemeral media permanent`
   * `Mark chat as read manually`
   * `More options on post`
@@ -63,6 +65,7 @@
   * `Remove build expired popup`
   * `Remove empty bottom space`
   * `Sanitize share links`
+  * `Save deleted messages`
   * `Save media comment`
   * `Stories audio autoplay`
   * `Theme`
@@ -85,8 +88,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.32.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.40.0-dev.7, 1.3.1-dev.1`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.3.1-dev.1, 1.40.0-dev.7`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -124,9 +127,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=twitter)
 
-* **App Version:** `12.11.0-release.0`
+* **App Version:** `12.17.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.7`
+* **Patches Version:** `3.9.0-dev.8`
 
 * **Applied Patches (71):**
   * `Add ability to copy media link`
