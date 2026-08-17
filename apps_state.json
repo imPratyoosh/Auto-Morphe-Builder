@@ -4,12 +4,13 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.8"
+                "version": "3.9.0-dev.9"
             }
         ],
         "applied": [
             "Add ability to copy media link",
             "Block redirecting to X Lite",
+            "Block update screen",
             "Bring back twitter",
             "Change app icon",
             "Change version code",
@@ -87,7 +88,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.8"
+                "version": "3.9.0-dev.9"
             }
         ],
         "applied": [

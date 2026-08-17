@@ -16,7 +16,7 @@
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.8`
+* **Patches Version:** `3.9.0-dev.9`
 
 * **Applied Patches (58):**
   * `Add settings`
@@ -129,11 +129,12 @@
 
 * **App Version:** `12.17.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.8`
+* **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (71):**
+* **Applied Patches (72):**
   * `Add ability to copy media link`
   * `Block redirecting to X Lite`
+  * `Block update screen`
   * `Bring back twitter`
   * `Change app icon`
   * `Change version code`
