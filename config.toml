@@ -34,10 +34,9 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 changelog-keywords = ["YouTube Music"]
 arch = "arm64-v8a"
 version = "exp"
-patcher-args = "-e 'Custom branding' -OcustomName='YouTube Music'"
 
 [YouTube-Music.patches]
-"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Enable debugging", "Disable play store updates"] }
+"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
 
 [Reddit]
 enabled = true
