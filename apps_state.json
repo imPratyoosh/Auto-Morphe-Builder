@@ -240,7 +240,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.11"
+                "version": "1.40.0-dev.12"
             }
         ],
         "applied": [
@@ -290,7 +290,6 @@
             "Media notification controls",
             "Miniplayer",
             "Navigation bar",
-            "Network proxy",
             "Open Shorts in regular player",
             "Open channel of live avatar",
             "Open links externally",
@@ -329,7 +328,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.11"
+                "version": "1.40.0-dev.12"
             }
         ],
         "applied": [
@@ -356,7 +355,6 @@
             "Hide music action buttons",
             "Miniplayer previous and next buttons",
             "Navigation bar",
-            "Network proxy",
             "Remember repeat state",
             "Remember shuffle state",
             "Remove background playback restrictions",
@@ -386,7 +384,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.11"
+                "version": "1.40.0-dev.12"
             }
         ],
         "applied": [
