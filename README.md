@@ -355,9 +355,9 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.1`
+* **Patches Version:** `4.3.0-dev.2`
 
-* **Applied Patches (65):**
+* **Applied Patches (66):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `Bypass URL redirects`
@@ -368,6 +368,7 @@
   * `Change start page`
   * `Custom DPI`
   * `Custom Shorts action buttons`
+  * `Custom branding for YouTube`
   * `Custom double tap length`
   * `Description components`
   * `Disable QUIC protocol`
