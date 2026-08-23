@@ -241,7 +241,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.20"
+                "version": "1.40.0-dev.21"
             }
         ],
         "applied": [],
@@ -305,12 +305,12 @@
         "version": "2026.34.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.4.0-dev.2"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.40.0-dev.21"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0-dev.20"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.4.0-dev.2"
             }
         ],
         "applied": [
