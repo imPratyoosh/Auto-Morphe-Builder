@@ -87,9 +87,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
-* **App Version:** `2026.32.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.40.0-dev.14, 1.3.1-dev.1`
+* **App Version:** `2026.34.0`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.4.0-dev.2, 1.40.0-dev.20`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -211,88 +211,15 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.33.321`
+* **App Version:** `21.34.243`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.14`
+* **Patches Version:** `1.40.0-dev.20`
 
-* **Applied Patches (73):**
-  * `Add to queue`
-  * `Alternative thumbnails`
-  * `Ambient mode`
-  * `Bypass image region restrictions`
-  * `Bypass link redirects`
-  * `Captions`
-  * `Change form factor`
-  * `Change header`
-  * `Change start page`
-  * `Check watch history domain name resolution`
-  * `Copy video link`
-  * `Custom branding`
-  * `Custom player overlay opacity`
-  * `Disable DRC audio`
-  * `Disable QUIC protocol`
-  * `Disable Shorts resuming on startup`
-  * `Disable double tap actions`
-  * `Disable fullscreen gestures`
-  * `Disable haptic feedback`
-  * `Disable layout updates`
-  * `Disable player popup panels`
-  * `Disable rolling number animations`
-  * `Disable sign in to TV popup`
-  * `Disable video codecs`
-  * `Double tap to seek`
-  * `Downloads`
-  * `Exit fullscreen mode`
-  * `Force original audio`
-  * `GmsCore support`
-  * `Hide Shorts components`
-  * `Hide ads`
-  * `Hide autoplay preview`
-  * `Hide end screen cards`
-  * `Hide end screen suggested video`
-  * `Hide info cards`
-  * `Hide layout components`
-  * `Hide player flyout menu components`
-  * `Hide player overlay buttons`
-  * `Hide related video overlay`
-  * `Hide related videos`
-  * `Hide timestamp`
-  * `Hide video action buttons`
-  * `Loop video`
-  * `Media notification controls`
-  * `Miniplayer`
-  * `Navigation bar`
-  * `Open Shorts in regular player`
-  * `Open channel of live avatar`
-  * `Open links externally`
-  * `Open system share sheet`
-  * `Open videos fullscreen`
-  * `Override YouTube Music buttons`
-  * `Play all`
-  * `Playback in feeds`
-  * `Playback speed`
-  * `Reload video`
-  * `Remove background playback restrictions`
-  * `Remove viewer discretion dialog`
-  * `Return YouTube Dislike`
-  * `Sanitize sharing links`
-  * `Save to watch later`
-  * `Seekbar`
-  * `Settings menu filter`
-  * `Shorts autoplay`
-  * `SponsorBlock`
-  * `Spoof app version`
-  * `Spoof device dimensions`
-  * `Spoof video streams`
-  * `Swipe controls`
-  * `Theme`
-  * `Video quality`
-  * `Voice over translation`
-  * `Wide search bar`
+* **Applied Patches (0):**
+  * `No patches detected.`
 
-* **Excluded Patches (2):**
+* **Excluded Patches (1):**
   * `Disable Play Store updates`
-  * `Enable debugging`
 </details>
 
 <details>
@@ -302,7 +229,7 @@
 
 * **App Version:** `9.33.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0-dev.14`
+* **Patches Version:** `1.40.0-dev.20`
 
 * **Applied Patches (36):**
   * `Bypass certificate checks`
