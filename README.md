@@ -89,7 +89,7 @@
 
 * **App Version:** `2026.34.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.40.0, 1.4.0-dev.2`
+* **Patches Version:** `1.41.0-dev.1, 1.4.0-dev.2`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -213,9 +213,9 @@
 
 * **App Version:** `21.34.243`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0`
+* **Patches Version:** `1.41.0-dev.1`
 
-* **Applied Patches (72):**
+* **Applied Patches (73):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -237,6 +237,7 @@
   * `Disable layout updates`
   * `Disable player popup panels`
   * `Disable rolling number animations`
+  * `Disable scrolling speed limit`
   * `Disable sign in to TV popup`
   * `Disable video codecs`
   * `Double tap to seek`
@@ -275,7 +276,7 @@
   * `Remove viewer discretion dialog`
   * `Return YouTube Dislike`
   * `Sanitize sharing links`
-  * `Save to watch later`
+  * `Save to Watch later`
   * `Seekbar`
   * `Settings menu filter`
   * `Shorts autoplay`
@@ -302,7 +303,7 @@
 
 * **App Version:** `9.33.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.40.0`
+* **Patches Version:** `1.41.0-dev.1`
 
 * **Applied Patches (36):**
   * `Bypass certificate checks`

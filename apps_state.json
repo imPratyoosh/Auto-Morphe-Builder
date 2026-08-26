@@ -241,7 +241,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0"
+                "version": "1.41.0-dev.1"
             }
         ],
         "applied": [
@@ -266,6 +266,7 @@
             "Disable layout updates",
             "Disable player popup panels",
             "Disable rolling number animations",
+            "Disable scrolling speed limit",
             "Disable sign in to TV popup",
             "Disable video codecs",
             "Double tap to seek",
@@ -304,7 +305,7 @@
             "Remove viewer discretion dialog",
             "Return YouTube Dislike",
             "Sanitize sharing links",
-            "Save to watch later",
+            "Save to Watch later",
             "Seekbar",
             "Settings menu filter",
             "Shorts autoplay",
@@ -329,7 +330,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0"
+                "version": "1.41.0-dev.1"
             }
         ],
         "applied": [
@@ -381,7 +382,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.40.0"
+                "version": "1.41.0-dev.1"
             },
             {
                 "repo": "jkennethcarino/adobo",
