@@ -33,7 +33,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 changelog-keywords = ["YouTube Music"]
 arch = "arm64-v8a"
-version = "exp"
+version = "auto"
 
 [YouTube-Music.patches]
 "github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Custom branding", "Enable debugging", "Disable play store updates"] }
