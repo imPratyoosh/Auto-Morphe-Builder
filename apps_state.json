@@ -241,7 +241,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.1"
+                "version": "1.41.0-dev.2"
             }
         ],
         "applied": [
@@ -273,6 +273,7 @@
             "Downloads",
             "Exit fullscreen mode",
             "Force original audio",
+            "Fullscreen video scale",
             "GmsCore support",
             "Hide Shorts components",
             "Hide ads",
@@ -326,11 +327,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.33.52",
+        "version": "9.15.51",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.1"
+                "version": "1.41.0-dev.2"
             }
         ],
         "applied": [
@@ -382,7 +383,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.1"
+                "version": "1.41.0-dev.2"
             },
             {
                 "repo": "jkennethcarino/adobo",

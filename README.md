@@ -89,7 +89,7 @@
 
 * **App Version:** `2026.34.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.41.0-dev.1, 1.4.0-dev.2`
+* **Patches Version:** `1.41.0-dev.2, 1.4.0-dev.2`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -213,9 +213,9 @@
 
 * **App Version:** `21.34.243`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.1`
+* **Patches Version:** `1.41.0-dev.2`
 
-* **Applied Patches (73):**
+* **Applied Patches (74):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -244,6 +244,7 @@
   * `Downloads`
   * `Exit fullscreen mode`
   * `Force original audio`
+  * `Fullscreen video scale`
   * `GmsCore support`
   * `Hide Shorts components`
   * `Hide ads`
@@ -301,9 +302,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `9.33.52`
+* **App Version:** `9.15.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.1`
+* **Patches Version:** `1.41.0-dev.2`
 
 * **Applied Patches (36):**
   * `Bypass certificate checks`
