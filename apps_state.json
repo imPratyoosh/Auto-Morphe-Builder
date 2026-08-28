@@ -4,14 +4,13 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.9"
+                "version": "3.9.0-dev.10"
             }
         ],
         "applied": [
             "Add ability to copy media link",
             "Block redirecting to X Lite",
             "Block update screen",
-            "Bring back twitter",
             "Change app icon",
             "Change version code",
             "Clear tracking params",
@@ -160,7 +159,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.0-dev.2"
+                "version": "4.3.0-dev.4"
             }
         ],
         "applied": [
@@ -188,6 +187,8 @@
             "Force original audio",
             "Force player buttons background",
             "Fullscreen components",
+            "Fullscreen video scale",
+            "Gemini",
             "GmsCore support",
             "Hide Shorts dimming",
             "Hide action buttons",
@@ -241,7 +242,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.2"
+                "version": "1.41.0-dev.3"
             }
         ],
         "applied": [
@@ -291,6 +292,7 @@
             "Loop video",
             "Media notification controls",
             "Miniplayer",
+            "Mute button",
             "Navigation bar",
             "Open Shorts in regular player",
             "Open channel of live avatar",
@@ -301,6 +303,7 @@
             "Play all",
             "Playback in feeds",
             "Playback speed",
+            "PoToken provider",
             "Reload video",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
@@ -327,11 +330,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.15.51",
+        "version": "9.34.52",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.2"
+                "version": "1.41.0-dev.3"
             }
         ],
         "applied": [
@@ -358,6 +361,7 @@
             "Hide music action buttons",
             "Miniplayer previous and next buttons",
             "Navigation bar",
+            "PoToken provider",
             "Remember repeat state",
             "Remember shuffle state",
             "Remove background playback restrictions",
@@ -383,7 +387,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.2"
+                "version": "1.41.0-dev.3"
             },
             {
                 "repo": "jkennethcarino/adobo",

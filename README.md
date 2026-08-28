@@ -89,7 +89,7 @@
 
 * **App Version:** `2026.34.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.41.0-dev.2, 1.4.0-dev.2`
+* **Patches Version:** `1.41.0-dev.3, 1.4.0-dev.2`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -129,13 +129,12 @@
 
 * **App Version:** `12.17.0-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.9`
+* **Patches Version:** `3.9.0-dev.10`
 
-* **Applied Patches (72):**
+* **Applied Patches (71):**
   * `Add ability to copy media link`
   * `Block redirecting to X Lite`
   * `Block update screen`
-  * `Bring back twitter`
   * `Change app icon`
   * `Change version code`
   * `Clear tracking params`
@@ -213,9 +212,9 @@
 
 * **App Version:** `21.34.243`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.2`
+* **Patches Version:** `1.41.0-dev.3`
 
-* **Applied Patches (74):**
+* **Applied Patches (76):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -262,6 +261,7 @@
   * `Loop video`
   * `Media notification controls`
   * `Miniplayer`
+  * `Mute button`
   * `Navigation bar`
   * `Open Shorts in regular player`
   * `Open channel of live avatar`
@@ -272,6 +272,7 @@
   * `Play all`
   * `Playback in feeds`
   * `Playback speed`
+  * `PoToken provider`
   * `Reload video`
   * `Remove background playback restrictions`
   * `Remove viewer discretion dialog`
@@ -302,11 +303,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `9.15.51`
+* **App Version:** `9.34.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.2`
+* **Patches Version:** `1.41.0-dev.3`
 
-* **Applied Patches (36):**
+* **Applied Patches (37):**
   * `Bypass certificate checks`
   * `Change header`
   * `Change miniplayer color`
@@ -330,6 +331,7 @@
   * `Hide music action buttons`
   * `Miniplayer previous and next buttons`
   * `Navigation bar`
+  * `PoToken provider`
   * `Remember repeat state`
   * `Remember shuffle state`
   * `Remove background playback restrictions`
@@ -357,9 +359,9 @@
 
 * **App Version:** `20.51.39`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.2`
+* **Patches Version:** `4.3.0-dev.4`
 
-* **Applied Patches (66):**
+* **Applied Patches (68):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `Bypass URL redirects`
@@ -384,6 +386,8 @@
   * `Force original audio`
   * `Force player buttons background`
   * `Fullscreen components`
+  * `Fullscreen video scale`
+  * `Gemini`
   * `GmsCore support`
   * `Hide Shorts dimming`
   * `Hide action buttons`
