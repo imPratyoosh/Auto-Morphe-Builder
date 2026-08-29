@@ -89,7 +89,7 @@
 
 * **App Version:** `2026.34.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.41.0-dev.3, 1.4.0-dev.2`
+* **Patches Version:** `1.41.0-dev.4, 1.4.0-dev.2`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -210,11 +210,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.34.243`
+* **App Version:** `21.35.442`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.3`
+* **Patches Version:** `1.41.0-dev.4`
 
-* **Applied Patches (76):**
+* **Applied Patches (77):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -235,6 +235,7 @@
   * `Disable haptic feedback`
   * `Disable layout updates`
   * `Disable player popup panels`
+  * `Disable playlist autoplay`
   * `Disable rolling number animations`
   * `Disable scrolling speed limit`
   * `Disable sign in to TV popup`
@@ -305,7 +306,7 @@
 
 * **App Version:** `9.34.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.3`
+* **Patches Version:** `1.41.0-dev.4`
 
 * **Applied Patches (37):**
   * `Bypass certificate checks`

@@ -238,11 +238,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.34.243",
+        "version": "21.35.442",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.3"
+                "version": "1.41.0-dev.4"
             }
         ],
         "applied": [
@@ -266,6 +266,7 @@
             "Disable haptic feedback",
             "Disable layout updates",
             "Disable player popup panels",
+            "Disable playlist autoplay",
             "Disable rolling number animations",
             "Disable scrolling speed limit",
             "Disable sign in to TV popup",
@@ -334,7 +335,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.3"
+                "version": "1.41.0-dev.4"
             }
         ],
         "applied": [
@@ -387,7 +388,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.3"
+                "version": "1.41.0-dev.4"
             },
             {
                 "repo": "jkennethcarino/adobo",
