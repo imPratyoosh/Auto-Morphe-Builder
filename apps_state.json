@@ -242,7 +242,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.4"
+                "version": "1.41.0-dev.7"
             }
         ],
         "applied": [
@@ -335,7 +335,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.4"
+                "version": "1.41.0-dev.7"
             }
         ],
         "applied": [
@@ -362,6 +362,7 @@
             "Hide music action buttons",
             "Miniplayer previous and next buttons",
             "Navigation bar",
+            "Play albums songs",
             "PoToken provider",
             "Remember repeat state",
             "Remember shuffle state",
@@ -384,15 +385,15 @@
         ]
     },
     "Reddit": {
-        "version": "2026.34.0",
+        "version": "2026.35.0",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.4"
+                "version": "1.41.0-dev.7"
             },
             {
                 "repo": "jkennethcarino/adobo",
-                "version": "1.4.0-dev.2"
+                "version": "1.4.0-dev.4"
             }
         ],
         "applied": [

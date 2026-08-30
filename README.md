@@ -87,9 +87,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
-* **App Version:** `2026.34.0`
+* **App Version:** `2026.35.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.41.0-dev.4, 1.4.0-dev.2`
+* **Patches Version:** `1.41.0-dev.7, 1.4.0-dev.4`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -212,7 +212,7 @@
 
 * **App Version:** `21.35.442`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.4`
+* **Patches Version:** `1.41.0-dev.7`
 
 * **Applied Patches (77):**
   * `Add to queue`
@@ -306,9 +306,9 @@
 
 * **App Version:** `9.34.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.4`
+* **Patches Version:** `1.41.0-dev.7`
 
-* **Applied Patches (37):**
+* **Applied Patches (38):**
   * `Bypass certificate checks`
   * `Change header`
   * `Change miniplayer color`
@@ -332,6 +332,7 @@
   * `Hide music action buttons`
   * `Miniplayer previous and next buttons`
   * `Navigation bar`
+  * `Play albums songs`
   * `PoToken provider`
   * `Remember repeat state`
   * `Remember shuffle state`
