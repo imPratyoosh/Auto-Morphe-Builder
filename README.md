@@ -88,8 +88,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.35.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.41.0-dev.7, 1.4.0-dev.4`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.4.0, 1.41.0-dev.9`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -127,9 +127,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=twitter)
 
-* **App Version:** `12.17.0-release.0`
+* **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0-dev.10`
+* **Patches Version:** `3.9.0`
 
 * **Applied Patches (71):**
   * `Add ability to copy media link`
@@ -212,12 +212,13 @@
 
 * **App Version:** `21.35.442`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.7`
+* **Patches Version:** `1.41.0-dev.9`
 
-* **Applied Patches (77):**
+* **Applied Patches (78):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
+  * `App refresh rate`
   * `Bypass image region restrictions`
   * `Bypass link redirects`
   * `Captions`
@@ -306,9 +307,10 @@
 
 * **App Version:** `9.34.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0-dev.7`
+* **Patches Version:** `1.41.0-dev.9`
 
-* **Applied Patches (38):**
+* **Applied Patches (39):**
+  * `App refresh rate`
   * `Bypass certificate checks`
   * `Change header`
   * `Change miniplayer color`

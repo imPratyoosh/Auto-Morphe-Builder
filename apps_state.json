@@ -1,10 +1,10 @@
 {
     "Twitter": {
-        "version": "12.17.0-release.0",
+        "version": "12.19.1-release.0",
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.9.0-dev.10"
+                "version": "3.9.0"
             }
         ],
         "applied": [
@@ -242,13 +242,14 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.7"
+                "version": "1.41.0-dev.9"
             }
         ],
         "applied": [
             "Add to queue",
             "Alternative thumbnails",
             "Ambient mode",
+            "App refresh rate",
             "Bypass image region restrictions",
             "Bypass link redirects",
             "Captions",
@@ -335,10 +336,11 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.7"
+                "version": "1.41.0-dev.9"
             }
         ],
         "applied": [
+            "App refresh rate",
             "Bypass certificate checks",
             "Change header",
             "Change miniplayer color",
@@ -388,12 +390,12 @@
         "version": "2026.35.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0-dev.7"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.4.0"
             },
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.4.0-dev.4"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.41.0-dev.9"
             }
         ],
         "applied": [
