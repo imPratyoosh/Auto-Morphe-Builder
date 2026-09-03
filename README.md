@@ -89,7 +89,7 @@
 
 * **App Version:** `2026.35.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.4.0, 1.41.0`
+* **Patches Version:** `1.4.0, 1.42.0-dev.1`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -129,7 +129,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.9.0`
+* **Patches Version:** `3.10.0-dev.1`
 
 * **Applied Patches (71):**
   * `Add ability to copy media link`
@@ -212,7 +212,7 @@
 
 * **App Version:** `21.35.442`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0`
+* **Patches Version:** `1.42.0-dev.1`
 
 * **Applied Patches (78):**
   * `Add to queue`
@@ -307,7 +307,7 @@
 
 * **App Version:** `9.34.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.41.0`
+* **Patches Version:** `1.42.0-dev.1`
 
 * **Applied Patches (39):**
   * `App refresh rate`
