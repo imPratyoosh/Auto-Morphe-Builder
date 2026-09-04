@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0-dev.1"
+                "version": "3.10.0-dev.3"
             }
         ],
         "applied": [
@@ -242,7 +242,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.1"
+                "version": "1.42.0-dev.2"
             }
         ],
         "applied": [
@@ -332,11 +332,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.34.52",
+        "version": "9.35.54",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.1"
+                "version": "1.42.0-dev.2"
             }
         ],
         "applied": [
@@ -395,7 +395,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.1"
+                "version": "1.42.0-dev.2"
             }
         ],
         "applied": [
