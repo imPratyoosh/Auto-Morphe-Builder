@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0-dev.3"
+                "version": "3.10.0-dev.4"
             }
         ],
         "applied": [
@@ -155,11 +155,11 @@
         ]
     },
     "YouTube-ReVanced-Extended": {
-        "version": "20.51.39",
+        "version": "21.07.247",
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.0-dev.4"
+                "version": "4.3.0-dev.5"
             }
         ],
         "applied": [
@@ -173,13 +173,13 @@
             "Change start page",
             "Custom DPI",
             "Custom Shorts action buttons",
-            "Custom branding for YouTube",
             "Custom double tap length",
             "Description components",
             "Disable QUIC protocol",
             "Disable forced auto captions",
             "Disable haptic feedback",
             "Disable layout updates",
+            "Disable playlist autoplay",
             "Disable resuming Miniplayer on startup",
             "Disable resuming Shorts on startup",
             "Disable sign in to TV popup",
@@ -203,16 +203,19 @@
             "Hook download actions",
             "Miniplayer",
             "Navigation bar components",
+            "Open channel of live avatar",
             "Open links externally",
             "Overlay buttons",
             "Override YouTube Music buttons",
             "Playback in feeds",
             "Player components",
+            "PoToken provider",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
             "Return YouTube Dislike",
             "Return YouTube Username",
             "Sanitize sharing links",
+            "Save to Watch later",
             "Seekbar components",
             "Set transcript cookies",
             "Settings menu filter",
@@ -230,6 +233,7 @@
             "Wide search bar",
             "Visual preferences icons for YouTube",
             "Reload video",
+            "Custom branding for YouTube",
             "Settings for YouTube"
         ],
         "excluded": [

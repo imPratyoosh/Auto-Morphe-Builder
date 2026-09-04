@@ -129,7 +129,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.3`
+* **Patches Version:** `3.10.0-dev.4`
 
 * **Applied Patches (71):**
   * `Add ability to copy media link`
@@ -361,11 +361,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-revanced-extended)
 
-* **App Version:** `20.51.39`
+* **App Version:** `21.07.247`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.4`
+* **Patches Version:** `4.3.0-dev.5`
 
-* **Applied Patches (68):**
+* **Applied Patches (72):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `Bypass URL redirects`
@@ -383,6 +383,7 @@
   * `Disable forced auto captions`
   * `Disable haptic feedback`
   * `Disable layout updates`
+  * `Disable playlist autoplay`
   * `Disable resuming Miniplayer on startup`
   * `Disable resuming Shorts on startup`
   * `Disable sign in to TV popup`
@@ -406,17 +407,20 @@
   * `Hook download actions`
   * `Miniplayer`
   * `Navigation bar components`
+  * `Open channel of live avatar`
   * `Open links externally`
   * `Overlay buttons`
   * `Override YouTube Music buttons`
   * `Playback in feeds`
   * `Player components`
+  * `PoToken provider`
   * `Reload video`
   * `Remove background playback restrictions`
   * `Remove viewer discretion dialog`
   * `Return YouTube Dislike`
   * `Return YouTube Username`
   * `Sanitize sharing links`
+  * `Save to Watch later`
   * `Seekbar components`
   * `Set transcript cookies`
   * `Settings for YouTube`
