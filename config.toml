@@ -87,7 +87,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/gboard/"
 patcher-args = "-e 'Package Rename' -Oapp_display_name='Gboard Mod'"
 
 [Gboard.patches]
-github:jasonwu1994/Gboard-patches = []
+"github:jasonwu1994/Gboard-patches" = []
 
 [Pinterest]
 enabled = true
@@ -96,8 +96,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest/pinterest-one-destina
 arch = "arm64-v8a"
 
 [Pinterest.patches]
-github:browzomje/browzomje-patches = { version = "dev" }
-github:MorpheApp/morphe-patches = []
+"github:browzomje/browzomje-patches" = { version = "dev" }
+"github:MorpheApp/morphe-patches" = []
 
 [Google-Photos]
 enabled = false
