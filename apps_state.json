@@ -242,11 +242,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.35.442",
+        "version": "21.36.45",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.2"
+                "version": "1.42.0-dev.6"
             }
         ],
         "applied": [
@@ -311,6 +311,7 @@
             "Playback speed",
             "PoToken provider",
             "Reload video",
+            "Remember livestream playback position",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
             "Return YouTube Dislike",
@@ -340,7 +341,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.2"
+                "version": "1.42.0-dev.6"
             }
         ],
         "applied": [
@@ -394,12 +395,12 @@
         "version": "2026.35.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.4.0"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.42.0-dev.6"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.2"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.5.0-dev.2"
             }
         ],
         "applied": [
@@ -432,5 +433,157 @@
             "Open external links directly",
             "Sanitize share links"
         ]
+    },
+    "YouTube-Music-ReVanced-Extended": {
+        "version": "9.15.51",
+        "bundles": [
+            {
+                "repo": "anddea/revanced-patches",
+                "version": "4.3.0-dev.5"
+            }
+        ],
+        "applied": [
+            "Bitrate default value",
+            "Bypass image region restrictions",
+            "Certificate spoof",
+            "Change share sheet",
+            "Change start page",
+            "Disable Cairo splash animation",
+            "Disable QUIC protocol",
+            "Disable dislike redirection",
+            "Disable forced auto captions",
+            "Disable music video in album",
+            "Enable debug logging",
+            "Enable landscape mode",
+            "Flyout menu components",
+            "Force original audio",
+            "GmsCore support",
+            "Hide account components",
+            "Hide action bar components",
+            "Hide ads",
+            "Hide layout components",
+            "Navigation bar components",
+            "Player components",
+            "PoToken provider",
+            "Remove background playback restrictions",
+            "Remove viewer discretion dialog",
+            "Restore old style library shelf",
+            "Return YouTube Dislike",
+            "Return YouTube Username",
+            "Sanitize sharing links",
+            "Settings menu filter",
+            "SponsorBlock",
+            "Spoof app version",
+            "Spoof app version for lyrics",
+            "Spoof video streams",
+            "Theme",
+            "Third-party lyrics",
+            "Track crossfade",
+            "Video playback",
+            "Watch history",
+            "Visual preferences icons for YouTube Music",
+            "Custom branding for YouTube Music",
+            "Settings for YouTube Music"
+        ],
+        "excluded": [
+            "Translations for YouTube Music"
+        ]
+    },
+    "Pinterest": {
+        "version": "14.34.0",
+        "bundles": [
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.41.0"
+            },
+            {
+                "repo": "browzomje/browzomje-patches",
+                "version": "1.10.0"
+            }
+        ],
+        "applied": [
+            "Copy direct link",
+            "Disable AppsFlyer tracking",
+            "Disable Google Engage",
+            "Disable Google Engage worker",
+            "Disable ads",
+            "Disable email confirmation dialog",
+            "Disable third-party trackers",
+            "Download board",
+            "Download pin from long press",
+            "Download video",
+            "Hide Create nav button",
+            "Hide Notifications nav button",
+            "Hide Search nav button",
+            "Hide ad views",
+            "Hide comments",
+            "Hide greeting header buttons",
+            "Hide screenshot share menu",
+            "Hide search history",
+            "Morphe runtime names",
+            "Morphe settings entry",
+            "Morphe settings screen (label)",
+            "Morphe settings screen (manifest)",
+            "Neutralize advertising ID",
+            "Open links in the default browser",
+            "Sanitize copied links",
+            "Sanitize shared links",
+            "Set pin as wallpaper",
+            "Use the system share sheet",
+            "Disable Play Store updates"
+        ],
+        "excluded": []
+    },
+    "Gboard": {
+        "version": "18.0.3.954559732-release-arm64-v8a",
+        "bundles": [
+            {
+                "repo": "jasonwu1994/Gboard-patches",
+                "version": "3.10.0"
+            }
+        ],
+        "applied": [
+            "AI Writing Tools",
+            "Access Points menu style",
+            "Add Gboard Signature Bypass",
+            "Advanced Voice Typing",
+            "Backup & Restore",
+            "Change emoji size",
+            "Clipboard Custom Character Limit",
+            "Clipboard Enhancements",
+            "Close Proactive Suggestions",
+            "Custom Symbols",
+            "Developer options",
+            "Emojis, stickers & GIFs Tab Order",
+            "Enable Inline Autofill Suggestions",
+            "Enable OCR / Scan Text",
+            "Enable accessibility layout",
+            "Enable cursor trackpad mode",
+            "Enable split keyboard",
+            "English QWERTY Up-Flick Uppercase",
+            "FTP Server",
+            "Floating Web Search",
+            "G Logo on Spacebar",
+            "Grammar Checker",
+            "Hyperspeed Typing Animation",
+            "Incognito Mode Toggle",
+            "Inline Suggestions",
+            "Key Shape Selection",
+            "Latin Globe Key Ignore Interval",
+            "Long-Press Editing Shortcuts",
+            "Quick Insert",
+            "Rounded Keyboard Panel",
+            "Settings Homepage Override",
+            "Simple Calculator",
+            "Swipeable Custom Top Row",
+            "Top Toolbar Item Count",
+            "Use Bluetooth Microphone",
+            "Web Clipboard",
+            "Zhuyin Bottom Row Key Sizes",
+            "Zhuyin Quick Traditional/Simplified Toggle",
+            "Zhuyin Slide Input",
+            "Package Rename"
+        ],
+        "excluded": []
     }
 }

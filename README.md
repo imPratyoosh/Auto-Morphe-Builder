@@ -10,7 +10,59 @@
 ## 📋 List of apps in this repository
 
 <details>
-<summary><b>1. Instagram</b></summary>
+<summary><b>1. Gboard</b></summary>
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
+
+* **App Version:** `18.0.3.954559732-release-arm64-v8a`
+* **Patch Bundles:** `jasonwu1994/Gboard-patches`
+* **Patches Version:** `3.10.0`
+
+* **Applied Patches (40):**
+  * `AI Writing Tools`
+  * `Access Points menu style`
+  * `Add Gboard Signature Bypass`
+  * `Advanced Voice Typing`
+  * `Backup & Restore`
+  * `Change emoji size`
+  * `Clipboard Custom Character Limit`
+  * `Clipboard Enhancements`
+  * `Close Proactive Suggestions`
+  * `Custom Symbols`
+  * `Developer options`
+  * `Emojis, stickers & GIFs Tab Order`
+  * `Enable Inline Autofill Suggestions`
+  * `Enable OCR / Scan Text`
+  * `Enable accessibility layout`
+  * `Enable cursor trackpad mode`
+  * `Enable split keyboard`
+  * `English QWERTY Up-Flick Uppercase`
+  * `FTP Server`
+  * `Floating Web Search`
+  * `G Logo on Spacebar`
+  * `Grammar Checker`
+  * `Hyperspeed Typing Animation`
+  * `Incognito Mode Toggle`
+  * `Inline Suggestions`
+  * `Key Shape Selection`
+  * `Latin Globe Key Ignore Interval`
+  * `Long-Press Editing Shortcuts`
+  * `Package Rename`
+  * `Quick Insert`
+  * `Rounded Keyboard Panel`
+  * `Settings Homepage Override`
+  * `Simple Calculator`
+  * `Swipeable Custom Top Row`
+  * `Top Toolbar Item Count`
+  * `Use Bluetooth Microphone`
+  * `Web Clipboard`
+  * `Zhuyin Bottom Row Key Sizes`
+  * `Zhuyin Quick Traditional/Simplified Toggle`
+  * `Zhuyin Slide Input`
+</details>
+
+<details>
+<summary><b>2. Instagram</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=instagram)
 
@@ -83,13 +135,54 @@
 </details>
 
 <details>
-<summary><b>2. Reddit</b></summary>
+<summary><b>3. Pinterest</b></summary>
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=pinterest)
+
+* **App Version:** `14.34.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, browzomje/browzomje-patches`
+* **Patches Version:** `1.41.0, 1.10.0`
+
+* **Applied Patches (29):**
+  * `Copy direct link`
+  * `Disable AppsFlyer tracking`
+  * `Disable Google Engage`
+  * `Disable Google Engage worker`
+  * `Disable Play Store updates`
+  * `Disable ads`
+  * `Disable email confirmation dialog`
+  * `Disable third-party trackers`
+  * `Download board`
+  * `Download pin from long press`
+  * `Download video`
+  * `Hide Create nav button`
+  * `Hide Notifications nav button`
+  * `Hide Search nav button`
+  * `Hide ad views`
+  * `Hide comments`
+  * `Hide greeting header buttons`
+  * `Hide screenshot share menu`
+  * `Hide search history`
+  * `Morphe runtime names`
+  * `Morphe settings entry`
+  * `Morphe settings screen (label)`
+  * `Morphe settings screen (manifest)`
+  * `Neutralize advertising ID`
+  * `Open links in the default browser`
+  * `Sanitize copied links`
+  * `Sanitize shared links`
+  * `Set pin as wallpaper`
+  * `Use the system share sheet`
+</details>
+
+<details>
+<summary><b>4. Reddit</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.35.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.4.0, 1.42.0-dev.2`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.42.0-dev.6, 1.5.0-dev.2`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -123,7 +216,7 @@
 </details>
 
 <details>
-<summary><b>3. Twitter</b></summary>
+<summary><b>5. Twitter</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=twitter)
 
@@ -206,15 +299,15 @@
 </details>
 
 <details>
-<summary><b>4. YouTube</b></summary>
+<summary><b>6. YouTube</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.35.442`
+* **App Version:** `21.36.45`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.42.0-dev.2`
+* **Patches Version:** `1.42.0-dev.6`
 
-* **Applied Patches (78):**
+* **Applied Patches (79):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -276,6 +369,7 @@
   * `Playback speed`
   * `PoToken provider`
   * `Reload video`
+  * `Remember livestream playback position`
   * `Remove background playback restrictions`
   * `Remove viewer discretion dialog`
   * `Return YouTube Dislike`
@@ -301,13 +395,13 @@
 </details>
 
 <details>
-<summary><b>5. YouTube-Music</b></summary>
+<summary><b>7. YouTube-Music</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
 * **App Version:** `9.35.54`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.42.0-dev.2`
+* **Patches Version:** `1.42.0-dev.6`
 
 * **Applied Patches (39):**
   * `App refresh rate`
@@ -357,7 +451,63 @@
 </details>
 
 <details>
-<summary><b>6. YouTube-ReVanced-Extended</b></summary>
+<summary><b>8. YouTube-Music-ReVanced-Extended</b></summary>
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music-revanced-extended)
+
+* **App Version:** `9.15.51`
+* **Patch Bundles:** `anddea/revanced-patches`
+* **Patches Version:** `4.3.0-dev.5`
+
+* **Applied Patches (41):**
+  * `Bitrate default value`
+  * `Bypass image region restrictions`
+  * `Certificate spoof`
+  * `Change share sheet`
+  * `Change start page`
+  * `Custom branding for YouTube Music`
+  * `Disable Cairo splash animation`
+  * `Disable QUIC protocol`
+  * `Disable dislike redirection`
+  * `Disable forced auto captions`
+  * `Disable music video in album`
+  * `Enable debug logging`
+  * `Enable landscape mode`
+  * `Flyout menu components`
+  * `Force original audio`
+  * `GmsCore support`
+  * `Hide account components`
+  * `Hide action bar components`
+  * `Hide ads`
+  * `Hide layout components`
+  * `Navigation bar components`
+  * `Player components`
+  * `PoToken provider`
+  * `Remove background playback restrictions`
+  * `Remove viewer discretion dialog`
+  * `Restore old style library shelf`
+  * `Return YouTube Dislike`
+  * `Return YouTube Username`
+  * `Sanitize sharing links`
+  * `Settings for YouTube Music`
+  * `Settings menu filter`
+  * `SponsorBlock`
+  * `Spoof app version`
+  * `Spoof app version for lyrics`
+  * `Spoof video streams`
+  * `Theme`
+  * `Third-party lyrics`
+  * `Track crossfade`
+  * `Video playback`
+  * `Visual preferences icons for YouTube Music`
+  * `Watch history`
+
+* **Excluded Patches (1):**
+  * `Translations for YouTube Music`
+</details>
+
+<details>
+<summary><b>9. YouTube-ReVanced-Extended</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-revanced-extended)
 
