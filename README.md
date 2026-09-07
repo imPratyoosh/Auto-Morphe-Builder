@@ -182,7 +182,7 @@
 
 * **App Version:** `2026.35.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.42.0-dev.6, 1.5.0-dev.2`
+* **Patches Version:** `1.42.0-dev.7, 1.5.0-dev.2`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -222,9 +222,9 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.4`
+* **Patches Version:** `3.10.0-dev.5`
 
-* **Applied Patches (71):**
+* **Applied Patches (72):**
   * `Add ability to copy media link`
   * `Block redirecting to X Lite`
   * `Block update screen`
@@ -288,6 +288,7 @@
   * `Remove premium upsell`
   * `Remove search suggestions`
   * `Remove view count`
+  * `Restore legacy follower lists`
   * `Round off numbers`
   * `Selectable Text`
   * `Share Tweet as Image`
@@ -305,7 +306,7 @@
 
 * **App Version:** `21.36.45`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.42.0-dev.6`
+* **Patches Version:** `1.42.0-dev.7`
 
 * **Applied Patches (79):**
   * `Add to queue`
@@ -401,7 +402,7 @@
 
 * **App Version:** `9.35.54`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.42.0-dev.6`
+* **Patches Version:** `1.42.0-dev.7`
 
 * **Applied Patches (39):**
   * `App refresh rate`

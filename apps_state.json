@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0-dev.4"
+                "version": "3.10.0-dev.5"
             }
         ],
         "applied": [
@@ -71,6 +71,7 @@
             "Remove premium upsell",
             "Remove search suggestions",
             "Remove view count",
+            "Restore legacy follower lists",
             "Round off numbers",
             "Selectable Text",
             "Share Tweet as Image",
@@ -246,7 +247,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.6"
+                "version": "1.42.0-dev.7"
             }
         ],
         "applied": [
@@ -341,7 +342,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.6"
+                "version": "1.42.0-dev.7"
             }
         ],
         "applied": [
@@ -396,7 +397,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.6"
+                "version": "1.42.0-dev.7"
             },
             {
                 "repo": "jkennethcarino/adobo",
