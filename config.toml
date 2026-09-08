@@ -110,3 +110,13 @@ arch = "arm64-v8a"
 
 [Google-Photos.patches]
 "github:RookieEnough/De-Vanced" = []
+
+[X]
+enabled = true
+brand = "Piko"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/
+arch = "arm64-v8a"
+version = "exp"
+
+[X.patches]
+"github:crimera/piko-newx" = { version = "dev" }
