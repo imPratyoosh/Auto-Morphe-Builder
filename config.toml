@@ -7,7 +7,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 changelog-keywords = ["YouTube"]
 arch = "arm64-v8a"
 version = "auto"
-patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='rounded' -ObottomMargin='0.1dip' -e 'Settings for YouTube' -OrvxSettingsLabel='ReVanced Extended' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='?attr/ytChipBackground' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
+patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Force player buttons background' -OBackgroundColor='#99000000' -e 'Hide shortcuts' -Oexplore=true -Osubscriptions=true -Osearch=true -e 'Overlay buttons' -OiconType='rounded' -ObottomMargin='0.1dip' -e 'Settings for YouTube' -OrvxSettingsLabel='Settings' -e 'Snack bar components' -OcornerRadius='100.0dip' -OapplyCornerRadiusToPlaylistBottomBar=true -OdarkThemeBackgroundColor='@android:color/black' -OlightThemeBackgroundColor='@android:color/white' -OstrokeColor='?attr/ytChipBackground' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='revanced'"
 
 [YouTube-ReVanced-Extended.patches]
 "github:anddea/revanced-patches" = { version = "dev", include = ["Hide Shorts dimming"], exclude = ["Enable debug logging", "Translations for YouTube"] }
@@ -19,10 +19,10 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 changelog-keywords = ["YouTube Music"]
 arch = "arm64-v8a"
 version = "auto"
-patcher-args = "-e 'Settings for YouTube Music' -OrvxSettingsLabel='ReVanced Extended' -e 'Visual preferences icons for YouTube Music' -OsettingsMenuIcon='revanced'"
+patcher-args = "-e 'Settings for YouTube Music' -OrvxSettingsLabel='Settings' -e 'Visual preferences icons for YouTube Music' -OsettingsMenuIcon='revanced'"
 
 [YouTube-Music-ReVanced-Extended.patches]
-"github:anddea/revanced-patches" = { version = "dev", include = ["Disable music video in album"], exclude = ["Enable debugging", "Translations for YouTube Music"] }
+"github:anddea/revanced-patches" = { version = "dev", include = ["Disable music video in album"], exclude = ["Enable debug logging", "Translations for YouTube Music"] }
 
 [YouTube]
 enabled = true
@@ -66,13 +66,22 @@ changelog-keywords = ["Twitter"]
 arch = "arm64-v8a"
 
 [Twitter.patches]
-"github:crimera/piko" = { version = "dev", include = ["Browse tweet object"] }
+"github:crimera/piko" = { version = "dev", include = ["Browse tweet object", "Bring back twitter"] }
+
+[X]
+enabled = true
+brand = "Piko"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+version = "auto"
+arch = "arm64-v8a"
+
+[X.patches]
+"github:crimera/piko-newx" = []
 
 [Instagram]
 enabled = true
 brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
-# github-dlurl = "https://github.com/imPratyoosh/APKs-storage/releases/tag/instagram"
 changelog-keywords = ["Instagram"]
 arch = "arm64-v8a"
 patcher-args = "-e 'Clone' -OpackageName='com.instagram' -OappName='Instagram'"
@@ -110,13 +119,3 @@ arch = "arm64-v8a"
 
 [Google-Photos.patches]
 "github:RookieEnough/De-Vanced" = []
-
-[X]
-enabled = true
-brand = "Piko"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-version = "auto"
-arch = "arm64-v8a"
-
-[X.patches]
-"github:crimera/piko-newx" = []
