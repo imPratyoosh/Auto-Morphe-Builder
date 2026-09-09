@@ -114,9 +114,9 @@ arch = "arm64-v8a"
 [X]
 enabled = true
 brand = "Piko"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 version = "exp"
+arch = "arm64-v8a"
 
 [X.patches]
 "github:crimera/piko-newx" = { version = "dev" }
