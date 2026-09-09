@@ -115,7 +115,7 @@ arch = "arm64-v8a"
 enabled = true
 brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-version = "exp"
+version = "auto"
 arch = "arm64-v8a"
 
 [X.patches]
