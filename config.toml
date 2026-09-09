@@ -98,6 +98,7 @@ patcher-args = "-e 'Package Rename' -Oapp_display_name='Gboard Mod'"
 
 [Gboard.patches]
 "github:jasonwu1994/Gboard-patches" = []
+"github:hoo-dles/morphe-patches" = { include = ["Hide app icon"] }
 
 [Pinterest]
 enabled = true
