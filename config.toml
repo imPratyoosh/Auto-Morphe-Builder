@@ -119,4 +119,4 @@ version = "exp"
 arch = "arm64-v8a"
 
 [X.patches]
-"github:crimera/piko-newx" = { version = "dev" }
+"github:crimera/piko-newx" = []
