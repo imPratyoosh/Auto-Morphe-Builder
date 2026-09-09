@@ -300,7 +300,54 @@
 </details>
 
 <details>
-<summary><b>6. YouTube</b></summary>
+<summary><b>6. X</b></summary>
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=x)
+
+* **App Version:** `12.23.1-prod.01`
+* **Patch Bundles:** `crimera/piko-newx`
+* **Patches Version:** `patches`
+
+* **Applied Patches (35):**
+  * `NewX: Custom font`
+  * `NewX: Custom sharing domain`
+  * `NewX: Customize default media tab`
+  * `NewX: Customize default reply sorting`
+  * `NewX: Customize drawer items`
+  * `NewX: Customize inline actions`
+  * `NewX: Customize navigation bar items`
+  * `NewX: Customize timeline tabs`
+  * `NewX: Disable automatic timeline refresh`
+  * `NewX: Disable blur effects`
+  * `NewX: Disable video player scrolling`
+  * `NewX: Dynamic color`
+  * `NewX: Feature switch overrides`
+  * `NewX: Filter For You by topic`
+  * `NewX: Filter posts by keyword`
+  * `NewX: Force highest video/audio quality`
+  * `NewX: Hide AI-generated posts`
+  * `NewX: Hide Discover more`
+  * `NewX: Hide Spaces bar`
+  * `NewX: Hide compose button`
+  * `NewX: Hide new posts pill`
+  * `NewX: Hide post reply bar`
+  * `NewX: Hide posts by verified account type`
+  * `NewX: Hide premium upsell`
+  * `NewX: Hide timeline tabs bar`
+  * `NewX: Hide who to follow`
+  * `NewX: Inline download button`
+  * `NewX: Open canonical URLs`
+  * `NewX: Remove ads`
+  * `NewX: Restore timeline position`
+  * `NewX: Share post as image`
+  * `NewX: Show poll results`
+  * `NewX: Show sensitive media`
+  * `NewX: Unlock color customization`
+  * `NewX: Unlock downloads`
+</details>
+
+<details>
+<summary><b>7. YouTube</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
@@ -396,7 +443,7 @@
 </details>
 
 <details>
-<summary><b>7. YouTube-Music</b></summary>
+<summary><b>8. YouTube-Music</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
@@ -452,7 +499,7 @@
 </details>
 
 <details>
-<summary><b>8. YouTube-Music-ReVanced-Extended</b></summary>
+<summary><b>9. YouTube-Music-ReVanced-Extended</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music-revanced-extended)
 
@@ -508,7 +555,7 @@
 </details>
 
 <details>
-<summary><b>9. YouTube-ReVanced-Extended</b></summary>
+<summary><b>10. YouTube-ReVanced-Extended</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-revanced-extended)
 
