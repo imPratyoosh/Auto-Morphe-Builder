@@ -69,7 +69,7 @@ arch = "arm64-v8a"
 "github:crimera/piko" = { version = "dev", include = ["Browse tweet object", "Bring back twitter"] }
 
 [X]
-enabled = true
+enabled = false
 brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 version = "auto"
