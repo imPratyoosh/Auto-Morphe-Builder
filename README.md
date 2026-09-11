@@ -505,9 +505,10 @@
 
 * **App Version:** `9.15.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.5`
+* **Patches Version:** `4.3.0-dev.6`
 
 * **Applied Patches (41):**
+  * `App refresh rate`
   * `Bitrate default value`
   * `Bypass image region restrictions`
   * `Certificate spoof`
@@ -519,7 +520,6 @@
   * `Disable dislike redirection`
   * `Disable forced auto captions`
   * `Disable music video in album`
-  * `Enable debug logging`
   * `Enable landscape mode`
   * `Flyout menu components`
   * `Force original audio`
@@ -550,7 +550,8 @@
   * `Visual preferences icons for YouTube Music`
   * `Watch history`
 
-* **Excluded Patches (1):**
+* **Excluded Patches (2):**
+  * `Enable debug logging`
   * `Translations for YouTube Music`
 </details>
 
@@ -561,11 +562,12 @@
 
 * **App Version:** `21.07.247`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.5`
+* **Patches Version:** `4.3.0-dev.6`
 
-* **Applied Patches (72):**
+* **Applied Patches (73):**
   * `Alternative thumbnails`
   * `Ambient mode control`
+  * `App refresh rate`
   * `Bypass URL redirects`
   * `Bypass image region restrictions`
   * `Change form factor`
@@ -584,10 +586,10 @@
   * `Disable playlist autoplay`
   * `Disable resuming Miniplayer on startup`
   * `Disable resuming Shorts on startup`
+  * `Disable scrolling speed limit`
   * `Disable sign in to TV popup`
   * `Enable gradient loading screen`
   * `Force original audio`
-  * `Force player buttons background`
   * `Fullscreen components`
   * `Fullscreen video scale`
   * `Gemini`
