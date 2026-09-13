@@ -248,7 +248,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.9"
+                "version": "1.43.0-dev.3"
             }
         ],
         "applied": [
@@ -313,7 +313,7 @@
             "Playback speed",
             "PoToken provider",
             "Reload video",
-            "Remember livestream playback position",
+            "Remember live stream playback position",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
             "Return YouTube Dislike",
@@ -339,11 +339,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.35.54",
+        "version": "9.36.50",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.9"
+                "version": "1.43.0-dev.3"
             }
         ],
         "applied": [
@@ -402,7 +402,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0-dev.9"
+                "version": "1.42.0"
             }
         ],
         "applied": [

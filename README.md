@@ -182,7 +182,7 @@
 
 * **App Version:** `2026.35.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.5.0-dev.2, 1.42.0-dev.9`
+* **Patches Version:** `1.5.0-dev.2, 1.42.0`
 
 * **Applied Patches (22):**
   * `Colorize comment indent lines`
@@ -353,7 +353,7 @@
 
 * **App Version:** `21.36.45`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.42.0-dev.9`
+* **Patches Version:** `1.43.0-dev.3`
 
 * **Applied Patches (79):**
   * `Add to queue`
@@ -417,7 +417,7 @@
   * `Playback speed`
   * `PoToken provider`
   * `Reload video`
-  * `Remember livestream playback position`
+  * `Remember live stream playback position`
   * `Remove background playback restrictions`
   * `Remove viewer discretion dialog`
   * `Return YouTube Dislike`
@@ -447,9 +447,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `9.35.54`
+* **App Version:** `9.36.50`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.42.0-dev.9`
+* **Patches Version:** `1.43.0-dev.3`
 
 * **Applied Patches (39):**
   * `App refresh rate`
