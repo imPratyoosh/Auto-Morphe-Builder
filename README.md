@@ -15,10 +15,10 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
-* **Patch Bundles:** `jasonwu1994/Gboard-patches`
-* **Patches Version:** `3.10.0`
+* **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
+* **Patches Version:** `1.44.0, 3.10.0`
 
-* **Applied Patches (40):**
+* **Applied Patches (42):**
   * `AI Writing Tools`
   * `Access Points menu style`
   * `Add Gboard Signature Bypass`
@@ -41,12 +41,14 @@
   * `Floating Web Search`
   * `G Logo on Spacebar`
   * `Grammar Checker`
+  * `Hide app icon`
   * `Hyperspeed Typing Animation`
   * `Incognito Mode Toggle`
   * `Inline Suggestions`
   * `Key Shape Selection`
   * `Latin Globe Key Ignore Interval`
   * `Long-Press Editing Shortcuts`
+  * `MicroG integration`
   * `Package Rename`
   * `Quick Insert`
   * `Rounded Keyboard Panel`
@@ -62,7 +64,23 @@
 </details>
 
 <details>
-<summary><b>2. Instagram</b></summary>
+<summary><b>2. Google-Photos</b></summary>
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=google-photos)
+
+* **App Version:** `7.92.0.977185651`
+* **Patch Bundles:** `RookieEnough/De-Vanced`
+* **Patches Version:** `1.4.2`
+
+* **Applied Patches (4):**
+  * `Enable DCIM folders backup control`
+  * `Fix selected account persistence`
+  * `GmsCore support`
+  * `Spoof features`
+</details>
+
+<details>
+<summary><b>3. Instagram</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=instagram)
 
@@ -70,7 +88,7 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (58):**
+* **Applied Patches (59):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -79,6 +97,7 @@
   * `Custom sharing domain`
   * `Customise story ring size`
   * `Customise story timestamp`
+  * `Customize navigation bar`
   * `Disable Reels scrolling`
   * `Disable ads`
   * `Disable analytics`
@@ -135,13 +154,13 @@
 </details>
 
 <details>
-<summary><b>3. Pinterest</b></summary>
+<summary><b>4. Pinterest</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=pinterest)
 
 * **App Version:** `14.34.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, browzomje/browzomje-patches`
-* **Patches Version:** `1.41.0, 1.10.0`
+* **Patches Version:** `1.43.0, 1.10.0`
 
 * **Applied Patches (29):**
   * `Copy direct link`
@@ -176,37 +195,21 @@
 </details>
 
 <details>
-<summary><b>4. Reddit</b></summary>
+<summary><b>5. Reddit</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.35.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.5.0-dev.2, 1.42.0`
+* **Patches Version:** `1.4.0, 1.43.0`
 
-* **Applied Patches (22):**
+* **Applied Patches (6):**
   * `Colorize comment indent lines`
-  * `Custom font`
   * `Disable home feed auto-refresh`
   * `Disable home screen redirect`
-  * `Disable modern home`
   * `Disable post detail swipe`
-  * `Disable screenshot popup`
-  * `Force system font`
-  * `Hide Ask button`
-  * `Hide Trending shelves`
-  * `Hide ads`
-  * `Hide communities shelf`
   * `Hide community menu badge`
-  * `Hide navigation buttons`
-  * `Hide sidebar components`
-  * `Open links directly`
-  * `Open links externally`
   * `Remove ads and telemetry`
-  * `Remove subreddit dialog`
-  * `Sanitize sharing links`
-  * `Show view count`
-  * `Spoof signature`
 
 * **Excluded Patches (4):**
   * `Disable screenshot banner`
@@ -216,18 +219,19 @@
 </details>
 
 <details>
-<summary><b>5. Twitter</b></summary>
+<summary><b>6. Twitter</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=twitter)
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.5`
+* **Patches Version:** `3.10.0-dev.8`
 
-* **Applied Patches (72):**
+* **Applied Patches (73):**
   * `Add ability to copy media link`
   * `Block redirecting to X Lite`
   * `Block update screen`
+  * `Bring back twitter`
   * `Change app icon`
   * `Change version code`
   * `Clear tracking params`
@@ -300,7 +304,7 @@
 </details>
 
 <details>
-<summary><b>6. X</b></summary>
+<summary><b>7. X</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=x)
 
@@ -347,15 +351,15 @@
 </details>
 
 <details>
-<summary><b>7. YouTube</b></summary>
+<summary><b>8. YouTube</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
 * **App Version:** `21.36.45`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.43.0-dev.3`
+* **Patches Version:** `1.43.0`
 
-* **Applied Patches (79):**
+* **Applied Patches (81):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -368,6 +372,7 @@
   * `Change start page`
   * `Check watch history domain name resolution`
   * `Copy video link`
+  * `Custom branding`
   * `Custom player overlay opacity`
   * `Disable DRC audio`
   * `Disable QUIC protocol`
@@ -384,6 +389,7 @@
   * `Disable video codecs`
   * `Double tap to seek`
   * `Downloads`
+  * `Enable debugging`
   * `Exit fullscreen mode`
   * `Force original audio`
   * `Fullscreen video scale`
@@ -436,22 +442,20 @@
   * `Voice over translation`
   * `Wide search bar`
 
-* **Excluded Patches (3):**
-  * `Custom branding`
+* **Excluded Patches (1):**
   * `Disable Play Store updates`
-  * `Enable debugging`
 </details>
 
 <details>
-<summary><b>8. YouTube-Music</b></summary>
+<summary><b>9. YouTube-Music</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
 * **App Version:** `9.36.50`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.43.0-dev.3`
+* **Patches Version:** `1.43.0`
 
-* **Applied Patches (39):**
+* **Applied Patches (41):**
   * `App refresh rate`
   * `Bypass certificate checks`
   * `Change header`
@@ -459,10 +463,12 @@
   * `Change start page`
   * `Check watch history domain name resolution`
   * `Crossfade`
+  * `Custom branding`
   * `Disable DRC audio`
   * `Disable QUIC protocol`
   * `Disable dislike redirection`
   * `Downloads`
+  * `Enable debugging`
   * `Enable exclusive audio playback`
   * `Enable forced miniplayer`
   * `Enable swipe to dismiss miniplayer`
@@ -492,14 +498,12 @@
   * `Theme`
   * `Third-party lyrics`
 
-* **Excluded Patches (3):**
-  * `Custom branding`
+* **Excluded Patches (1):**
   * `Disable Play Store updates`
-  * `Enable debugging`
 </details>
 
 <details>
-<summary><b>9. YouTube-Music-ReVanced-Extended</b></summary>
+<summary><b>10. YouTube-Music-ReVanced-Extended</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music-revanced-extended)
 
@@ -556,7 +560,7 @@
 </details>
 
 <details>
-<summary><b>10. YouTube-ReVanced-Extended</b></summary>
+<summary><b>11. YouTube-ReVanced-Extended</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-revanced-extended)
 

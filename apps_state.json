@@ -4,13 +4,14 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0-dev.5"
+                "version": "3.10.0-dev.8"
             }
         ],
         "applied": [
             "Add ability to copy media link",
             "Block redirecting to X Lite",
             "Block update screen",
+            "Bring back twitter",
             "Change app icon",
             "Change version code",
             "Clear tracking params",
@@ -149,7 +150,8 @@
             "View DMs anonymously",
             "View live anonymously",
             "View stories anonymously",
-            "View story mentions"
+            "View story mentions",
+            "Customize navigation bar"
         ],
         "excluded": [
             "Change version code"
@@ -248,7 +250,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.43.0-dev.3"
+                "version": "1.43.0"
             }
         ],
         "applied": [
@@ -264,6 +266,7 @@
             "Change start page",
             "Check watch history domain name resolution",
             "Copy video link",
+            "Custom branding",
             "Custom player overlay opacity",
             "Disable DRC audio",
             "Disable QUIC protocol",
@@ -280,6 +283,7 @@
             "Disable video codecs",
             "Double tap to seek",
             "Downloads",
+            "Enable debugging",
             "Exit fullscreen mode",
             "Force original audio",
             "Fullscreen video scale",
@@ -333,9 +337,7 @@
             "Wide search bar"
         ],
         "excluded": [
-            "Disable Play Store updates",
-            "Custom branding",
-            "Enable debugging"
+            "Disable Play Store updates"
         ]
     },
     "YouTube-Music": {
@@ -343,7 +345,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.43.0-dev.3"
+                "version": "1.43.0"
             }
         ],
         "applied": [
@@ -354,10 +356,12 @@
             "Change start page",
             "Check watch history domain name resolution",
             "Crossfade",
+            "Custom branding",
             "Disable DRC audio",
             "Disable QUIC protocol",
             "Disable dislike redirection",
             "Downloads",
+            "Enable debugging",
             "Enable exclusive audio playback",
             "Enable forced miniplayer",
             "Enable swipe to dismiss miniplayer",
@@ -388,9 +392,7 @@
             "Third-party lyrics"
         ],
         "excluded": [
-            "Disable Play Store updates",
-            "Custom branding",
-            "Enable debugging"
+            "Disable Play Store updates"
         ]
     },
     "Reddit": {
@@ -398,36 +400,20 @@
         "bundles": [
             {
                 "repo": "jkennethcarino/adobo",
-                "version": "1.5.0-dev.2"
+                "version": "1.4.0"
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.42.0"
+                "version": "1.43.0"
             }
         ],
         "applied": [
             "Colorize comment indent lines",
-            "Custom font",
             "Disable home feed auto-refresh",
             "Disable home screen redirect",
-            "Disable modern home",
             "Disable post detail swipe",
-            "Disable screenshot popup",
-            "Force system font",
-            "Hide Ask button",
-            "Hide Trending shelves",
-            "Hide ads",
-            "Hide communities shelf",
             "Hide community menu badge",
-            "Hide navigation buttons",
-            "Hide sidebar components",
-            "Open links directly",
-            "Open links externally",
-            "Remove ads and telemetry",
-            "Remove subreddit dialog",
-            "Sanitize sharing links",
-            "Show view count",
-            "Spoof signature"
+            "Remove ads and telemetry"
         ],
         "excluded": [
             "Disable screenshot banner",
@@ -497,7 +483,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.41.0"
+                "version": "1.43.0"
             },
             {
                 "repo": "browzomje/browzomje-patches",
@@ -541,6 +527,10 @@
         "version": "18.0.3.954559732-release-arm64-v8a",
         "bundles": [
             {
+                "repo": "hoo-dles/morphe-patches",
+                "version": "1.44.0"
+            },
+            {
                 "repo": "jasonwu1994/Gboard-patches",
                 "version": "3.10.0"
             }
@@ -568,12 +558,14 @@
             "Floating Web Search",
             "G Logo on Spacebar",
             "Grammar Checker",
+            "Hide app icon",
             "Hyperspeed Typing Animation",
             "Incognito Mode Toggle",
             "Inline Suggestions",
             "Key Shape Selection",
             "Latin Globe Key Ignore Interval",
             "Long-Press Editing Shortcuts",
+            "MicroG integration",
             "Quick Insert",
             "Rounded Keyboard Panel",
             "Settings Homepage Override",
@@ -633,6 +625,22 @@
             "NewX: Show sensitive media",
             "NewX: Unlock color customization",
             "NewX: Unlock downloads"
+        ],
+        "excluded": []
+    },
+    "Google-Photos": {
+        "version": "7.92.0.977185651",
+        "bundles": [
+            {
+                "repo": "RookieEnough/De-Vanced",
+                "version": "1.4.2"
+            }
+        ],
+        "applied": [
+            "Enable DCIM folders backup control",
+            "Fix selected account persistence",
+            "GmsCore support",
+            "Spoof features"
         ],
         "excluded": []
     }
