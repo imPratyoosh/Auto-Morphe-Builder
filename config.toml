@@ -27,7 +27,7 @@ patcher-args = "-e 'Settings for YouTube Music' -OrvxSettingsLabel='Settings' -e
 [YouTube]
 enabled = true
 brand = "Morphe"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 arch = "arm64-v8a"
 version = "exp"
 patcher-args = "-e 'Custom branding' -OcustomName='YouTube' -OappIcon='original'"
