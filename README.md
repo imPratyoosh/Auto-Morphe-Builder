@@ -16,9 +16,9 @@
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
 * **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
-* **Patches Version:** `1.44.0, 3.10.0`
+* **Patches Version:** `1.44.1, 3.11.0-dev.2`
 
-* **Applied Patches (42):**
+* **Applied Patches (43):**
   * `AI Writing Tools`
   * `Access Points menu style`
   * `Add Gboard Signature Bypass`
@@ -29,6 +29,7 @@
   * `Clipboard Enhancements`
   * `Close Proactive Suggestions`
   * `Custom Symbols`
+  * `Custom Theme`
   * `Developer options`
   * `Emojis, stickers & GIFs Tab Order`
   * `Enable Inline Autofill Suggestions`

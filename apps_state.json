@@ -528,11 +528,11 @@
         "bundles": [
             {
                 "repo": "hoo-dles/morphe-patches",
-                "version": "1.44.0"
+                "version": "1.44.1"
             },
             {
                 "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.10.0"
+                "version": "3.11.0-dev.2"
             }
         ],
         "applied": [
@@ -546,6 +546,7 @@
             "Clipboard Enhancements",
             "Close Proactive Suggestions",
             "Custom Symbols",
+            "Custom Theme",
             "Developer options",
             "Emojis, stickers & GIFs Tab Order",
             "Enable Inline Autofill Suggestions",
