@@ -98,7 +98,7 @@ changelog-keyword = ["Gboard"]
 patcher-args = "-e 'Package Rename' -Oapp_display_name='Gboard Mod'"
 
 [Gboard.patches]
-"github:jasonwu1994/Gboard-patches" = []
+"github:jasonwu1994/Gboard-patches" = { version = "dev" }
 "github:hoo-dles/morphe-patches" = { version = "latest", include = ["Hide app icon"] }
 
 [Pinterest]
