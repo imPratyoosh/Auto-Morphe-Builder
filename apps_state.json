@@ -401,7 +401,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.43.0"
+                "version": "1.44.0-dev.9"
             },
             {
                 "repo": "jkennethcarino/adobo",
@@ -409,12 +409,29 @@
             }
         ],
         "applied": [
+            "App icon",
             "Colorize comment indent lines",
+            "Custom font",
             "Disable home feed auto-refresh",
             "Disable home screen redirect",
+            "Disable modern home",
             "Disable post detail swipe",
+            "Disable screenshot popup",
+            "Force system font",
+            "Hide Ask button",
+            "Hide Trending shelves",
+            "Hide ads",
+            "Hide communities shelf",
             "Hide community menu badge",
-            "Remove ads and telemetry"
+            "Hide navigation buttons",
+            "Hide sidebar components",
+            "Open links directly",
+            "Open links externally",
+            "Remove ads and telemetry",
+            "Remove subreddit dialog",
+            "Sanitize sharing links",
+            "Show view count",
+            "Spoof signature"
         ],
         "excluded": [
             "Disable screenshot banner",
@@ -483,12 +500,12 @@
         "version": "14.34.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.43.0"
-            },
-            {
                 "repo": "browzomje/browzomje-patches",
                 "version": "1.10.0"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.43.0"
             }
         ],
         "applied": [
@@ -528,12 +545,12 @@
         "version": "18.0.3.954559732-release-arm64-v8a",
         "bundles": [
             {
-                "repo": "hoo-dles/morphe-patches",
-                "version": "1.44.1"
-            },
-            {
                 "repo": "jasonwu1994/Gboard-patches",
                 "version": "3.11.0-dev.2"
+            },
+            {
+                "repo": "hoo-dles/morphe-patches",
+                "version": "1.44.1"
             }
         ],
         "applied": [

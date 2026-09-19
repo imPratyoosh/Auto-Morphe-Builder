@@ -15,8 +15,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
-* **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
-* **Patches Version:** `1.44.1, 3.11.0-dev.2`
+* **Patch Bundles:** `jasonwu1994/Gboard-patches, hoo-dles/morphe-patches`
+* **Patches Version:** `3.11.0-dev.2, 1.44.1`
 
 * **Applied Patches (43):**
   * `AI Writing Tools`
@@ -160,8 +160,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=pinterest)
 
 * **App Version:** `14.34.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, browzomje/browzomje-patches`
-* **Patches Version:** `1.43.0, 1.10.0`
+* **Patch Bundles:** `browzomje/browzomje-patches, MorpheApp/morphe-patches`
+* **Patches Version:** `1.10.0, 1.43.0`
 
 * **Applied Patches (29):**
   * `Copy direct link`
@@ -202,15 +202,32 @@
 
 * **App Version:** `2026.38.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.43.0, 1.5.0`
+* **Patches Version:** `1.44.0-dev.9, 1.5.0`
 
-* **Applied Patches (6):**
+* **Applied Patches (23):**
+  * `App icon`
   * `Colorize comment indent lines`
+  * `Custom font`
   * `Disable home feed auto-refresh`
   * `Disable home screen redirect`
+  * `Disable modern home`
   * `Disable post detail swipe`
+  * `Disable screenshot popup`
+  * `Force system font`
+  * `Hide Ask button`
+  * `Hide Trending shelves`
+  * `Hide ads`
+  * `Hide communities shelf`
   * `Hide community menu badge`
+  * `Hide navigation buttons`
+  * `Hide sidebar components`
+  * `Open links directly`
+  * `Open links externally`
   * `Remove ads and telemetry`
+  * `Remove subreddit dialog`
+  * `Sanitize sharing links`
+  * `Show view count`
+  * `Spoof signature`
 
 * **Excluded Patches (4):**
   * `Disable screenshot banner`
