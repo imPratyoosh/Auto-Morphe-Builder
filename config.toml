@@ -56,7 +56,7 @@ patcher-args = "-e 'Colorize comment indent lines' -OindentLineColors1='#0066FF'
 
 [Reddit.patches]
 "github:MorpheApp/morphe-patches" = []
-"github:jkennethcarino/adobo" = { version = "latest", include = ["Disable home feed auto-refresh", "Disable post detail swipe"], exclude = ["Hide post view counts", "Disable screenshot banner", "Open external links directly", "Sanitize share links"] }
+"github:jkennethcarino/adobo" = { version = "dev", include = ["Disable home feed auto-refresh", "Disable post detail swipe"], exclude = ["Hide post view counts", "Disable screenshot banner", "Open external links directly", "Sanitize share links"] }
 
 [Twitter]
 enabled = true
