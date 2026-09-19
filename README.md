@@ -200,9 +200,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
-* **App Version:** `2026.35.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.4.0, 1.43.0`
+* **App Version:** `2026.38.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.43.0, 1.5.0`
 
 * **Applied Patches (6):**
   * `Colorize comment indent lines`

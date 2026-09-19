@@ -397,15 +397,15 @@
         ]
     },
     "Reddit": {
-        "version": "2026.35.0",
+        "version": "2026.38.0",
         "bundles": [
-            {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.4.0"
-            },
             {
                 "repo": "MorpheApp/morphe-patches",
                 "version": "1.43.0"
+            },
+            {
+                "repo": "jkennethcarino/adobo",
+                "version": "1.5.0"
             }
         ],
         "applied": [
