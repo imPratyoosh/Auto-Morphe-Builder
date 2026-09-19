@@ -158,11 +158,11 @@
         ]
     },
     "YouTube-ReVanced-Extended": {
-        "version": "21.07.247",
+        "version": "21.13.164",
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.0-dev.6"
+                "version": "4.3.0-dev.7"
             }
         ],
         "applied": [
@@ -214,6 +214,7 @@
             "Playback in feeds",
             "Player components",
             "PoToken provider",
+            "Remember livestream playback position",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
             "Return YouTube Dislike",
@@ -427,7 +428,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.0-dev.6"
+                "version": "4.3.0-dev.7"
             }
         ],
         "applied": [

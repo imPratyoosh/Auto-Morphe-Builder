@@ -510,7 +510,7 @@
 
 * **App Version:** `9.15.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.6`
+* **Patches Version:** `4.3.0-dev.7`
 
 * **Applied Patches (41):**
   * `App refresh rate`
@@ -565,11 +565,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-revanced-extended)
 
-* **App Version:** `21.07.247`
+* **App Version:** `21.13.164`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.6`
+* **Patches Version:** `4.3.0-dev.7`
 
-* **Applied Patches (73):**
+* **Applied Patches (74):**
   * `Alternative thumbnails`
   * `Ambient mode control`
   * `App refresh rate`
@@ -620,6 +620,7 @@
   * `Player components`
   * `PoToken provider`
   * `Reload video`
+  * `Remember livestream playback position`
   * `Remove background playback restrictions`
   * `Remove viewer discretion dialog`
   * `Return YouTube Dislike`
