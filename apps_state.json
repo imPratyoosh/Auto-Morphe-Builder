@@ -247,11 +247,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.36.45",
+        "version": "21.38.123",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.43.0"
+                "version": "1.44.0"
             }
         ],
         "applied": [
@@ -265,6 +265,7 @@
             "Change form factor",
             "Change header",
             "Change start page",
+            "Channel search",
             "Check watch history domain name resolution",
             "Copy video link",
             "Custom branding",
@@ -286,6 +287,7 @@
             "Downloads",
             "Enable debugging",
             "Exit fullscreen mode",
+            "Force fullscreen landscape",
             "Force original audio",
             "Fullscreen video scale",
             "GmsCore support",
@@ -342,11 +344,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.36.50",
+        "version": "9.37.54",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.43.0"
+                "version": "1.44.0"
             }
         ],
         "applied": [
@@ -401,11 +403,11 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.44.0-dev.9"
+                "version": "1.44.0"
             },
             {
                 "repo": "jkennethcarino/adobo",
-                "version": "1.5.0"
+                "version": "1.6.0-dev.1"
             }
         ],
         "applied": [
@@ -431,7 +433,8 @@
             "Remove subreddit dialog",
             "Sanitize sharing links",
             "Show view count",
-            "Spoof signature"
+            "Spoof signature",
+            "Start as guest"
         ],
         "excluded": [
             "Disable screenshot banner",
@@ -545,12 +548,12 @@
         "version": "18.0.3.954559732-release-arm64-v8a",
         "bundles": [
             {
-                "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.11.0-dev.2"
-            },
-            {
                 "repo": "hoo-dles/morphe-patches",
                 "version": "1.44.1"
+            },
+            {
+                "repo": "jasonwu1994/Gboard-patches",
+                "version": "3.11.0-dev.3"
             }
         ],
         "applied": [
@@ -590,6 +593,7 @@
             "Settings Homepage Override",
             "Simple Calculator",
             "Swipeable Custom Top Row",
+            "Toolbar Editing Buttons",
             "Top Toolbar Item Count",
             "Use Bluetooth Microphone",
             "Web Clipboard",

@@ -15,10 +15,10 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
-* **Patch Bundles:** `jasonwu1994/Gboard-patches, hoo-dles/morphe-patches`
-* **Patches Version:** `3.11.0-dev.2, 1.44.1`
+* **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
+* **Patches Version:** `1.44.1, 3.11.0-dev.3`
 
-* **Applied Patches (43):**
+* **Applied Patches (44):**
   * `AI Writing Tools`
   * `Access Points menu style`
   * `Add Gboard Signature Bypass`
@@ -56,6 +56,7 @@
   * `Settings Homepage Override`
   * `Simple Calculator`
   * `Swipeable Custom Top Row`
+  * `Toolbar Editing Buttons`
   * `Top Toolbar Item Count`
   * `Use Bluetooth Microphone`
   * `Web Clipboard`
@@ -202,9 +203,9 @@
 
 * **App Version:** `2026.38.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.44.0-dev.9, 1.5.0`
+* **Patches Version:** `1.44.0, 1.6.0-dev.1`
 
-* **Applied Patches (23):**
+* **Applied Patches (24):**
   * `App icon`
   * `Colorize comment indent lines`
   * `Custom font`
@@ -228,6 +229,7 @@
   * `Sanitize sharing links`
   * `Show view count`
   * `Spoof signature`
+  * `Start as guest`
 
 * **Excluded Patches (4):**
   * `Disable screenshot banner`
@@ -373,11 +375,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.36.45`
+* **App Version:** `21.38.123`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.43.0`
+* **Patches Version:** `1.44.0`
 
-* **Applied Patches (81):**
+* **Applied Patches (83):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -388,6 +390,7 @@
   * `Change form factor`
   * `Change header`
   * `Change start page`
+  * `Channel search`
   * `Check watch history domain name resolution`
   * `Copy video link`
   * `Custom branding`
@@ -409,6 +412,7 @@
   * `Downloads`
   * `Enable debugging`
   * `Exit fullscreen mode`
+  * `Force fullscreen landscape`
   * `Force original audio`
   * `Fullscreen video scale`
   * `GmsCore support`
@@ -469,9 +473,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `9.36.50`
+* **App Version:** `9.37.54`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.43.0`
+* **Patches Version:** `1.44.0`
 
 * **Applied Patches (41):**
   * `App refresh rate`
