@@ -16,7 +16,7 @@
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
 * **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
-* **Patches Version:** `1.44.1, 3.11.0-dev.3`
+* **Patches Version:** `1.44.1, 3.11.0`
 
 * **Applied Patches (44):**
   * `AI Writing Tools`
@@ -203,7 +203,7 @@
 
 * **App Version:** `2026.38.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.44.0, 1.6.0-dev.1`
+* **Patches Version:** `1.45.0-dev.1, 1.6.0-dev.1`
 
 * **Applied Patches (24):**
   * `App icon`
