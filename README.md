@@ -202,8 +202,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.38.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.45.0-dev.14, 1.6.0-dev.1`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.6.0-dev.1, 1.45.0-dev.17`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -531,9 +531,9 @@
 
 * **App Version:** `9.15.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.7`
+* **Patches Version:** `4.3.0-dev.8`
 
-* **Applied Patches (41):**
+* **Applied Patches (42):**
   * `App refresh rate`
   * `Bitrate default value`
   * `Bypass image region restrictions`
@@ -546,6 +546,7 @@
   * `Disable dislike redirection`
   * `Disable forced auto captions`
   * `Disable music video in album`
+  * `Downloads`
   * `Enable landscape mode`
   * `Flyout menu components`
   * `Force original audio`
@@ -588,7 +589,7 @@
 
 * **App Version:** `21.13.164`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.7`
+* **Patches Version:** `4.3.0-dev.8`
 
 * **Applied Patches (74):**
   * `Alternative thumbnails`
