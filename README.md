@@ -15,10 +15,10 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
-* **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
-* **Patches Version:** `1.44.1, 3.11.0`
+* **Patch Bundles:** `jasonwu1994/Gboard-patches, hoo-dles/morphe-patches`
+* **Patches Version:** `3.12.0-dev.5, 1.44.1`
 
-* **Applied Patches (44):**
+* **Applied Patches (45):**
   * `AI Writing Tools`
   * `Access Points menu style`
   * `Add Gboard Signature Bypass`
@@ -40,6 +40,7 @@
   * `English QWERTY Up-Flick Uppercase`
   * `FTP Server`
   * `Floating Web Search`
+  * `Frosted Glass`
   * `G Logo on Spacebar`
   * `Grammar Checker`
   * `Hide app icon`
@@ -203,7 +204,7 @@
 
 * **App Version:** `2026.38.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.1, 1.45.0-dev.17`
+* **Patches Version:** `1.6.0-dev.3, 1.45.0-dev.18`
 
 * **Applied Patches (24):**
   * `App icon`

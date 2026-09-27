@@ -403,11 +403,11 @@
         "bundles": [
             {
                 "repo": "jkennethcarino/adobo",
-                "version": "1.6.0-dev.1"
+                "version": "1.6.0-dev.3"
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0-dev.17"
+                "version": "1.45.0-dev.18"
             }
         ],
         "applied": [
@@ -549,12 +549,12 @@
         "version": "18.0.3.954559732-release-arm64-v8a",
         "bundles": [
             {
-                "repo": "hoo-dles/morphe-patches",
-                "version": "1.44.1"
+                "repo": "jasonwu1994/Gboard-patches",
+                "version": "3.12.0-dev.5"
             },
             {
-                "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.11.0"
+                "repo": "hoo-dles/morphe-patches",
+                "version": "1.44.1"
             }
         ],
         "applied": [
@@ -579,6 +579,7 @@
             "English QWERTY Up-Flick Uppercase",
             "FTP Server",
             "Floating Web Search",
+            "Frosted Glass",
             "G Logo on Spacebar",
             "Grammar Checker",
             "Hide app icon",
