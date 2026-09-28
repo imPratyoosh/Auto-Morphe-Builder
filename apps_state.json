@@ -162,7 +162,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.0-dev.8"
+                "version": "4.3.1-dev.1"
             }
         ],
         "applied": [
@@ -402,12 +402,12 @@
         "version": "2026.38.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.6.0-dev.3"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.45.0-dev.19"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0-dev.18"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.6.0-dev.3"
             }
         ],
         "applied": [
@@ -448,7 +448,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.0-dev.8"
+                "version": "4.3.1-dev.1"
             }
         ],
         "applied": [

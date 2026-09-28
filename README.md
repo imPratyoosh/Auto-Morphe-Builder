@@ -203,8 +203,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.38.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.3, 1.45.0-dev.18`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.45.0-dev.19, 1.6.0-dev.3`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -532,7 +532,7 @@
 
 * **App Version:** `9.15.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.8`
+* **Patches Version:** `4.3.1-dev.1`
 
 * **Applied Patches (42):**
   * `App refresh rate`
@@ -590,7 +590,7 @@
 
 * **App Version:** `21.13.164`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.0-dev.8`
+* **Patches Version:** `4.3.1-dev.1`
 
 * **Applied Patches (74):**
   * `Alternative thumbnails`
