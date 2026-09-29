@@ -402,12 +402,12 @@
         "version": "2026.38.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0-dev.19"
-            },
-            {
                 "repo": "jkennethcarino/adobo",
                 "version": "1.6.0-dev.3"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.45.0-dev.20"
             }
         ],
         "applied": [
