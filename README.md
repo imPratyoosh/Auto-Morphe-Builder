@@ -91,12 +91,13 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (59):**
+* **Applied Patches (62):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
   * `Clone`
   * `Copy comment`
+  * `Custom font`
   * `Custom sharing domain`
   * `Customise story ring size`
   * `Customise story timestamp`
@@ -120,7 +121,9 @@
   * `Download voice message`
   * `External downloader`
   * `Filter stories`
+  * `Focus Lock`
   * `Friendship status indicator`
+  * `Hide Reels follow button`
   * `Hide group creation button on sharesheet`
   * `Hide navigation buttons`
   * `Hide notes tray`
@@ -204,7 +207,7 @@
 
 * **App Version:** `2026.38.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.3, 1.45.0-dev.20`
+* **Patches Version:** `1.6.0-dev.3, 1.45.0-dev.21`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -246,7 +249,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.8`
+* **Patches Version:** `3.10.0-dev.9`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
