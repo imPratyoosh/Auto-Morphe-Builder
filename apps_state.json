@@ -405,12 +405,12 @@
         "version": "2026.38.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.6.0-dev.3"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.45.0-dev.23"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0-dev.21"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.6.0-dev.3"
             }
         ],
         "applied": [
