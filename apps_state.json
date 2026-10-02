@@ -250,11 +250,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.38.123",
+        "version": "21.39.522",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.44.0"
+                "version": "1.45.0"
             }
         ],
         "applied": [
@@ -276,6 +276,7 @@
             "Disable DRC audio",
             "Disable QUIC protocol",
             "Disable Shorts resuming on startup",
+            "Disable auto feed refresh",
             "Disable double tap actions",
             "Disable fullscreen gestures",
             "Disable haptic feedback",
@@ -305,6 +306,7 @@
             "Hide player overlay buttons",
             "Hide related video overlay",
             "Hide related videos",
+            "Hide status bar",
             "Hide timestamp",
             "Hide video action buttons",
             "Loop video",
@@ -318,7 +320,9 @@
             "Open system share sheet",
             "Open videos fullscreen",
             "Override YouTube Music buttons",
+            "Picture-in-picture button",
             "Play all",
+            "Playback buffer",
             "Playback in feeds",
             "Playback speed",
             "PoToken provider",
@@ -326,6 +330,7 @@
             "Remember live stream playback position",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
+            "Restore original titles",
             "Return YouTube Dislike",
             "Sanitize sharing links",
             "Save to Watch later",
@@ -340,18 +345,20 @@
             "Theme",
             "Video quality",
             "Voice over translation",
-            "Wide search bar"
+            "Wide search bar",
+            "Shorts icon style",
+            "Player icon style"
         ],
         "excluded": [
             "Disable Play Store updates"
         ]
     },
     "YouTube-Music": {
-        "version": "9.37.54",
+        "version": "9.38.51",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.44.0"
+                "version": "1.45.0"
             }
         ],
         "applied": [
@@ -372,6 +379,7 @@
             "Enable forced miniplayer",
             "Enable swipe to dismiss miniplayer",
             "Force original audio",
+            "Force portrait orientation",
             "GmsCore support",
             "Hide ads",
             "Hide buttons",
@@ -379,9 +387,12 @@
             "Hide flyout menu components",
             "Hide layout components",
             "Hide music action buttons",
+            "Jam queue sharing",
+            "Media notification controls",
             "Miniplayer previous and next buttons",
             "Navigation bar",
             "Play albums songs",
+            "Playback speed",
             "PoToken provider",
             "Remember repeat state",
             "Remember shuffle state",
@@ -405,12 +416,12 @@
         "version": "2026.38.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0-dev.23"
-            },
-            {
                 "repo": "jkennethcarino/adobo",
                 "version": "1.6.0-dev.3"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.45.0"
             }
         ],
         "applied": [

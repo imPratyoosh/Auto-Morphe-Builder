@@ -206,8 +206,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.38.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.45.0-dev.23, 1.6.0-dev.3`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.6.0-dev.3, 1.45.0`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -379,11 +379,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.38.123`
+* **App Version:** `21.39.522`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.44.0`
+* **Patches Version:** `1.45.0`
 
-* **Applied Patches (83):**
+* **Applied Patches (90):**
   * `Add to queue`
   * `Alternative thumbnails`
   * `Ambient mode`
@@ -402,6 +402,7 @@
   * `Disable DRC audio`
   * `Disable QUIC protocol`
   * `Disable Shorts resuming on startup`
+  * `Disable auto feed refresh`
   * `Disable double tap actions`
   * `Disable fullscreen gestures`
   * `Disable haptic feedback`
@@ -431,6 +432,7 @@
   * `Hide player overlay buttons`
   * `Hide related video overlay`
   * `Hide related videos`
+  * `Hide status bar`
   * `Hide timestamp`
   * `Hide video action buttons`
   * `Loop video`
@@ -444,20 +446,25 @@
   * `Open system share sheet`
   * `Open videos fullscreen`
   * `Override YouTube Music buttons`
+  * `Picture-in-picture button`
   * `Play all`
+  * `Playback buffer`
   * `Playback in feeds`
   * `Playback speed`
+  * `Player icon style`
   * `PoToken provider`
   * `Reload video`
   * `Remember live stream playback position`
   * `Remove background playback restrictions`
   * `Remove viewer discretion dialog`
+  * `Restore original titles`
   * `Return YouTube Dislike`
   * `Sanitize sharing links`
   * `Save to Watch later`
   * `Seekbar`
   * `Settings menu filter`
   * `Shorts autoplay`
+  * `Shorts icon style`
   * `SponsorBlock`
   * `Spoof app version`
   * `Spoof device dimensions`
@@ -477,11 +484,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `9.37.54`
+* **App Version:** `9.38.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.44.0`
+* **Patches Version:** `1.45.0`
 
-* **Applied Patches (41):**
+* **Applied Patches (45):**
   * `App refresh rate`
   * `Bypass certificate checks`
   * `Change header`
@@ -499,6 +506,7 @@
   * `Enable forced miniplayer`
   * `Enable swipe to dismiss miniplayer`
   * `Force original audio`
+  * `Force portrait orientation`
   * `GmsCore support`
   * `Hide ads`
   * `Hide buttons`
@@ -506,9 +514,12 @@
   * `Hide flyout menu components`
   * `Hide layout components`
   * `Hide music action buttons`
+  * `Jam queue sharing`
+  * `Media notification controls`
   * `Miniplayer previous and next buttons`
   * `Navigation bar`
   * `Play albums songs`
+  * `Playback speed`
   * `PoToken provider`
   * `Remember repeat state`
   * `Remember shuffle state`
