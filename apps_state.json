@@ -421,7 +421,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0"
+                "version": "1.46.0-dev.1"
             }
         ],
         "applied": [
