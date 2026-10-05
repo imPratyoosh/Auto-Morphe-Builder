@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0-dev.9"
+                "version": "3.10.0-dev.11"
             }
         ],
         "applied": [
@@ -154,7 +154,9 @@
             "Customize navigation bar",
             "Custom font",
             "Focus Lock",
-            "Hide Reels follow button"
+            "Hide Reels follow button",
+            "Inbox lock",
+            "Save Instants"
         ],
         "excluded": [
             "Change version code"
@@ -421,7 +423,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.46.0-dev.2"
+                "version": "1.46.0-dev.7"
             }
         ],
         "applied": [
@@ -563,12 +565,12 @@
         "version": "18.0.3.954559732-release-arm64-v8a",
         "bundles": [
             {
-                "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.12.0-dev.5"
+                "repo": "hoo-dles/morphe-patches",
+                "version": "1.47.0"
             },
             {
-                "repo": "hoo-dles/morphe-patches",
-                "version": "1.44.1"
+                "repo": "jasonwu1994/Gboard-patches",
+                "version": "3.12.0"
             }
         ],
         "applied": [

@@ -15,8 +15,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
-* **Patch Bundles:** `jasonwu1994/Gboard-patches, hoo-dles/morphe-patches`
-* **Patches Version:** `3.12.0-dev.5, 1.44.1`
+* **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
+* **Patches Version:** `1.47.0, 3.12.0`
 
 * **Applied Patches (45):**
   * `AI Writing Tools`
@@ -91,7 +91,7 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (62):**
+* **Applied Patches (64):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -131,6 +131,7 @@
   * `Hide stories tray`
   * `Hide suggested content`
   * `Improve image viewing`
+  * `Inbox lock`
   * `Limit feed to following profiles`
   * `Loop story`
   * `Make ephemeral media permanent`
@@ -142,6 +143,7 @@
   * `Remove build expired popup`
   * `Remove empty bottom space`
   * `Sanitize share links`
+  * `Save Instants`
   * `Save deleted messages`
   * `Save media comment`
   * `Stories audio autoplay`
@@ -207,7 +209,7 @@
 
 * **App Version:** `2026.38.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.4, 1.46.0-dev.2`
+* **Patches Version:** `1.6.0-dev.4, 1.46.0-dev.7`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -249,7 +251,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.9`
+* **Patches Version:** `3.10.0-dev.11`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
