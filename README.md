@@ -209,7 +209,7 @@
 
 * **App Version:** `2026.38.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.4, 1.46.0-dev.7`
+* **Patches Version:** `1.6.0-dev.4, 1.46.0`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -381,13 +381,12 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.39.522`
+* **App Version:** `21.40.161`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.45.0`
+* **Patches Version:** `1.46.0`
 
-* **Applied Patches (90):**
+* **Applied Patches (92):**
   * `Add to queue`
-  * `Alternative thumbnails`
   * `Ambient mode`
   * `App refresh rate`
   * `Bypass image region restrictions`
@@ -397,10 +396,12 @@
   * `Change header`
   * `Change start page`
   * `Channel search`
+  * `Channel whitelist`
   * `Check watch history domain name resolution`
   * `Copy video link`
   * `Custom branding`
   * `Custom player overlay opacity`
+  * `DeArrow`
   * `Disable DRC audio`
   * `Disable QUIC protocol`
   * `Disable Shorts resuming on startup`
@@ -467,6 +468,7 @@
   * `Settings menu filter`
   * `Shorts autoplay`
   * `Shorts icon style`
+  * `Skip silence`
   * `SponsorBlock`
   * `Spoof app version`
   * `Spoof device dimensions`
@@ -486,11 +488,12 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
-* **App Version:** `9.38.51`
+* **App Version:** `9.40.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.45.0`
+* **Patches Version:** `1.46.0`
 
-* **Applied Patches (45):**
+* **Applied Patches (47):**
+  * `Android Auto`
   * `App refresh rate`
   * `Bypass certificate checks`
   * `Change header`
@@ -531,6 +534,7 @@
   * `Sanitize sharing links`
   * `Scrobbling`
   * `Settings menu filter`
+  * `Skip silence`
   * `SponsorBlock`
   * `Spoof app version`
   * `Spoof video streams`

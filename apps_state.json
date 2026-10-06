@@ -252,16 +252,15 @@
         ]
     },
     "YouTube": {
-        "version": "21.39.522",
+        "version": "21.40.161",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0"
+                "version": "1.46.0"
             }
         ],
         "applied": [
             "Add to queue",
-            "Alternative thumbnails",
             "Ambient mode",
             "App refresh rate",
             "Bypass image region restrictions",
@@ -271,10 +270,12 @@
             "Change header",
             "Change start page",
             "Channel search",
+            "Channel whitelist",
             "Check watch history domain name resolution",
             "Copy video link",
             "Custom branding",
             "Custom player overlay opacity",
+            "DeArrow",
             "Disable DRC audio",
             "Disable QUIC protocol",
             "Disable Shorts resuming on startup",
@@ -339,6 +340,7 @@
             "Seekbar",
             "Settings menu filter",
             "Shorts autoplay",
+            "Skip silence",
             "SponsorBlock",
             "Spoof app version",
             "Spoof device dimensions",
@@ -356,14 +358,15 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.38.51",
+        "version": "9.40.51",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.45.0"
+                "version": "1.46.0"
             }
         ],
         "applied": [
+            "Android Auto",
             "App refresh rate",
             "Bypass certificate checks",
             "Change header",
@@ -404,6 +407,7 @@
             "Sanitize sharing links",
             "Scrobbling",
             "Settings menu filter",
+            "Skip silence",
             "SponsorBlock",
             "Spoof app version",
             "Spoof video streams",
@@ -423,7 +427,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.46.0-dev.7"
+                "version": "1.46.0"
             }
         ],
         "applied": [
