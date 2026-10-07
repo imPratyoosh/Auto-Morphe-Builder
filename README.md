@@ -91,7 +91,7 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (64):**
+* **Applied Patches (66):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -128,6 +128,8 @@
   * `Hide navigation buttons`
   * `Hide notes tray`
   * `Hide reshare button`
+  * `Hide save buttons`
+  * `Hide share button`
   * `Hide stories tray`
   * `Hide suggested content`
   * `Improve image viewing`
@@ -170,35 +172,54 @@
 * **Patch Bundles:** `browzomje/browzomje-patches, MorpheApp/morphe-patches`
 * **Patches Version:** `1.10.0, 1.43.0`
 
-* **Applied Patches (29):**
+* **Applied Patches (48):**
   * `Copy direct link`
   * `Disable AppsFlyer tracking`
   * `Disable Google Engage`
   * `Disable Google Engage worker`
   * `Disable Play Store updates`
   * `Disable ads`
+  * `Disable analytics`
   * `Disable email confirmation dialog`
   * `Disable third-party trackers`
+  * `Disable update nag`
   * `Download board`
   * `Download pin from long press`
+  * `Download pins`
   * `Download video`
+  * `Filter pin menu`
+  * `Hide AI-labeled pins`
   * `Hide Create nav button`
   * `Hide Notifications nav button`
   * `Hide Search nav button`
   * `Hide ad views`
+  * `Hide ads`
+  * `Hide advertising ID`
   * `Hide comments`
   * `Hide greeting header buttons`
+  * `Hide header buttons`
+  * `Hide navigation buttons`
+  * `Hide save toasts`
   * `Hide screenshot share menu`
   * `Hide search history`
+  * `Hide shopping and product pins`
+  * `HushPinterest settings`
   * `Morphe runtime names`
   * `Morphe settings entry`
   * `Morphe settings screen (label)`
   * `Morphe settings screen (manifest)`
   * `Neutralize advertising ID`
+  * `No screenshot share menu`
   * `Open links in the default browser`
+  * `Open links in your browser`
+  * `Original-quality images`
+  * `Quiet email reminders`
+  * `Remove ad tracking permissions`
   * `Sanitize copied links`
   * `Sanitize shared links`
   * `Set pin as wallpaper`
+  * `Strip link tracking`
+  * `System share sheet`
   * `Use the system share sheet`
 </details>
 
@@ -207,9 +228,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
-* **App Version:** `2026.38.0`
+* **App Version:** `2026.40.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.4, 1.46.0`
+* **Patches Version:** `1.6.0-dev.4, 1.47.0-dev.1`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -251,7 +272,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.11`
+* **Patches Version:** `3.10.0-dev.12`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -334,27 +355,30 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=x)
 
-* **App Version:** `12.23.1-prod.01`
+* **App Version:** `12.29.1-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `patches`
+* **Patches Version:** `3.53.1`
 
-* **Applied Patches (35):**
+* **Applied Patches (44):**
+  * `NewX: Classic inline action spacing`
+  * `NewX: Crash logs`
   * `NewX: Custom font`
   * `NewX: Custom sharing domain`
-  * `NewX: Customize default media tab`
-  * `NewX: Customize default reply sorting`
   * `NewX: Customize drawer items`
   * `NewX: Customize inline actions`
-  * `NewX: Customize navigation bar items`
+  * `NewX: Customize media menu items`
+  * `NewX: Customize navigation bar`
+  * `NewX: Customize post menu items`
+  * `NewX: Customize profile tabs`
   * `NewX: Customize timeline tabs`
   * `NewX: Disable automatic timeline refresh`
   * `NewX: Disable blur effects`
   * `NewX: Disable video player scrolling`
-  * `NewX: Dynamic color`
   * `NewX: Feature switch overrides`
   * `NewX: Filter For You by topic`
   * `NewX: Filter posts by keyword`
   * `NewX: Force highest video/audio quality`
+  * `NewX: Gallery profile Photos tab`
   * `NewX: Hide AI-generated posts`
   * `NewX: Hide Discover more`
   * `NewX: Hide Spaces bar`
@@ -367,11 +391,17 @@
   * `NewX: Hide who to follow`
   * `NewX: Inline download button`
   * `NewX: Open canonical URLs`
+  * `NewX: Redirect downloads to chosen folder`
   * `NewX: Remove ads`
+  * `NewX: Restore pinned home tab`
   * `NewX: Restore timeline position`
+  * `NewX: Set default media tab`
+  * `NewX: Set default profile post sorting`
+  * `NewX: Set default reply sorting`
   * `NewX: Share post as image`
   * `NewX: Show poll results`
   * `NewX: Show sensitive media`
+  * `NewX: Theme`
   * `NewX: Unlock color customization`
   * `NewX: Unlock downloads`
 </details>

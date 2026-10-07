@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0-dev.11"
+                "version": "3.10.0-dev.12"
             }
         ],
         "applied": [
@@ -156,7 +156,9 @@
             "Focus Lock",
             "Hide Reels follow button",
             "Inbox lock",
-            "Save Instants"
+            "Save Instants",
+            "Hide save buttons",
+            "Hide share button"
         ],
         "excluded": [
             "Change version code"
@@ -419,7 +421,7 @@
         ]
     },
     "Reddit": {
-        "version": "2026.38.0",
+        "version": "2026.40.0",
         "bundles": [
             {
                 "repo": "jkennethcarino/adobo",
@@ -427,7 +429,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.46.0"
+                "version": "1.47.0-dev.1"
             }
         ],
         "applied": [
@@ -561,7 +563,26 @@
             "Sanitize shared links",
             "Set pin as wallpaper",
             "Use the system share sheet",
-            "Disable Play Store updates"
+            "Disable Play Store updates",
+            "Disable analytics",
+            "Disable update nag",
+            "Download pins",
+            "Filter pin menu",
+            "Hide AI-labeled pins",
+            "Hide ads",
+            "Hide advertising ID",
+            "Hide header buttons",
+            "Hide navigation buttons",
+            "Hide save toasts",
+            "Hide shopping and product pins",
+            "HushPinterest settings",
+            "No screenshot share menu",
+            "Open links in your browser",
+            "Original-quality images",
+            "Quiet email reminders",
+            "Remove ad tracking permissions",
+            "Strip link tracking",
+            "System share sheet"
         ],
         "excluded": []
     },
@@ -627,30 +648,33 @@
         "excluded": []
     },
     "X": {
-        "version": "12.23.1-prod.01",
+        "version": "12.29.1-prod.01",
         "bundles": [
             {
                 "repo": "crimera/piko-newx",
-                "version": "patches"
+                "version": "3.53.1"
             }
         ],
         "applied": [
+            "NewX: Classic inline action spacing",
+            "NewX: Crash logs",
             "NewX: Custom font",
             "NewX: Custom sharing domain",
-            "NewX: Customize default media tab",
-            "NewX: Customize default reply sorting",
             "NewX: Customize drawer items",
             "NewX: Customize inline actions",
-            "NewX: Customize navigation bar items",
+            "NewX: Customize media menu items",
+            "NewX: Customize navigation bar",
+            "NewX: Customize post menu items",
+            "NewX: Customize profile tabs",
             "NewX: Customize timeline tabs",
             "NewX: Disable automatic timeline refresh",
             "NewX: Disable blur effects",
             "NewX: Disable video player scrolling",
-            "NewX: Dynamic color",
             "NewX: Feature switch overrides",
             "NewX: Filter For You by topic",
             "NewX: Filter posts by keyword",
             "NewX: Force highest video/audio quality",
+            "NewX: Gallery profile Photos tab",
             "NewX: Hide AI-generated posts",
             "NewX: Hide Discover more",
             "NewX: Hide Spaces bar",
@@ -663,11 +687,17 @@
             "NewX: Hide who to follow",
             "NewX: Inline download button",
             "NewX: Open canonical URLs",
+            "NewX: Redirect downloads to chosen folder",
             "NewX: Remove ads",
+            "NewX: Restore pinned home tab",
             "NewX: Restore timeline position",
+            "NewX: Set default media tab",
+            "NewX: Set default profile post sorting",
+            "NewX: Set default reply sorting",
             "NewX: Share post as image",
             "NewX: Show poll results",
             "NewX: Show sensitive media",
+            "NewX: Theme",
             "NewX: Unlock color customization",
             "NewX: Unlock downloads"
         ],
