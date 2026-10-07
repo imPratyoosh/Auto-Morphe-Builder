@@ -50,7 +50,7 @@ patcher-args = "-e 'Custom branding' -OcustomName='YouTube Music' -OappIcon='ori
 enabled = true
 brand = "Morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-version = "2026.38.0"
+version = "2026.40.0"
 changelog-keywords = ["Reddit"]
 patcher-args = "-e 'Colorize comment indent lines' -OindentLineColors1='#0066FF' -OindentLineColors2='#FF2E88' -OindentLineColors3='#9B5CFF' -OindentLineColors4='#2DE2E6' -OindentLineColors5='#FF5FA2' -OindentLineColors6='#FF8A3D' -OindentLineColors7='#FFD166' -OindentLineColors8='#3CFF7F' -OisCurrentLevelOnly=true"
 
@@ -69,11 +69,12 @@ arch = "arm64-v8a"
 "github:crimera/piko" = { version = "dev", include = ["Browse tweet object", "Bring back twitter"] }
 
 [X]
-enabled = false
+enabled = true
 brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 version = "auto"
 arch = "arm64-v8a"
+patcher-args = "-e 'Clone' -OappName='X'"
 
 [X.patches]
 "github:crimera/piko-newx" = []
@@ -95,7 +96,7 @@ brand = "Gboard"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/gboard/"
 arch = "arm64-v8a"
 changelog-keyword = ["Gboard"]
-patcher-args = "-e 'Package Rename' -Oapp_display_name='Gboard Mod'"
+patcher-args = "-e 'Package Rename' -Oapp_display_name='KEYBOARD'"
 
 [Gboard.patches]
 "github:jasonwu1994/Gboard-patches" = { version = "dev" }
@@ -108,7 +109,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest/pinterest-one-destina
 arch = "arm64-v8a"
 
 [Pinterest.patches]
-"github:browzomje/browzomje-patches" = { version = "dev" }
+"github:SysAdminDoc/HushPinterest" = { version = "latest", include = ["Hide save toasts", "Original-quality images", "Disable update nag", "Download pins", "Filter pin menu", "Hide AI-labeled pins", "Hide comments", "Hide navigation buttons", "Hide header buttons", "Hide search history", "Hide shopping and product pins", "No screenshot share menu", "Open links in your browser", "Quiet email reminders", "System share sheet"] }
 "github:MorpheApp/morphe-patches" = []
 
 [Google-Photos]
