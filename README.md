@@ -230,7 +230,7 @@
 
 * **App Version:** `2026.40.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.47.0-dev.4, 1.6.0-dev.4`
+* **Patches Version:** `1.47.0-dev.9, 1.6.0-dev.4`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -272,7 +272,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.12`
+* **Patches Version:** `3.10.0-dev.13`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -355,9 +355,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=x)
 
-* **App Version:** `12.29.1-prod.01`
+* **App Version:** `12.30.0-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.53.1`
+* **Patches Version:** `3.54.0`
 
 * **Applied Patches (44):**
   * `NewX: Classic inline action spacing`

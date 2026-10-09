@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0-dev.12"
+                "version": "3.10.0-dev.13"
             }
         ],
         "applied": [
@@ -425,7 +425,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.47.0-dev.4"
+                "version": "1.47.0-dev.9"
             },
             {
                 "repo": "jkennethcarino/adobo",
@@ -648,11 +648,11 @@
         "excluded": []
     },
     "X": {
-        "version": "12.29.1-prod.01",
+        "version": "12.30.0-prod.01",
         "bundles": [
             {
                 "repo": "crimera/piko-newx",
-                "version": "3.53.1"
+                "version": "3.54.0"
             }
         ],
         "applied": [
