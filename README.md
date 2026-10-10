@@ -172,7 +172,7 @@
 * **Patch Bundles:** `browzomje/browzomje-patches, MorpheApp/morphe-patches`
 * **Patches Version:** `1.10.0, 1.43.0`
 
-* **Applied Patches (48):**
+* **Applied Patches (51):**
   * `Copy direct link`
   * `Disable AppsFlyer tracking`
   * `Disable Google Engage`
@@ -203,7 +203,10 @@
   * `Hide screenshot share menu`
   * `Hide search history`
   * `Hide shopping and product pins`
+  * `Hide survey prompts`
+  * `Hide topic suggestions`
   * `HushPinterest settings`
+  * `Long-press download`
   * `Morphe runtime names`
   * `Morphe settings entry`
   * `Morphe settings screen (label)`
@@ -230,7 +233,7 @@
 
 * **App Version:** `2026.40.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.47.0-dev.9, 1.6.0-dev.4`
+* **Patches Version:** `1.47.0-dev.19, 1.6.0-dev.5`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -272,7 +275,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0-dev.13`
+* **Patches Version:** `3.10.0`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -357,7 +360,7 @@
 
 * **App Version:** `12.30.0-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.54.0`
+* **Patches Version:** `3.54.2`
 
 * **Applied Patches (44):**
   * `NewX: Classic inline action spacing`
