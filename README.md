@@ -172,7 +172,7 @@
 * **Patch Bundles:** `browzomje/browzomje-patches, MorpheApp/morphe-patches`
 * **Patches Version:** `1.10.0, 1.43.0`
 
-* **Applied Patches (51):**
+* **Applied Patches (52):**
   * `Copy direct link`
   * `Disable AppsFlyer tracking`
   * `Disable Google Engage`
@@ -188,6 +188,7 @@
   * `Download pins`
   * `Download video`
   * `Filter pin menu`
+  * `Fix push notifications`
   * `Hide AI-labeled pins`
   * `Hide Create nav button`
   * `Hide Notifications nav button`
@@ -233,7 +234,7 @@
 
 * **App Version:** `2026.40.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.47.0-dev.19, 1.6.0-dev.5`
+* **Patches Version:** `1.47.0, 1.6.0-dev.5`
 
 * **Applied Patches (24):**
   * `App icon`
@@ -416,9 +417,10 @@
 
 * **App Version:** `21.40.161`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.46.0`
+* **Patches Version:** `1.47.0`
 
-* **Applied Patches (92):**
+* **Applied Patches (96):**
+  * `AI channel filter`
   * `Add to queue`
   * `Ambient mode`
   * `App refresh rate`
@@ -431,6 +433,7 @@
   * `Channel search`
   * `Channel whitelist`
   * `Check watch history domain name resolution`
+  * `Copy text`
   * `Copy video link`
   * `Custom branding`
   * `Custom player overlay opacity`
@@ -439,6 +442,7 @@
   * `Disable QUIC protocol`
   * `Disable Shorts resuming on startup`
   * `Disable auto feed refresh`
+  * `Disable continue watching prompt`
   * `Disable double tap actions`
   * `Disable fullscreen gestures`
   * `Disable haptic feedback`
@@ -455,6 +459,7 @@
   * `Exit fullscreen mode`
   * `Force fullscreen landscape`
   * `Force original audio`
+  * `Force system font`
   * `Fullscreen video scale`
   * `GmsCore support`
   * `Hide Shorts components`
@@ -523,12 +528,11 @@
 
 * **App Version:** `9.40.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.46.0`
+* **Patches Version:** `1.47.0`
 
 * **Applied Patches (47):**
   * `Android Auto`
   * `App refresh rate`
-  * `Bypass certificate checks`
   * `Change header`
   * `Change miniplayer color`
   * `Change start page`
@@ -539,6 +543,7 @@
   * `Disable QUIC protocol`
   * `Disable dislike redirection`
   * `Downloads`
+  * `Enable audio/video switch`
   * `Enable debugging`
   * `Enable exclusive audio playback`
   * `Enable forced miniplayer`
@@ -548,7 +553,6 @@
   * `GmsCore support`
   * `Hide ads`
   * `Hide buttons`
-  * `Hide filter bar`
   * `Hide flyout menu components`
   * `Hide layout components`
   * `Hide music action buttons`
@@ -558,6 +562,7 @@
   * `Navigation bar`
   * `Play albums songs`
   * `Playback speed`
+  * `Playlist track tap action`
   * `PoToken provider`
   * `Remember repeat state`
   * `Remember shuffle state`
