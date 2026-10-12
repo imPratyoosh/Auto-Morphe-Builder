@@ -233,32 +233,39 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.40.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.47.0, 1.6.0-dev.5`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.3`
 
-* **Applied Patches (24):**
+* **Applied Patches (31):**
   * `App icon`
   * `Colorize comment indent lines`
   * `Custom font`
+  * `Customize post layout`
   * `Disable home feed auto-refresh`
   * `Disable home screen redirect`
   * `Disable modern home`
   * `Disable post detail swipe`
   * `Disable screenshot popup`
+  * `Feed media max height`
   * `Force system font`
+  * `Full width feed media`
   * `Hide Ask button`
   * `Hide Trending shelves`
   * `Hide ads`
   * `Hide communities shelf`
   * `Hide community menu badge`
+  * `Hide media viewer components`
   * `Hide navigation buttons`
   * `Hide sidebar components`
+  * `Keep feed position`
+  * `Media viewer black background`
+  * `Media viewer fade`
   * `Open links directly`
   * `Open links externally`
+  * `Remember collapsed comments`
   * `Remove ads and telemetry`
   * `Remove subreddit dialog`
   * `Sanitize sharing links`
-  * `Show view count`
   * `Spoof signature`
   * `Start as guest`
 
