@@ -428,17 +428,18 @@
         "version": "2026.40.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.6.0-dev.5"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.48.0-dev.6"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.3"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.6.0-dev.5"
             }
         ],
         "applied": [
             "App icon",
             "Colorize comment indent lines",
+            "Copy text",
             "Custom font",
             "Customize post layout",
             "Disable home feed auto-refresh",
@@ -597,7 +598,9 @@
             "Hide survey prompts",
             "Hide topic suggestions",
             "Long-press download",
-            "Fix push notifications"
+            "Fix push notifications",
+            "AMOLED black",
+            "Hide closeup buttons"
         ],
         "excluded": []
     },
@@ -610,7 +613,7 @@
             },
             {
                 "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.12.0"
+                "version": "3.12.1-dev.1"
             }
         ],
         "applied": [

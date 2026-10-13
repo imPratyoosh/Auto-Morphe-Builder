@@ -16,7 +16,7 @@
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
 * **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
-* **Patches Version:** `1.47.0, 3.12.0`
+* **Patches Version:** `1.47.0, 3.12.1-dev.1`
 
 * **Applied Patches (45):**
   * `AI Writing Tools`
@@ -172,7 +172,8 @@
 * **Patch Bundles:** `browzomje/browzomje-patches, MorpheApp/morphe-patches`
 * **Patches Version:** `1.10.0, 1.43.0`
 
-* **Applied Patches (52):**
+* **Applied Patches (54):**
+  * `AMOLED black`
   * `Copy direct link`
   * `Disable AppsFlyer tracking`
   * `Disable Google Engage`
@@ -196,6 +197,7 @@
   * `Hide ad views`
   * `Hide ads`
   * `Hide advertising ID`
+  * `Hide closeup buttons`
   * `Hide comments`
   * `Hide greeting header buttons`
   * `Hide header buttons`
@@ -233,12 +235,13 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.40.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.3`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.48.0-dev.6, 1.6.0-dev.5`
 
-* **Applied Patches (31):**
+* **Applied Patches (32):**
   * `App icon`
   * `Colorize comment indent lines`
+  * `Copy text`
   * `Custom font`
   * `Customize post layout`
   * `Disable home feed auto-refresh`
