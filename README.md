@@ -72,14 +72,22 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=google-photos)
 
-* **App Version:** `7.92.0.977185651`
-* **Patch Bundles:** `RookieEnough/De-Vanced`
-* **Patches Version:** `1.4.2`
+* **App Version:** `7.96.0.993165104`
+* **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
+* **Patches Version:** `1.14.4`
 
-* **Applied Patches (4):**
+* **Applied Patches (12):**
+  * `AMOLED dark theme`
+  * `Account avatar`
+  * `Custom Morphe branding`
+  * `Disable Play Store updates`
   * `Enable DCIM folders backup control`
-  * `Fix selected account persistence`
+  * `Enable Phenotype flag manager`
+  * `Fix memory style font loading`
   * `GmsCore support`
+  * `Google One Bento Badge`
+  * `Local creation downloader`
+  * `Model Readiness Gates`
   * `Spoof features`
 </details>
 
@@ -165,7 +173,119 @@
 </details>
 
 <details>
-<summary><b>4. Pinterest</b></summary>
+<summary><b>4. Instagram-Hush</b></summary>
+
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=instagram-hush)
+
+* **App Version:** `Unknown`
+* **Patch Bundles:** `SysAdminDoc/HushGram`
+* **Patches Version:** `0.0.9`
+
+* **Applied Patches (100):**
+  * `Accent color`
+  * `Allow screenshots`
+  * `Ask before a call`
+  * `Ask before a like`
+  * `Ask before a refresh`
+  * `Back leaves Home`
+  * `Blur the bars around Reels`
+  * `Change the like animation`
+  * `Clean up Reels`
+  * `Clear the media cache`
+  * `Control taps and volume on Reels`
+  * `Copy comment`
+  * `Data saver`
+  * `Default playback quality`
+  * `Disable analytics`
+  * `Don't report screenshots`
+  * `Don't save recent searches`
+  * `Don't send reel watch history`
+  * `Download any reel`
+  * `Download any story`
+  * `Download any video`
+  * `Download voice messages`
+  * `Emoji style`
+  * `Find the reel you came from`
+  * `Full resolution photos`
+  * `Full screen Reels and Home`
+  * `Glass tab bar`
+  * `Group Instagram's notifications`
+  * `Hide Instants`
+  * `Hide Meta AI`
+  * `Hide Notes on profile pictures`
+  * `Hide Reels in the feed`
+  * `Hide ads`
+  * `Hide comments`
+  * `Hide group buttons on the share sheet`
+  * `Hide highlights`
+  * `Hide paid partnership Reels`
+  * `Hide suggested accounts in DMs`
+  * `Hide suggested accounts in Reels`
+  * `Hide suggested people on profiles`
+  * `Hide suggested posts`
+  * `Hide suggested stories`
+  * `Hide that you're typing`
+  * `Hide the Explore grid`
+  * `Hide the Reels tab`
+  * `Hide the Repost button`
+  * `Hide the Share button`
+  * `Hide the Threads button`
+  * `Hide the home feed`
+  * `Hide the notes row`
+  * `Hide your active status`
+  * `HushGram launch screen`
+  * `HushGram settings`
+  * `Install next to Instagram`
+  * `Keep Reels auto scroll on`
+  * `Keep a seek bar on Reels`
+  * `Keep in chat`
+  * `Keep the reel speed`
+  * `Lock your messages`
+  * `Long press to zoom`
+  * `Loop a story`
+  * `Open developer options`
+  * `Open links in external browser`
+  * `Profile posts as a list`
+  * `Pure black dark mode`
+  * `Read messages without the seen receipt`
+  * `Remove build expired popup`
+  * `Remove the advertising ID`
+  * `Remove the empty space at the bottom`
+  * `Restore trust on re-signed builds`
+  * `Resume long videos`
+  * `Rounded post corners`
+  * `Sanitize sharing links`
+  * `Save comment photo`
+  * `Save profile picture`
+  * `Saved on your profile`
+  * `See who a story mentions`
+  * `Show a post's exact time`
+  * `Show a story's exact time`
+  * `Show hidden like counts`
+  * `Show if a profile follows you`
+  * `Show when someone was last active`
+  * `Spoof location`
+  * `Start Home on Following`
+  * `Start feed videos with sound`
+  * `Start on x86 devices`
+  * `Start stories with sound`
+  * `Stop Reels scrolling`
+  * `Stop Story auto-advance`
+  * `Stop background wake-ups`
+  * `Stop swipe to create`
+  * `Stop swiping between tabs`
+  * `Story ring size`
+  * `Tap to play`
+  * `Turn off HDR brightness boosts`
+  * `Turn off double tap to like`
+  * `Upload stories at full quality`
+  * `View DM photos and videos anonymously`
+  * `View live anonymously`
+  * `View stories anonymously`
+</details>
+
+<details>
+<summary><b>5. Pinterest</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=pinterest)
 
@@ -231,13 +351,13 @@
 </details>
 
 <details>
-<summary><b>5. Reddit</b></summary>
+<summary><b>6. Reddit</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
-* **App Version:** `2026.40.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.48.0-dev.7, 1.6.0-dev.5`
+* **App Version:** `2026.41.0`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.7`
 
 * **Applied Patches (32):**
   * `App icon`
@@ -281,7 +401,7 @@
 </details>
 
 <details>
-<summary><b>6. Twitter</b></summary>
+<summary><b>7. Twitter</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=twitter)
 
@@ -366,15 +486,15 @@
 </details>
 
 <details>
-<summary><b>7. X</b></summary>
+<summary><b>8. X</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=x)
 
-* **App Version:** `12.30.0-prod.01`
+* **App Version:** `12.33.1-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.54.2`
+* **Patches Version:** `3.56.1`
 
-* **Applied Patches (44):**
+* **Applied Patches (43):**
   * `NewX: Classic inline action spacing`
   * `NewX: Crash logs`
   * `NewX: Custom font`
@@ -413,7 +533,6 @@
   * `NewX: Set default media tab`
   * `NewX: Set default profile post sorting`
   * `NewX: Set default reply sorting`
-  * `NewX: Share post as image`
   * `NewX: Show poll results`
   * `NewX: Show sensitive media`
   * `NewX: Theme`
@@ -422,7 +541,7 @@
 </details>
 
 <details>
-<summary><b>8. YouTube</b></summary>
+<summary><b>9. YouTube</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
@@ -533,7 +652,7 @@
 </details>
 
 <details>
-<summary><b>9. YouTube-Music</b></summary>
+<summary><b>10. YouTube-Music</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music)
 
@@ -595,11 +714,11 @@
 </details>
 
 <details>
-<summary><b>10. YouTube-Music-ReVanced-Extended</b></summary>
+<summary><b>11. YouTube-Music-ReVanced-Extended</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-music-revanced-extended)
 
-* **App Version:** `9.15.51`
+* **App Version:** `9.40.51`
 * **Patch Bundles:** `anddea/revanced-patches`
 * **Patches Version:** `4.4.0-dev.1`
 
@@ -654,15 +773,15 @@
 </details>
 
 <details>
-<summary><b>11. YouTube-ReVanced-Extended</b></summary>
+<summary><b>12. YouTube-ReVanced-Extended</b></summary>
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube-revanced-extended)
 
-* **App Version:** `21.13.164`
+* **App Version:** `21.39.525`
 * **Patch Bundles:** `anddea/revanced-patches`
 * **Patches Version:** `4.4.0-dev.1`
 
-* **Applied Patches (78):**
+* **Applied Patches (77):**
   * `Ambient mode control`
   * `App refresh rate`
   * `Bypass URL redirects`
@@ -702,7 +821,6 @@
   * `Hide layout components`
   * `Hide player buttons`
   * `Hide player flyout menu`
-  * `Hide shortcuts`
   * `Hook download actions`
   * `Miniplayer`
   * `Navigation bar components`
