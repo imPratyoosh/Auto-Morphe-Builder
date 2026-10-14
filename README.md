@@ -15,10 +15,10 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
-* **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
-* **Patches Version:** `1.47.0, 3.12.1-dev.1`
+* **Patch Bundles:** `jasonwu1994/Gboard-patches, hoo-dles/morphe-patches`
+* **Patches Version:** `3.13.0-dev.1, 1.47.0`
 
-* **Applied Patches (45):**
+* **Applied Patches (46):**
   * `AI Writing Tools`
   * `Access Points menu style`
   * `Add Gboard Signature Bypass`
@@ -56,6 +56,7 @@
   * `Rounded Keyboard Panel`
   * `Settings Homepage Override`
   * `Simple Calculator`
+  * `Swipe Down to Dismiss Keyboard`
   * `Swipeable Custom Top Row`
   * `Toolbar Editing Buttons`
   * `Top Toolbar Item Count`
@@ -236,7 +237,7 @@
 
 * **App Version:** `2026.40.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.48.0-dev.6, 1.6.0-dev.5`
+* **Patches Version:** `1.48.0-dev.7, 1.6.0-dev.5`
 
 * **Applied Patches (32):**
   * `App icon`
@@ -600,9 +601,9 @@
 
 * **App Version:** `9.15.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.1-dev.1`
+* **Patches Version:** `4.4.0-dev.1`
 
-* **Applied Patches (42):**
+* **Applied Patches (43):**
   * `App refresh rate`
   * `Bitrate default value`
   * `Bypass image region restrictions`
@@ -635,6 +636,7 @@
   * `Sanitize sharing links`
   * `Settings for YouTube Music`
   * `Settings menu filter`
+  * `Skip silence`
   * `SponsorBlock`
   * `Spoof app version`
   * `Spoof app version for lyrics`
@@ -658,10 +660,9 @@
 
 * **App Version:** `21.13.164`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.3.1-dev.1`
+* **Patches Version:** `4.4.0-dev.1`
 
-* **Applied Patches (74):**
-  * `Alternative thumbnails`
+* **Applied Patches (78):**
   * `Ambient mode control`
   * `App refresh rate`
   * `Bypass URL redirects`
@@ -674,8 +675,10 @@
   * `Custom Shorts action buttons`
   * `Custom branding for YouTube`
   * `Custom double tap length`
+  * `DeArrow`
   * `Description components`
   * `Disable QUIC protocol`
+  * `Disable auto feed refresh`
   * `Disable forced auto captions`
   * `Disable haptic feedback`
   * `Disable layout updates`
@@ -707,6 +710,7 @@
   * `Open links externally`
   * `Overlay buttons`
   * `Override YouTube Music buttons`
+  * `Playback buffer`
   * `Playback in feeds`
   * `Player components`
   * `PoToken provider`
@@ -714,6 +718,7 @@
   * `Remember livestream playback position`
   * `Remove background playback restrictions`
   * `Remove viewer discretion dialog`
+  * `Restore original titles`
   * `Return YouTube Dislike`
   * `Return YouTube Username`
   * `Sanitize sharing links`
@@ -723,6 +728,7 @@
   * `Settings for YouTube`
   * `Settings menu filter`
   * `Shorts components`
+  * `Skip silence`
   * `Snack bar components`
   * `SponsorBlock`
   * `Spoof app version`

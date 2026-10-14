@@ -169,11 +169,10 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.1-dev.1"
+                "version": "4.4.0-dev.1"
             }
         ],
         "applied": [
-            "Alternative thumbnails",
             "Ambient mode control",
             "App refresh rate",
             "Bypass URL redirects",
@@ -185,8 +184,10 @@
             "Custom DPI",
             "Custom Shorts action buttons",
             "Custom double tap length",
+            "DeArrow",
             "Description components",
             "Disable QUIC protocol",
+            "Disable auto feed refresh",
             "Disable forced auto captions",
             "Disable haptic feedback",
             "Disable layout updates",
@@ -218,12 +219,14 @@
             "Open links externally",
             "Overlay buttons",
             "Override YouTube Music buttons",
+            "Playback buffer",
             "Playback in feeds",
             "Player components",
             "PoToken provider",
             "Remember livestream playback position",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
+            "Restore original titles",
             "Return YouTube Dislike",
             "Return YouTube Username",
             "Sanitize sharing links",
@@ -232,6 +235,7 @@
             "Set transcript cookies",
             "Settings menu filter",
             "Shorts components",
+            "Skip silence",
             "Snack bar components",
             "SponsorBlock",
             "Spoof app version",
@@ -429,7 +433,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.6"
+                "version": "1.48.0-dev.7"
             },
             {
                 "repo": "jkennethcarino/adobo",
@@ -482,7 +486,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.3.1-dev.1"
+                "version": "4.4.0-dev.1"
             }
         ],
         "applied": [
@@ -516,6 +520,7 @@
             "Return YouTube Username",
             "Sanitize sharing links",
             "Settings menu filter",
+            "Skip silence",
             "SponsorBlock",
             "Spoof app version",
             "Spoof app version for lyrics",
@@ -608,12 +613,12 @@
         "version": "18.0.3.954559732-release-arm64-v8a",
         "bundles": [
             {
-                "repo": "hoo-dles/morphe-patches",
-                "version": "1.47.0"
+                "repo": "jasonwu1994/Gboard-patches",
+                "version": "3.13.0-dev.1"
             },
             {
-                "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.12.1-dev.1"
+                "repo": "hoo-dles/morphe-patches",
+                "version": "1.47.0"
             }
         ],
         "applied": [
@@ -653,6 +658,7 @@
             "Rounded Keyboard Panel",
             "Settings Homepage Override",
             "Simple Calculator",
+            "Swipe Down to Dismiss Keyboard",
             "Swipeable Custom Top Row",
             "Toolbar Editing Buttons",
             "Top Toolbar Item Count",
