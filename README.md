@@ -15,8 +15,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
-* **Patch Bundles:** `jasonwu1994/Gboard-patches, hoo-dles/morphe-patches`
-* **Patches Version:** `3.13.0-dev.1, 1.47.0`
+* **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
+* **Patches Version:** `1.47.0, 3.13.0-dev.2`
 
 * **Applied Patches (46):**
   * `AI Writing Tools`
@@ -181,7 +181,7 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (100):**
+* **Applied Patches (104):**
   * `Accent color`
   * `Allow screenshots`
   * `Ask before a call`
@@ -206,10 +206,12 @@
   * `Download voice messages`
   * `Emoji style`
   * `Find the reel you came from`
+  * `Font`
   * `Full resolution photos`
   * `Full screen Reels and Home`
   * `Glass tab bar`
   * `Group Instagram's notifications`
+  * `Hide AI-labeled reels`
   * `Hide Instants`
   * `Hide Meta AI`
   * `Hide Notes on profile pictures`
@@ -260,6 +262,7 @@
   * `Saved on your profile`
   * `See who a story mentions`
   * `Show a post's exact time`
+  * `Show a reel's exact time`
   * `Show a story's exact time`
   * `Show hidden like counts`
   * `Show if a profile follows you`
@@ -275,6 +278,7 @@
   * `Stop swipe to create`
   * `Stop swiping between tabs`
   * `Story ring size`
+  * `Tap a feed video to pause it`
   * `Tap to play`
   * `Turn off HDR brightness boosts`
   * `Turn off double tap to like`
@@ -356,8 +360,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.41.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.7`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.48.0-dev.8, 1.6.0-dev.5`
 
 * **Applied Patches (32):**
   * `App icon`

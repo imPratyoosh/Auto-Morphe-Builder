@@ -431,12 +431,12 @@
         "version": "2026.41.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.6.0-dev.5"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.48.0-dev.8"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.7"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.6.0-dev.5"
             }
         ],
         "applied": [
@@ -612,12 +612,12 @@
         "version": "18.0.3.954559732-release-arm64-v8a",
         "bundles": [
             {
-                "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.13.0-dev.1"
-            },
-            {
                 "repo": "hoo-dles/morphe-patches",
                 "version": "1.47.0"
+            },
+            {
+                "repo": "jasonwu1994/Gboard-patches",
+                "version": "3.13.0-dev.2"
             }
         ],
         "applied": [
@@ -857,7 +857,11 @@
             "View DM photos and videos anonymously",
             "View live anonymously",
             "View stories anonymously",
-            "Install next to Instagram"
+            "Install next to Instagram",
+            "Font",
+            "Hide AI-labeled reels",
+            "Show a reel's exact time",
+            "Tap a feed video to pause it"
         ],
         "excluded": []
     }
