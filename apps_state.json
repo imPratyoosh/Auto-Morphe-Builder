@@ -432,7 +432,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.8"
+                "version": "1.48.0-dev.9"
             },
             {
                 "repo": "jkennethcarino/adobo",
@@ -617,7 +617,7 @@
             },
             {
                 "repo": "jasonwu1994/Gboard-patches",
-                "version": "3.13.0-dev.2"
+                "version": "3.13.0"
             }
         ],
         "applied": [
@@ -726,26 +726,21 @@
         "excluded": []
     },
     "Google-Photos": {
-        "version": "7.96.0.993165104",
+        "version": "7.97.0.997578476",
         "bundles": [
             {
                 "repo": "Akash-Sriram/morphe-google-photos",
-                "version": "1.14.4"
+                "version": "1.15.3"
             }
         ],
         "applied": [
             "AMOLED dark theme",
-            "Account avatar",
             "Custom Morphe branding",
-            "Enable DCIM folders backup control",
-            "Enable Phenotype flag manager",
-            "Fix memory style font loading",
-            "GmsCore support",
-            "Google One Bento Badge",
-            "Local creation downloader",
-            "Model Readiness Gates",
+            "DCIM & backup control",
+            "Media engine & AI fixes",
             "Spoof features",
-            "Disable Play Store updates"
+            "GmsCore support",
+            "Flag manager & Toolkit"
         ],
         "excluded": []
     },

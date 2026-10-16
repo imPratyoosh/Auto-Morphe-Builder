@@ -16,7 +16,7 @@
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
 * **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
-* **Patches Version:** `1.47.0, 3.13.0-dev.2`
+* **Patches Version:** `1.47.0, 3.13.0`
 
 * **Applied Patches (46):**
   * `AI Writing Tools`
@@ -72,22 +72,17 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=google-photos)
 
-* **App Version:** `7.96.0.993165104`
+* **App Version:** `7.97.0.997578476`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.14.4`
+* **Patches Version:** `1.15.3`
 
-* **Applied Patches (12):**
+* **Applied Patches (7):**
   * `AMOLED dark theme`
-  * `Account avatar`
   * `Custom Morphe branding`
-  * `Disable Play Store updates`
-  * `Enable DCIM folders backup control`
-  * `Enable Phenotype flag manager`
-  * `Fix memory style font loading`
+  * `DCIM & backup control`
+  * `Flag manager & Toolkit`
   * `GmsCore support`
-  * `Google One Bento Badge`
-  * `Local creation downloader`
-  * `Model Readiness Gates`
+  * `Media engine & AI fixes`
   * `Spoof features`
 </details>
 
@@ -361,7 +356,7 @@
 
 * **App Version:** `2026.41.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.48.0-dev.8, 1.6.0-dev.5`
+* **Patches Version:** `1.48.0-dev.9, 1.6.0-dev.5`
 
 * **Applied Patches (32):**
   * `App icon`
