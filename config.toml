@@ -33,7 +33,7 @@ version = "exp"
 patcher-args = "-e 'Custom branding' -OcustomName='YouTube' -OappIcon='original'"
 
 [YouTube.patches]
-"github:MorpheApp/morphe-patches" = { version = "latest", exclude = ["Disable play store updates"] }
+"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Disable play store updates"] }
 
 [YouTube-Music]
 enabled = true
