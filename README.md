@@ -74,7 +74,7 @@
 
 * **App Version:** `7.97.0.997578476`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.15.3`
+* **Patches Version:** `1.15.4`
 
 * **Applied Patches (7):**
   * `AMOLED dark theme`
@@ -176,7 +176,7 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (104):**
+* **Applied Patches (105):**
   * `Accent color`
   * `Allow screenshots`
   * `Ask before a call`
@@ -216,6 +216,7 @@
   * `Hide group buttons on the share sheet`
   * `Hide highlights`
   * `Hide paid partnership Reels`
+  * `Hide reels by caption words`
   * `Hide suggested accounts in DMs`
   * `Hide suggested accounts in Reels`
   * `Hide suggested people on profiles`
@@ -355,10 +356,10 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.41.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.48.0-dev.9, 1.6.0-dev.5`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.10`
 
-* **Applied Patches (32):**
+* **Applied Patches (33):**
   * `App icon`
   * `Colorize comment indent lines`
   * `Copy text`
@@ -389,6 +390,7 @@
   * `Remove ads and telemetry`
   * `Remove subreddit dialog`
   * `Sanitize sharing links`
+  * `Show flairs in home feed`
   * `Spoof signature`
   * `Start as guest`
 
@@ -719,7 +721,7 @@
 
 * **App Version:** `9.40.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.4.0-dev.1`
+* **Patches Version:** `4.4.0-dev.2`
 
 * **Applied Patches (43):**
   * `App refresh rate`
@@ -778,9 +780,9 @@
 
 * **App Version:** `21.39.525`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.4.0-dev.1`
+* **Patches Version:** `4.4.0-dev.2`
 
-* **Applied Patches (77):**
+* **Applied Patches (80):**
   * `Ambient mode control`
   * `App refresh rate`
   * `Bypass URL redirects`
@@ -789,6 +791,7 @@
   * `Change player flyout menu toggles`
   * `Change share sheet`
   * `Change start page`
+  * `Copy text`
   * `Custom DPI`
   * `Custom Shorts action buttons`
   * `Custom branding for YouTube`
@@ -827,10 +830,12 @@
   * `Open links externally`
   * `Overlay buttons`
   * `Override YouTube Music buttons`
+  * `Picture-in-picture button`
   * `Playback buffer`
   * `Playback in feeds`
   * `Player components`
   * `PoToken provider`
+  * `Preferred caption language`
   * `Reload video`
   * `Remember livestream playback position`
   * `Remove background playback restrictions`

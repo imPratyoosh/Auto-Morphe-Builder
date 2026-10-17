@@ -169,7 +169,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.4.0-dev.1"
+                "version": "4.4.0-dev.2"
             }
         ],
         "applied": [
@@ -181,6 +181,7 @@
             "Change player flyout menu toggles",
             "Change share sheet",
             "Change start page",
+            "Copy text",
             "Custom DPI",
             "Custom Shorts action buttons",
             "Custom double tap length",
@@ -218,10 +219,12 @@
             "Open links externally",
             "Overlay buttons",
             "Override YouTube Music buttons",
+            "Picture-in-picture button",
             "Playback buffer",
             "Playback in feeds",
             "Player components",
             "PoToken provider",
+            "Preferred caption language",
             "Remember livestream playback position",
             "Remove background playback restrictions",
             "Remove viewer discretion dialog",
@@ -431,12 +434,12 @@
         "version": "2026.41.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.9"
-            },
-            {
                 "repo": "jkennethcarino/adobo",
                 "version": "1.6.0-dev.5"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.48.0-dev.10"
             }
         ],
         "applied": [
@@ -470,6 +473,7 @@
             "Remove ads and telemetry",
             "Remove subreddit dialog",
             "Sanitize sharing links",
+            "Show flairs in home feed",
             "Spoof signature",
             "Start as guest"
         ],
@@ -485,7 +489,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.4.0-dev.1"
+                "version": "4.4.0-dev.2"
             }
         ],
         "applied": [
@@ -730,17 +734,17 @@
         "bundles": [
             {
                 "repo": "Akash-Sriram/morphe-google-photos",
-                "version": "1.15.3"
+                "version": "1.15.4"
             }
         ],
         "applied": [
             "AMOLED dark theme",
             "Custom Morphe branding",
             "DCIM & backup control",
+            "Flag manager & Toolkit",
             "Media engine & AI fixes",
             "Spoof features",
-            "GmsCore support",
-            "Flag manager & Toolkit"
+            "GmsCore support"
         ],
         "excluded": []
     },
@@ -856,7 +860,8 @@
             "Font",
             "Hide AI-labeled reels",
             "Show a reel's exact time",
-            "Tap a feed video to pause it"
+            "Tap a feed video to pause it",
+            "Hide reels by caption words"
         ],
         "excluded": []
     }
