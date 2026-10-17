@@ -491,11 +491,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=x)
 
-* **App Version:** `12.33.1-prod.01`
+* **App Version:** `12.35.0-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.56.1`
+* **Patches Version:** `3.57.1`
 
-* **Applied Patches (43):**
+* **Applied Patches (42):**
   * `NewX: Classic inline action spacing`
   * `NewX: Crash logs`
   * `NewX: Custom font`
@@ -513,7 +513,6 @@
   * `NewX: Feature switch overrides`
   * `NewX: Filter For You by topic`
   * `NewX: Filter posts by keyword`
-  * `NewX: Force highest video/audio quality`
   * `NewX: Gallery profile Photos tab`
   * `NewX: Hide AI-generated posts`
   * `NewX: Hide Discover more`
@@ -546,11 +545,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=youtube)
 
-* **App Version:** `21.40.161`
+* **App Version:** `21.42.241`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.47.0`
+* **Patches Version:** `1.48.0-dev.10`
 
-* **Applied Patches (96):**
+* **Applied Patches (98):**
   * `AI channel filter`
   * `Add to queue`
   * `Ambient mode`
@@ -567,6 +566,7 @@
   * `Copy text`
   * `Copy video link`
   * `Custom branding`
+  * `Custom font`
   * `Custom player overlay opacity`
   * `DeArrow`
   * `Disable DRC audio`
@@ -588,9 +588,9 @@
   * `Downloads`
   * `Enable debugging`
   * `Exit fullscreen mode`
+  * `Feed card layout`
   * `Force fullscreen landscape`
   * `Force original audio`
-  * `Force system font`
   * `Fullscreen video scale`
   * `GmsCore support`
   * `Hide Shorts components`
@@ -634,6 +634,7 @@
   * `Sanitize sharing links`
   * `Save to Watch later`
   * `Seekbar`
+  * `Series tracking`
   * `Settings menu filter`
   * `Shorts autoplay`
   * `Shorts icon style`

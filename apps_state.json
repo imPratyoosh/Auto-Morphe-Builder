@@ -260,11 +260,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.40.161",
+        "version": "21.42.241",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.47.0"
+                "version": "1.48.0-dev.10"
             }
         ],
         "applied": [
@@ -284,6 +284,7 @@
             "Copy text",
             "Copy video link",
             "Custom branding",
+            "Custom font",
             "Custom player overlay opacity",
             "DeArrow",
             "Disable DRC audio",
@@ -305,9 +306,9 @@
             "Downloads",
             "Enable debugging",
             "Exit fullscreen mode",
+            "Feed card layout",
             "Force fullscreen landscape",
             "Force original audio",
-            "Force system font",
             "Fullscreen video scale",
             "GmsCore support",
             "Hide Shorts components",
@@ -350,6 +351,7 @@
             "Sanitize sharing links",
             "Save to Watch later",
             "Seekbar",
+            "Series tracking",
             "Settings menu filter",
             "Shorts autoplay",
             "Skip silence",
@@ -675,11 +677,11 @@
         "excluded": []
     },
     "X": {
-        "version": "12.33.1-prod.01",
+        "version": "12.35.0-prod.01",
         "bundles": [
             {
                 "repo": "crimera/piko-newx",
-                "version": "3.56.1"
+                "version": "3.57.1"
             }
         ],
         "applied": [
@@ -700,7 +702,6 @@
             "NewX: Feature switch overrides",
             "NewX: Filter For You by topic",
             "NewX: Filter posts by keyword",
-            "NewX: Force highest video/audio quality",
             "NewX: Gallery profile Photos tab",
             "NewX: Hide AI-generated posts",
             "NewX: Hide Discover more",
